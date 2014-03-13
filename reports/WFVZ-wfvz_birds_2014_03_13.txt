@@ -1,0 +1,73 @@
+Report for Institution Code WFVZ, Resource wfvz_birds
+Usage stats for February, 2014, generated on 2014/03/13
+
+Number of download events that retrieved data from the resource: 20 (out of 131 download events in this period)
+Total number of records downloaded: 24016 (out of 1275149 records downloaded for all resources in this period)
+Total number of unique records downloaded: 23771
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 19
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-02-13 ; Times: 3
+	Date: 2014-02-14 ; Times: 2
+	Date: 2014-02-17 ; Times: 9
+	Date: 2014-02-19 ; Times: 1
+	Date: 2014-02-20 ; Times: 1
+	Date: 2014-02-21 ; Times: 3
+	Date: 2014-02-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "boulder" ; Times: 2 ; Records each time: 95 
+	Query: "jewett" ; Times: 1 ; Records each time: 30 
+	Query: "Cyanocitta stelleri institutioncode:MVZ OR UMMZ OR CAS OR ROM OR PSM OR FMNH" ; Times: 1 ; Records each time: 644 
+	Query: "Carpodacus mexicanus type:specimen institutioncode:PSM OR UWBM OR UMMZ OR FMNH OR CAS OR MVZ" ; Times: 1 ; Records each time: 58 
+	Query: "Tachycineta bicolor institutioncode:UWBM OR PSM OR UMMZ OR MVZ OR FMNH OR CAS" ; Times: 1 ; Records each time: 285 
+	Query: "Chondestes grammacus type:specimen institutioncode:PSM OR UWBM OR UMMZ OR FMNH OR CAS OR MVZ" ; Times: 1 ; Records each time: 285 
+	Query: "type:specimen specificepithet:mexicanus genus:Carpodacus institutioncode:UMMZ OR MVZ OR CAS OR FMNH OR PSM OR UWBM" ; Times: 1 ; Records each time: 299 
+	Query: "Bubo virginianus type:specimen institutioncode:UMMZ OR FMNH OR CAS OR MVZ" ; Times: 1 ; Records each time: 644 
+	Query: "Picoides pubescens institutioncode:UWBM OR PSM OR UMMZ OR MVZ OR FMNH OR CAS" ; Times: 1 ; Records each time: 285 
+	Query: "Eremophila alpestris institutioncode:UWBM OR PSM OR UMMZ OR MVZ OR FMNH OR CAS" ; Times: 1 ; Records each time: 299 
+	Query: "genus:Branta institutioncode:MVZ OR CAS OR UMMZ OR FMNH OR ROM" ; Times: 1 ; Records each time: 145 
+	Query: "Aves AND asio type:specimen institutioncode:PSM OR UWBM OR UMMZ OR FMNH OR CAS OR MVZ" ; Times: 1 ; Records each time: 30 
+	Query: "Zonotrichia albicollis institutioncode:UWBM OR PSM OR UMMZ OR MVZ OR FMNH OR CAS" ; Times: 1 ; Records each time: 285 
+	Query: "passeridae" ; Times: 1 ; Records each time: 285 
+	Query: "Pooecetes gramineus institutioncode:MVZ OR UMMZ OR CAS OR ROM OR PSM OR FMNH" ; Times: 1 ; Records each time: 95 
+	Query: "specificepithet:iliaca institutioncode:ROM OR UMMZ OR FMNH OR MVZ OR CAS OR PSM" ; Times: 1 ; Records each time: 285 
+	Query: "Aves specificepithet:iliaca institutioncode:MVZ OR CAS OR UMMZ OR FMNH OR PSM OR UWBM" ; Times: 1 ; Records each time: 58 
+	Query: "Falco columbarius type:specimen institutioncode:PSM OR UWBM OR UMMZ OR FMNH OR CAS OR MVZ" ; Times: 1 ; Records each time: 58 
+	Query: "country:Mexico" ; Times: 1 ; Records each time: 299 
+
+Cumulative values for this year:
+
+Number of download events that retrieved data from the resource: 31
+Total number of records downloaded: 20583
+
+Cumulative values since the beginning:
+
+Number of download events that retrieved data from the resource: 65
+Total number of records downloaded: 37743
+
+
+End of report.
+
+
+Brief explanation of each stat:
+
+1) Number of download events that retrieved data from the resource. The amount of times any record from your institution has appeared in a download. The number in parenthesis is how many result sets have been downloaded in total in the network, in the given period. We believe this is helpful to see the proportion of all the download events that have records from a particular institution.
+
+2) Total number of records downloaded. The amount of times any record from your institution has been downloaded. The number in parenthesis is the total amount of records that have been downloaded from the VertNet network in the given period.
+
+3) Total number of unique records downloaded. The number of individual records from your collection that have been downloaded. We believe this is helpful to calculate the proportion of your collection that has been downloaded.
+
+The main difference between (3) and (2) can be better explained with an example: If your collection has 3 records, 'a', 'b' and 'c', and 'a' is downloaded 3 times and 'b' is downloaded once, (2) would be 4, because there have been 4 downloaded records, but (3) would be 2, because only records 'a' and 'b' have been downloaded.
+
+4) Number of different countries. The amount of individual countries that have downloaded data from your institution in the given period.
+
+5) Breakdown of the individual countries, counting how many times they have downloaded records from your institution.
+
+6) Breakdown of dates when queries where made, with the number of downloads each day.
+
+7) Breakdown of query terms. These are the actual queries that were performed and which retrieved data,  from your institution. It also shows the number of times that query has been performed and the number of records pulled from your institution each time.
