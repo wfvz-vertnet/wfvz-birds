@@ -1,0 +1,159 @@
+Report for Institution Code WFVZ, Resource wfvz_birds
+Usage stats for April, 2014, generated on 2014/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 93
+Number of records retrieved in searches: 721
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 11
+	Country: Canada ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 69
+	Country: Unknown ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-04-04 ; Times: 3
+	Date: 2014-04-07 ; Times: 3
+	Date: 2014-04-08 ; Times: 1
+	Date: 2014-04-09 ; Times: 6
+	Date: 2014-04-10 ; Times: 8
+	Date: 2014-04-11 ; Times: 2
+	Date: 2014-04-14 ; Times: 2
+	Date: 2014-04-15 ; Times: 6
+	Date: 2014-04-16 ; Times: 2
+	Date: 2014-04-17 ; Times: 10
+	Date: 2014-04-21 ; Times: 7
+	Date: 2014-04-22 ; Times: 3
+	Date: 2014-04-23 ; Times: 6
+	Date: 2014-04-24 ; Times: 10
+	Date: 2014-04-25 ; Times: 3
+	Date: 2014-04-26 ; Times: 2
+	Date: 2014-04-27 ; Times: 1
+	Date: 2014-04-28 ; Times: 5
+	Date: 2014-04-29 ; Times: 9
+	Date: 2014-04-30 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "mappable:1 distance(location,geopoint(34.37872085343753,-119.14535522460938))<3240" ; Times: 1
+	Query: "Geotrygon" ; Times: 1
+	Query: "snowy owl" ; Times: 1
+	Query: "Anhima cornuta" ; Times: 1
+	Query: "1265" ; Times: 1
+	Query: "ant" ; Times: 2
+	Query: "ectopistes" ; Times: 1
+	Query: "cicada" ; Times: 1
+	Query: "jacana" ; Times: 2
+	Query: ""San Clemente" specificepithet:belli genus:amphispiza" ; Times: 1
+	Query: "molothrus ater wyoming" ; Times: 1
+	Query: "Calliphlox evelynae" ; Times: 2
+	Query: "bendire california" ; Times: 1
+	Query: "Boas" ; Times: 1
+	Query: "Northern Michigan University" ; Times: 2
+	Query: "red fox" ; Times: 1
+	Query: "ocreatus" ; Times: 1
+	Query: "Icterus cucullatus riverside" ; Times: 1
+	Query: "black necked stilt" ; Times: 1
+	Query: "verrill dominica" ; Times: 1
+	Query: "stateprovince:"Nevada" (Otus)" ; Times: 4
+	Query: "Agamia agami" ; Times: 1
+	Query: "type:specimen (Bailey) year >= 1945 year <= 1959" ; Times: 2
+	Query: "peafowl" ; Times: 1
+	Query: "helotes creek texas" ; Times: 2
+	Query: "specificepithet:migratorius genus:ectopistes" ; Times: 1
+	Query: "hammock camp" ; Times: 1
+	Query: "cricket" ; Times: 1
+	Query: "Amazilia viridicauda" ; Times: 2
+	Query: "Rhoades" ; Times: 1
+	Query: "institutioncode:wfvz" ; Times: 1
+	Query: "msu Michigan State University" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(34.3751788753353,-119.0643310546875))<1286" ; Times: 1
+	Query: "carolina chickadee" ; Times: 1
+	Query: "amazon" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(34.37872085343753,-119.14535522460938))<2421" ; Times: 1
+	Query: "genus:Vultur" ; Times: 6
+	Query: "Cabinda" ; Times: 1
+	Query: "fores island" ; Times: 6
+	Query: "limosa fedoa" ; Times: 1
+	Query: "Andean condor" ; Times: 5
+	Query: "verrill 1904" ; Times: 1
+	Query: "alligator lizard" ; Times: 1
+	Query: "verrill dominica 1904" ; Times: 1
+	Query: "rufous hummingbird" ; Times: 1
+	Query: "philodice" ; Times: 3
+	Query: "rhoades" ; Times: 1
+	Query: "ectopistes migratorius" ; Times: 3
+	Query: "sea lions" ; Times: 2
+	Query: "Ectopistes" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(34.37872085343753,-119.14535522460938))<1285.7473834491175" ; Times: 1
+	Query: "rachael" ; Times: 1
+	Query: "genus:vultur" ; Times: 4
+	Query: "cats" ; Times: 1
+	Query: "Golden Eagle" ; Times: 1
+	Query: "catalognumber:3232 sex:male" ; Times: 5
+	Query: "specimen yellow-bellied flycatcher" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 433 download events in this period)
+Total number of records downloaded: 1443 (out of 2276166 records downloaded for all resources in this period)
+Total number of unique records downloaded: 1334
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 4
+	Country: Colombia ; Times: 2
+	Country: United States ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-04-02 ; Times: 1
+	Date: 2014-04-06 ; Times: 1
+	Date: 2014-04-07 ; Times: 4
+	Date: 2014-04-10 ; Times: 2
+	Date: 2014-04-17 ; Times: 5
+	Date: 2014-04-18 ; Times: 1
+	Date: 2014-04-21 ; Times: 1
+	Date: 2014-04-23 ; Times: 1
+	Date: 2014-04-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "amphispiza belli" ; Times: 1
+	Query: "amphispiza nevadensis" ; Times: 1
+	Query: "Actitis macularia" ; Times: 1
+	Query: "genus:Vultur" ; Times: 3
+	Query: "Perisoreus canadensis type:specimen institutioncode:MVZ OR FMNH OR UMMZ OR CAS OR UWBM OR PSM" ; Times: 1
+	Query: "alligator" ; Times: 1
+	Query: "Anhima cornuta" ; Times: 1
+	Query: "Picoides villosus type:specimen institutioncode:MVZ OR FMNH OR UMMZ OR CAS OR UWBM OR PSM" ; Times: 1
+	Query: "Tachycineta bicolor type:specimen institutioncode:MVZ OR FMNH OR UMMZ OR CAS" ; Times: 1
+	Query: "stateprovince:"prince edward island"" ; Times: 1
+	Query: "genus:vultur" ; Times: 1
+	Query: "Tachycineta bicolor institutioncode:FMNH OR CAS OR MVZ OR UMMZ" ; Times: 1
+	Query: "jacana" ; Times: 1
+	Query: ""San Clemente" specificepithet:belli genus:amphispiza" ; Times: 1
+	Query: "Vireo olivaceus type:specimen institutioncode:MVZ OR FMNH OR UMMZ OR CAS OR UWBM OR PSM" ; Times: 1
+	Query: "catalognumber:50000" ; Times: 1
+	Query: "Rausch type:specimen" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 93
+Total number of records retrieved from searches: 721
+Number of download events that retrieved data from the resource: 81
+Total number of records downloaded: 54850
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 93
+Total number of records retrieved from searches: 721
+Number of download events that retrieved data from the resource: 146
+Total number of records downloaded: 92593
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
