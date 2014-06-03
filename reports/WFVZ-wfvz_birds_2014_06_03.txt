@@ -1,0 +1,221 @@
+Report for Institution Code WFVZ, Resource wfvz_birds
+Usage stats for May, 2014, generated on 2014/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 285
+Number of records retrieved in searches: 4507
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 12
+	Country: Australia ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 20
+	Country: Costa Rica ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Taiwan ; Times: 1
+	Country: United Kingdom ; Times: 15
+	Country: United States ; Times: 200
+	Country: Unknown ; Times: 29
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-05-01 ; Times: 2
+	Date: 2014-05-02 ; Times: 5
+	Date: 2014-05-05 ; Times: 2
+	Date: 2014-05-06 ; Times: 31
+	Date: 2014-05-07 ; Times: 8
+	Date: 2014-05-08 ; Times: 4
+	Date: 2014-05-10 ; Times: 5
+	Date: 2014-05-11 ; Times: 6
+	Date: 2014-05-12 ; Times: 1
+	Date: 2014-05-13 ; Times: 15
+	Date: 2014-05-14 ; Times: 6
+	Date: 2014-05-15 ; Times: 11
+	Date: 2014-05-16 ; Times: 13
+	Date: 2014-05-17 ; Times: 5
+	Date: 2014-05-19 ; Times: 2
+	Date: 2014-05-20 ; Times: 8
+	Date: 2014-05-21 ; Times: 27
+	Date: 2014-05-22 ; Times: 11
+	Date: 2014-05-23 ; Times: 19
+	Date: 2014-05-24 ; Times: 6
+	Date: 2014-05-25 ; Times: 11
+	Date: 2014-05-26 ; Times: 4
+	Date: 2014-05-27 ; Times: 2
+	Date: 2014-05-28 ; Times: 57
+	Date: 2014-05-30 ; Times: 18
+	Date: 2014-05-31 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "stoner" ; Times: 1
+	Query: "Streptopelia decaocto" ; Times: 1
+	Query: "specificepithet:nipalensis genus:Bubo" ; Times: 10
+	Query: "Coeligena wilsoni" ; Times: 1
+	Query: "Bubo philippensis" ; Times: 1
+	Query: "peregrine type:specimen country:"United Kingdom" year <= 1945" ; Times: 1
+	Query: "Boissonneaua jardini" ; Times: 1
+	Query: "oso" ; Times: 1
+	Query: "harpactes fasciatus" ; Times: 1
+	Query: "hooded warbler" ; Times: 1
+	Query: "ardea goliath" ; Times: 23
+	Query: "aegotheles cristatus" ; Times: 2
+	Query: "piranga bidentata type:specimen year >= 1950 year <= 2013" ; Times: 2
+	Query: "falco peregrinus country="United Kingdom"" ; Times: 1
+	Query: "Rhinoplax vigil" ; Times: 4
+	Query: "Lophornis adorabilis" ; Times: 1
+	Query: "penelope obscura 2013" ; Times: 1
+	Query: ""Sphyrapicus thyroideus" (skin) mappable:1" ; Times: 2
+	Query: ""western wood-pewee"" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(33.52765813767716,-118.89129638671875))<7684" ; Times: 1
+	Query: "yellow-billed cuckoo" ; Times: 2
+	Query: "ROM 63868" ; Times: 1
+	Query: ""stomach contents saved" class:Aves" ; Times: 12
+	Query: "conejo" ; Times: 3
+	Query: "genus:casuarius" ; Times: 1
+	Query: "Peregrine falcon type:specimen (Peregrine falcon Falco peregrinus) year >= 1700 year <= 1945" ; Times: 1
+	Query: "penelope obscura 2000" ; Times: 1
+	Query: "Cynanthus" ; Times: 1
+	Query: "Heliangelus strophianus" ; Times: 1
+	Query: "Hylocharis eliciae" ; Times: 1
+	Query: "ara" ; Times: 1
+	Query: "colinus cristatus" ; Times: 1
+	Query: "amazona vinacea" ; Times: 11
+	Query: "4128" ; Times: 1
+	Query: "ectopistes stateprovince:"Illinois"" ; Times: 1
+	Query: "recordedby:K. Racey" ; Times: 2
+	Query: "casuarius" ; Times: 2
+	Query: "north-west territories" ; Times: 1
+	Query: "american white pelican" ; Times: 2
+	Query: "Doricha enicura" ; Times: 1
+	Query: "colinus cristatus type:specimen" ; Times: 3
+	Query: "falco peregrinus peregrinus country:"United Kingdom"" ; Times: 2
+	Query: "Clytolaema rubricauda" ; Times: 1
+	Query: "year >= 1984 year <= 2014 mappable:1 distance(location,geopoint(34.166363384737814,-118.01101684570312))<4746" ; Times: 1
+	Query: "Northern Cardinal egg type:specimen" ; Times: 2
+	Query: "Hornbill" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(34.43296522689834,-119.14260864257812))<4176.546295504921" ; Times: 1
+	Query: "Amazona vinacea" ; Times: 2
+	Query: "eggs Falco sparverius year >= 1800 year <= 1900" ; Times: 1
+	Query: "tockus deckeni" ; Times: 2
+	Query: ""prothonotary warbler" type:specimen (skin)" ; Times: 2
+	Query: "specificepithet:peli genus:Scotopelia" ; Times: 10
+	Query: "Amazilia castaneiventris" ; Times: 1
+	Query: "falco peregrinus county:"England"" ; Times: 2
+	Query: "penelope obscura" ; Times: 2
+	Query: "Amazona autumnalis" ; Times: 5
+	Query: "mappable:1 distance(location,geopoint(34.166363384737814,-118.01101684570312))<2848.348537124411" ; Times: 1
+	Query: "Cabinda" ; Times: 2
+	Query: "Carp" ; Times: 1
+	Query: "Abeillia abeillei" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(34.443441808077004,-119.07085418701172))<4176.546295504921" ; Times: 1
+	Query: "penelope obscura 1986" ; Times: 2
+	Query: "Coeligena prunellei" ; Times: 1
+	Query: "house finch" ; Times: 2
+	Query: "peregrine type:specimen country:"United Kingdom" AND (eggs) year <= 1945" ; Times: 4
+	Query: "penelope" ; Times: 2
+	Query: "stateprovince:"Cabinda"" ; Times: 2
+	Query: "sand cat" ; Times: 1
+	Query: "Amazilia rosenbergi" ; Times: 1
+	Query: "casuarius year >= 1988" ; Times: 1
+	Query: "ramphastos" ; Times: 1
+	Query: "Coeligena lutetiae" ; Times: 1
+	Query: "Glen Rose" ; Times: 1
+	Query: "cairina" ; Times: 4
+	Query: "specificepithet:lacteus genus:Bubo" ; Times: 14
+	Query: "Boissonneaua matthewsii" ; Times: 1
+	Query: "peregrine type:specimen year <= 1945" ; Times: 1
+	Query: "Lamprolaima rhami" ; Times: 1
+	Query: "barred owl" ; Times: 2
+	Query: "molt Falco sparverius year >= 1800 year <= 1900" ; Times: 1
+	Query: "WFVZ 26289" ; Times: 2
+	Query: "WFVZ 26288" ; Times: 1
+	Query: "Cyanophaia bicolor" ; Times: 1
+	Query: "WFVZ 26287" ; Times: 3
+	Query: "warbler" ; Times: 1
+	Query: "monrovia" ; Times: 1
+	Query: "specificepithet:philippensis genus:Bubo" ; Times: 10
+	Query: "Chalcostigma herrani" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(34.17431693701001,-119.5535659790039))<6758" ; Times: 1
+	Query: "sula dactylatra" ; Times: 3
+	Query: "american kestrel eggs" ; Times: 1
+	Query: ""stomach content" class:Aves" ; Times: 1
+	Query: "stateprovince:"California" specificepithet:alpestris genus:"eremophila"" ; Times: 2
+	Query: "prothonotary warbler" ; Times: 9
+	Query: "ectopistes" ; Times: 1
+	Query: "Dipper" ; Times: 1
+	Query: "Chaetocercus jourdanii" ; Times: 1
+	Query: "tree swallow" ; Times: 1
+	Query: "Amazona ochrocephala" ; Times: 1
+	Query: "egretta rufescens" ; Times: 3
+	Query: "white throated sparrow" ; Times: 1
+	Query: ""Dendroica kirtlandii" type:specimen" ; Times: 2
+	Query: "butterfly" ; Times: 1
+	Query: "habia rubica" ; Times: 1
+	Query: "Northern cardinal" ; Times: 2
+	Query: "specificepithet:coromandus genus:Bubo" ; Times: 31
+	Query: "manatee" ; Times: 1
+	Query: "San Antonio well" ; Times: 1
+	Query: "piranga bidentata" ; Times: 1
+	Query: "american kestrel" ; Times: 2
+	Query: "Pinyon Jay" ; Times: 3
+	Query: "mappable:1 distance(location,geopoint(34.3797125804622,-119.24560546875))<4177" ; Times: 1
+	Query: "northern parula" ; Times: 1
+	Query: "american goldfinch" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 1679 download events in this period)
+Total number of records downloaded: 3257 (out of 895475 records downloaded for all resources in this period)
+Total number of unique records downloaded: 3105
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-05-01 ; Times: 4
+	Date: 2014-05-02 ; Times: 2
+	Date: 2014-05-06 ; Times: 2
+	Date: 2014-05-16 ; Times: 1
+	Date: 2014-05-18 ; Times: 1
+	Date: 2014-05-20 ; Times: 1
+	Date: 2014-05-21 ; Times: 1
+	Date: 2014-05-22 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: ""Campylorhynchus brunneicapillus"" ; Times: 1
+	Query: "ectopistes stateprovince:"Illinois"" ; Times: 2
+	Query: "mappable:1 distance(location,geopoint(34.16295449004889,-118.00277709960938))<8154.80069913644" ; Times: 1
+	Query: "egretta rufescens" ; Times: 1
+	Query: "Zacatecas" ; Times: 1
+	Query: ""Athene cunicularia"" ; Times: 1
+	Query: "Mulcahy" ; Times: 2
+	Query: "monrovia" ; Times: 1
+	Query: ""Toxostoma lecontei"" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(34.164090803573146,-118.00689697265625))<8170.3746424486" ; Times: 1
+	Query: "year >= 1964 year <= 2014 mappable:1 distance(location,geopoint(34.166363384737814,-118.01101684570312))<4746" ; Times: 1
+	Query: ""Aquila chrysaetos"" ; Times: 1
+	Query: "palenque" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(34.166363384737814,-118.01101684570312))<2848.348537124411" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 378
+Total number of records retrieved from searches: 5228
+Number of download events that retrieved data from the resource: 97
+Total number of records downloaded: 58107
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 378
+Total number of records retrieved from searches: 5228
+Number of download events that retrieved data from the resource: 162
+Total number of records downloaded: 95850
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
