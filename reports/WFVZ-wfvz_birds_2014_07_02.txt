@@ -1,0 +1,179 @@
+Report for Institution Code WFVZ, Resource wfvz_birds
+Usage stats for June, 2014, generated on 2014/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 100
+Number of records retrieved in searches: 1749
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 2
+	Country: Brazil ; Times: 18
+	Country: Canada ; Times: 7
+	Country: Mexico ; Times: 1
+	Country: Panama ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 64
+	Country: Unknown ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-06-01 ; Times: 5
+	Date: 2014-06-03 ; Times: 5
+	Date: 2014-06-04 ; Times: 10
+	Date: 2014-06-05 ; Times: 3
+	Date: 2014-06-06 ; Times: 3
+	Date: 2014-06-08 ; Times: 1
+	Date: 2014-06-09 ; Times: 6
+	Date: 2014-06-10 ; Times: 9
+	Date: 2014-06-11 ; Times: 1
+	Date: 2014-06-12 ; Times: 6
+	Date: 2014-06-13 ; Times: 3
+	Date: 2014-06-14 ; Times: 3
+	Date: 2014-06-15 ; Times: 1
+	Date: 2014-06-16 ; Times: 24
+	Date: 2014-06-17 ; Times: 1
+	Date: 2014-06-18 ; Times: 4
+	Date: 2014-06-20 ; Times: 2
+	Date: 2014-06-23 ; Times: 3
+	Date: 2014-06-25 ; Times: 2
+	Date: 2014-06-26 ; Times: 4
+	Date: 2014-06-28 ; Times: 1
+	Date: 2014-06-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "red-tailed hawk" ; Times: 2
+	Query: "genus:turdus institutioncode:wfvz" ; Times: 2
+	Query: "larue" ; Times: 1
+	Query: "Setophaga psm" ; Times: 2
+	Query: "trogon rufus type:specimen" ; Times: 1
+	Query: "northern loon" ; Times: 2
+	Query: "ant" ; Times: 5
+	Query: "ectopistes" ; Times: 1
+	Query: "eulampis" ; Times: 1
+	Query: "robertson county texas" ; Times: 2
+	Query: "type:specimen specificepithet:ruficauda genus:galbula year >= 1990" ; Times: 1
+	Query: "country:"colombia" specificepithet:grayi genus:turdus institutioncode:wfvz" ; Times: 1
+	Query: "trogon rufus type:specimen year >= 1990" ; Times: 1
+	Query: "mole" ; Times: 1
+	Query: "specificepithet:grayi genus:turdus institutioncode:wfvz" ; Times: 1
+	Query: "Setophaga PSM" ; Times: 2
+	Query: "aburria year >= 1985 year <= 2014" ; Times: 1
+	Query: "northern jacana" ; Times: 1
+	Query: "eulampis holosericeus" ; Times: 1
+	Query: "caracara" ; Times: 1
+	Query: "genus:Carpococcyx" ; Times: 2
+	Query: "monk type:specimen (eggs) year >= 1850 year <= 1930" ; Times: 1
+	Query: "Eudyptes moseleyi" ; Times: 3
+	Query: "galbula ruficauda type:specimen year >= 1990" ; Times: 1
+	Query: "(bard) year >= 1921 year <= 1921" ; Times: 1
+	Query: "trogon collaris type:specimen year >= 1990" ; Times: 1
+	Query: "black kite" ; Times: 1
+	Query: "cassowary" ; Times: 1
+	Query: "test" ; Times: 3
+	Query: "Aepypodius" ; Times: 1
+	Query: "centralis stateprovince:"Veracruz"" ; Times: 1
+	Query: "american oystercatcher" ; Times: 1
+	Query: "dragonfly" ; Times: 1
+	Query: "anthracothorax viridis" ; Times: 1
+	Query: "warsaw island" ; Times: 1
+	Query: "pharomachrus type:specimen year >= 1990" ; Times: 1
+	Query: "pyrrhura type:specimen year >= 1990" ; Times: 2
+	Query: "American Badger" ; Times: 1
+	Query: "institutioncode:wfvz" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 3
+	Query: "anodorhynchus type:specimen year >= 1990" ; Times: 1
+	Query: "gilles" ; Times: 1
+	Query: "genus:trogon AND (tissue) year >= 1990" ; Times: 2
+	Query: "jacana spinosa" ; Times: 3
+	Query: "nest type:specimen genus:picoides" ; Times: 1
+	Query: "Oreophasis" ; Times: 2
+	Query: "Brigham Young" ; Times: 1
+	Query: "specificepithet:cinerea genus:Piezorhina" ; Times: 1
+	Query: "Vireo altiloquus" ; Times: 2
+	Query: "polyplectron" ; Times: 1
+	Query: "eastern kingbird" ; Times: 2
+	Query: "lizards mappable:1" ; Times: 3
+	Query: "hummingbird" ; Times: 1
+	Query: "Thryothorus pleurostictus" ; Times: 2
+	Query: "genus:cyanoliseus" ; Times: 1
+	Query: "country:"Panama" specificepithet:cajanea genus:Aramides" ; Times: 1
+	Query: "sooty shearwater" ; Times: 1
+	Query: "aulacorhynchus prasinus" ; Times: 1
+	Query: "parrot" ; Times: 1
+	Query: "bombus" ; Times: 1
+	Query: "aburria" ; Times: 1
+	Query: "barn owl" ; Times: 1
+	Query: "pileated woodpecker" ; Times: 1
+	Query: "shrimp" ; Times: 1
+	Query: "aye-aye" ; Times: 2
+	Query: "Icterus cucullatus" ; Times: 1
+	Query: "specificepithet:elegans genus:trogon AND (tissue) year >= 1990" ; Times: 1
+	Query: "trogon elegans type:specimen year >= 1990" ; Times: 1
+	Query: "type:specimen genus:galbula year >= 1990" ; Times: 1
+	Query: "trogon melanurus type:specimen year >= 1990" ; Times: 1
+	Query: "genus:amazona year >= 1990" ; Times: 1
+	Query: "trogon curucui type:specimen year >= 1990" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 278 download events in this period)
+Total number of records downloaded: 1418 (out of 1064147 records downloaded for all resources in this period)
+Total number of unique records downloaded: 1412
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Unknown ; Times: 1
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-06-03 ; Times: 3
+	Date: 2014-06-04 ; Times: 1
+	Date: 2014-06-05 ; Times: 3
+	Date: 2014-06-09 ; Times: 1
+	Date: 2014-06-10 ; Times: 3
+	Date: 2014-06-19 ; Times: 1
+	Date: 2014-06-20 ; Times: 2
+	Date: 2014-06-23 ; Times: 2
+	Date: 2014-06-27 ; Times: 1
+	Date: 2014-06-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "anthracothorax viridis" ; Times: 1
+	Query: "stateprovince:"Texas" year >= 1980 year <= 2014 mappable:1" ; Times: 1
+	Query: "anthracothorax dominicus" ; Times: 1
+	Query: "eulampis holosericeus" ; Times: 1
+	Query: "country:"colombia" specificepithet:grayi genus:turdus institutioncode:wfvz" ; Times: 1
+	Query: "psittacidae country:"Venezuela"" ; Times: 1
+	Query: "county:"kendall" stateprovince:"texas"" ; Times: 1
+	Query: "gilles" ; Times: 1
+	Query: "polyplectron" ; Times: 1
+	Query: "ectopistes" ; Times: 1
+	Query: "Icterus cucullatus" ; Times: 1
+	Query: "catalognumber:100000" ; Times: 1
+	Query: "specificepithet:cinerea genus:Piezorhina" ; Times: 1
+	Query: "myiopsitta monachus" ; Times: 1
+	Query: "Milvus migrans" ; Times: 1
+	Query: "test" ; Times: 1
+	Query: "type:specimen genus:procnias" ; Times: 2
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 478
+Total number of records retrieved from searches: 6977
+Number of download events that retrieved data from the resource: 115
+Total number of records downloaded: 59525
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 478
+Total number of records retrieved from searches: 6977
+Number of download events that retrieved data from the resource: 180
+Total number of records downloaded: 97268
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
