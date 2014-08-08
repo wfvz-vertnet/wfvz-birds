@@ -1,0 +1,247 @@
+Report for Institution Code WFVZ, Resource wfvz_birds
+Usage stats for July, 2014, generated on 2014/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 203
+Number of records retrieved in searches: 3499
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 4
+	Country: Australia ; Times: 13
+	Country: Belgium ; Times: 1
+	Country: Canada ; Times: 9
+	Country: Chile ; Times: 4
+	Country: Colombia ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: Finland ; Times: 7
+	Country: France ; Times: 1
+	Country: Germany ; Times: 11
+	Country: Panama ; Times: 7
+	Country: Peru ; Times: 2
+	Country: Poland ; Times: 2
+	Country: Spain ; Times: 2
+	Country: United Kingdom ; Times: 4
+	Country: United States ; Times: 132
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-07-01 ; Times: 9
+	Date: 2014-07-02 ; Times: 3
+	Date: 2014-07-05 ; Times: 7
+	Date: 2014-07-06 ; Times: 1
+	Date: 2014-07-07 ; Times: 2
+	Date: 2014-07-08 ; Times: 7
+	Date: 2014-07-09 ; Times: 4
+	Date: 2014-07-10 ; Times: 38
+	Date: 2014-07-11 ; Times: 16
+	Date: 2014-07-13 ; Times: 7
+	Date: 2014-07-14 ; Times: 25
+	Date: 2014-07-15 ; Times: 2
+	Date: 2014-07-16 ; Times: 13
+	Date: 2014-07-17 ; Times: 4
+	Date: 2014-07-18 ; Times: 18
+	Date: 2014-07-21 ; Times: 9
+	Date: 2014-07-22 ; Times: 6
+	Date: 2014-07-23 ; Times: 10
+	Date: 2014-07-24 ; Times: 6
+	Date: 2014-07-25 ; Times: 7
+	Date: 2014-07-26 ; Times: 2
+	Date: 2014-07-28 ; Times: 3
+	Date: 2014-07-29 ; Times: 2
+	Date: 2014-07-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "UMMZ 161616" ; Times: 1
+	Query: "Northern Harrier" ; Times: 8
+	Query: "Didunculus" ; Times: 4
+	Query: "1961 humphrey NOT YPM" ; Times: 1
+	Query: "rhodinocichla" ; Times: 1
+	Query: "albatross specificepithet:fusca genus:Phoebetria class:Aves" ; Times: 3
+	Query: "specificepithet:fusca genus:Phoebetria" ; Times: 4
+	Query: "Manatee" ; Times: 1
+	Query: "aureola finland" ; Times: 2
+	Query: "stateprovince:"california" country:"united states" specificepithet:corax genus:corvus (study skin) distance(location,geopoint(33.13755119234614,-119.35546875))<86944" ; Times: 3
+	Query: "HZM" ; Times: 1
+	Query: "podargus strigoides" ; Times: 1
+	Query: "orange ridge" ; Times: 1
+	Query: "Odonata" ; Times: 1
+	Query: "strix varia illinois" ; Times: 1
+	Query: "(oquilapa)" ; Times: 1
+	Query: "american robin" ; Times: 1
+	Query: "genus:vultur" ; Times: 2
+	Query: "stateprovince:"oregon" specificepithet:corax genus:corvus year >= 1960 year <= 2014" ; Times: 1
+	Query: "picoides borealis" ; Times: 2
+	Query: "CMC" ; Times: 1
+	Query: "ara" ; Times: 1
+	Query: "specificepithet:palpebrata genus:Phoebetria" ; Times: 2
+	Query: "jacana" ; Times: 3
+	Query: "stateprovince:"colorado" specificepithet:corax genus:corvus" ; Times: 2
+	Query: "Surf scoter" ; Times: 3
+	Query: "great horned owl" ; Times: 1
+	Query: "stateprovince:"california" country:"united states" specificepithet:corax genus:corvus (study skin) distance(location,geopoint(33.13755119234614,-119.35546875))<100000" ; Times: 1
+	Query: "stateprovince:"oregon" specificepithet:corax genus:corvus (skin) year >= 1960 year <= 2014" ; Times: 1
+	Query: "type:specimen genus:Ectopistes" ; Times: 1
+	Query: "genus:phoebetria class:aves" ; Times: 7
+	Query: "Guayana" ; Times: 1
+	Query: "grasshopper sparrow" ; Times: 1
+	Query: "Sapayoa" ; Times: 1
+	Query: "albatross class:Aves" ; Times: 5
+	Query: "stateprovince:"alberta" specificepithet:corax genus:corvus year >= 1960 year <= 2014" ; Times: 1
+	Query: "NEON" ; Times: 1
+	Query: "cockroach" ; Times: 1
+	Query: ""tetrao urogallus"" ; Times: 2
+	Query: "jacana spinosa" ; Times: 4
+	Query: "monk type:specimen AND (Tennessee)" ; Times: 1
+	Query: "pteroptochos megapodius" ; Times: 1
+	Query: "stateprovince:"texas" specificepithet:corax genus:corvus" ; Times: 1
+	Query: ""quiscalus mexicanus" type:specimen" ; Times: 7
+	Query: "emberiza aureola" ; Times: 1
+	Query: "albatross" ; Times: 3
+	Query: "country:"mongolia" specificepithet:corax genus:corvus" ; Times: 1
+	Query: "stateprovince:"california" country:"united states" specificepithet:corax genus:corvus (study skin) AND (NOT ummz ) distance(location,geopoint(33.13755119234614,-119.35546875))<86944" ; Times: 2
+	Query: "specificepithet:lagopus genus:Buteo" ; Times: 1
+	Query: "type:specimen country:"Spain" class:Aves recordedby:Wilson" ; Times: 1
+	Query: "alectoris mappable:1" ; Times: 2
+	Query: "northern mockingbird" ; Times: 2
+	Query: "aegolius h*" ; Times: 1
+	Query: "belted kingfisher" ; Times: 1
+	Query: "apple" ; Times: 1
+	Query: "specificepithet:sumatrana genus:Bubo" ; Times: 5
+	Query: "stateprovince:"colorado" specificepithet:corax genus:corvus AND (NOT sound) year >= 1900 year <= 1940" ; Times: 1
+	Query: "monk type:specimen AND (-Tennessee)" ; Times: 3
+	Query: "ROM 692" ; Times: 1
+	Query: "recordedby:Brown year >= 1916 year <= 1916" ; Times: 2
+	Query: "grackle" ; Times: 1
+	Query: "county:"Los Angeles" stateprovince:"California" recordedby:Brown year >= 1916 year <= 1916" ; Times: 1
+	Query: "Icterus auratus" ; Times: 1
+	Query: "specificepithet:lacteus genus:Bubo" ; Times: 1
+	Query: "indiana" ; Times: 1
+	Query: "Red-cockaded Woodpecker" ; Times: 1
+	Query: "Metabolus rugensis" ; Times: 2
+	Query: "red-throated pipit" ; Times: 1
+	Query: "northern goshawk" ; Times: 2
+	Query: ""Quiscalus mexicanus" (skull)" ; Times: 3
+	Query: "type class:aves institutioncode:wfvz" ; Times: 1
+	Query: "indiana fountain" ; Times: 1
+	Query: "Corvus sinaloae" ; Times: 2
+	Query: "ranas" ; Times: 2
+	Query: "stateprovince:"california" country:"united states" specificepithet:corax genus:corvus (study skin) AND (NOT ummz) distance(location,geopoint(33.13755119234614,-119.35546875))<86944" ; Times: 1
+	Query: ""picoides borealis"" ; Times: 2
+	Query: "xenus cinereus" ; Times: 4
+	Query: "Parus amabilis" ; Times: 4
+	Query: "Tympanuchus cupido cupido specificepithet:cupido cupido genus:Tympanuchus" ; Times: 1
+	Query: "san clemente specificepithet:corax genus:corvus year >= 1930 year <= 2014" ; Times: 1
+	Query: "Fulica gigantea" ; Times: 3
+	Query: "Fulica cornuta" ; Times: 4
+	Query: "mockingbird" ; Times: 1
+	Query: "guano oregon" ; Times: 3
+	Query: "Quiscalus mexicanus skull" ; Times: 1
+	Query: "type:specimen genus:Carpococcyx" ; Times: 9
+	Query: "loxia curvirostra county:"humboldt" stateprovince:"california" class:aves year >= 2000 year <= 2014" ; Times: 1
+	Query: "rhinoceros" ; Times: 1
+	Query: "sn rhoads" ; Times: 4
+	Query: "Zoothera citrina" ; Times: 2
+	Query: "country:"ireland" specificepithet:corax genus:corvus" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "American Badger" ; Times: 1
+	Query: "calidris ferruginea" ; Times: 2
+	Query: "stateprovince:"california" country:"united states" specificepithet:corax genus:corvus (study skin) AND (NOT ummz NOT mvz) distance(location,geopoint(33.13755119234614,-119.35546875))<86944" ; Times: 1
+	Query: "genus:Vultur" ; Times: 2
+	Query: "stateprovince:"california" country:"united states" specificepithet:corax genus:corvus (study skin) distance(location,geopoint(33.97980872872457,-120.157470703125))<100000" ; Times: 1
+	Query: "whale" ; Times: 1
+	Query: "Tallahassee" ; Times: 1
+	Query: "county:"El Dorado" stateprovince:"California"" ; Times: 2
+	Query: "stateprovince:"texas" specificepithet:cryptoleucus genus:corvus year >= 1940 year <= 2014" ; Times: 1
+	Query: "stateprovince:"texas" specificepithet:corax genus:corvus AND (NOT fossil)" ; Times: 1
+	Query: "Tympanuchus cupido cupido specificepithet:cupido genus:Tympanuchus" ; Times: 2
+	Query: "stateprovince:"california" country:"united states" specificepithet:corax genus:corvus (study skin) distance(location,geopoint(33.97980872872457,-120.157470703125))<146792" ; Times: 1
+	Query: "type:specimen specificepithet:auricularis genus:puffinus" ; Times: 1
+	Query: "laysan albatross" ; Times: 1
+	Query: "monk type:specimen" ; Times: 1
+	Query: "dragonflies" ; Times: 1
+	Query: "turdus migratorius" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 35 (out of 437 download events in this period)
+Total number of records downloaded: 19045 (out of 2823564 records downloaded for all resources in this period)
+Total number of unique records downloaded: 18839
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Chile ; Times: 16
+	Country: Germany ; Times: 1
+	Country: Panama ; Times: 1
+	Country: United States ; Times: 17
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-07-05 ; Times: 2
+	Date: 2014-07-07 ; Times: 2
+	Date: 2014-07-10 ; Times: 2
+	Date: 2014-07-11 ; Times: 1
+	Date: 2014-07-13 ; Times: 1
+	Date: 2014-07-14 ; Times: 3
+	Date: 2014-07-15 ; Times: 14
+	Date: 2014-07-16 ; Times: 1
+	Date: 2014-07-17 ; Times: 1
+	Date: 2014-07-21 ; Times: 1
+	Date: 2014-07-24 ; Times: 2
+	Date: 2014-07-25 ; Times: 2
+	Date: 2014-07-29 ; Times: 2
+	Date: 2014-07-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "country:"argentina"" ; Times: 1
+	Query: "Tympanuchus cupido cupido specificepithet:cupido cupido genus:Tympanuchus" ; Times: 1
+	Query: "country:"Bolivia"" ; Times: 1
+	Query: "type:specimen county:"humboldt" stateprovince:"california" class:aves year >= 1950 year <= 2014" ; Times: 1
+	Query: "Didunculus" ; Times: 2
+	Query: "stateprovince:"Oklahoma"" ; Times: 1
+	Query: "Pteroptochos" ; Times: 1
+	Query: "Aphelocoma type:specimen" ; Times: 1
+	Query: "picoides borealis" ; Times: 2
+	Query: "rhodinocichla" ; Times: 1
+	Query: "county:"Los Angeles" stateprovince:"California" recordedby:Brown year >= 1916 year <= 1916" ; Times: 1
+	Query: "Myrmeciza exsul" ; Times: 1
+	Query: "country:"uruguay"" ; Times: 1
+	Query: "country:"Colombia" year <= 2014" ; Times: 1
+	Query: "country:"Guyana" year <= 2014" ; Times: 1
+	Query: "albatross class:Aves" ; Times: 1
+	Query: "country:"Trinidad" year <= 2014" ; Times: 1
+	Query: "county:"humboldt" stateprovince:"california" class:aves year >= 2000 year <= 2014" ; Times: 1
+	Query: "American Badger" ; Times: 1
+	Query: "country:"Venezuela" year <= 2014" ; Times: 1
+	Query: "sn rhoads" ; Times: 2
+	Query: "country:"chile"" ; Times: 1
+	Query: "Macropus" ; Times: 1
+	Query: "Tallahassee" ; Times: 1
+	Query: "county:"El Dorado" stateprovince:"California"" ; Times: 1
+	Query: "country:"Peru"" ; Times: 1
+	Query: "country:"Ecuador" year <= 2014" ; Times: 1
+	Query: "Larus dominicanus" ; Times: 1
+	Query: "country:"suriname"" ; Times: 1
+	Query: "Sapayoa" ; Times: 1
+	Query: "country:"Brazil"" ; Times: 1
+	Query: "country:"paraguay"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 681
+Total number of records retrieved from searches: 10476
+Number of download events that retrieved data from the resource: 150
+Total number of records downloaded: 78570
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 681
+Total number of records retrieved from searches: 10476
+Number of download events that retrieved data from the resource: 215
+Total number of records downloaded: 116313
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
