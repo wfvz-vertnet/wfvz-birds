@@ -1,0 +1,240 @@
+Report for Institution Code WFVZ, Resource wfvz_birds
+Usage stats for August, 2014, generated on 2014/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 171
+Number of records retrieved in searches: 2212
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 4
+	Country: Australia ; Times: 1
+	Country: Canada ; Times: 17
+	Country: Costa Rica ; Times: 2
+	Country: Denmark ; Times: 1
+	Country: France ; Times: 1
+	Country: Germany ; Times: 9
+	Country: Mexico ; Times: 12
+	Country: United Kingdom ; Times: 5
+	Country: United States ; Times: 109
+	Country: Unknown ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-08-01 ; Times: 4
+	Date: 2014-08-02 ; Times: 1
+	Date: 2014-08-03 ; Times: 3
+	Date: 2014-08-04 ; Times: 3
+	Date: 2014-08-05 ; Times: 16
+	Date: 2014-08-06 ; Times: 1
+	Date: 2014-08-07 ; Times: 4
+	Date: 2014-08-08 ; Times: 15
+	Date: 2014-08-09 ; Times: 2
+	Date: 2014-08-10 ; Times: 4
+	Date: 2014-08-11 ; Times: 2
+	Date: 2014-08-12 ; Times: 4
+	Date: 2014-08-13 ; Times: 7
+	Date: 2014-08-14 ; Times: 3
+	Date: 2014-08-15 ; Times: 5
+	Date: 2014-08-16 ; Times: 4
+	Date: 2014-08-18 ; Times: 5
+	Date: 2014-08-19 ; Times: 1
+	Date: 2014-08-20 ; Times: 16
+	Date: 2014-08-21 ; Times: 7
+	Date: 2014-08-22 ; Times: 3
+	Date: 2014-08-23 ; Times: 2
+	Date: 2014-08-24 ; Times: 3
+	Date: 2014-08-25 ; Times: 1
+	Date: 2014-08-26 ; Times: 11
+	Date: 2014-08-27 ; Times: 7
+	Date: 2014-08-28 ; Times: 32
+	Date: 2014-08-29 ; Times: 1
+	Date: 2014-08-30 ; Times: 3
+	Date: 2014-08-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:virescens genus:butorides AND (NOT california) year >= 1888 year <= 1922 mappable:1" ; Times: 1
+	Query: "bryant year >= 1800 year <= 1870" ; Times: 1
+	Query: "flicker" ; Times: 1
+	Query: "specificepithet:axillaris genus:Aramides" ; Times: 2
+	Query: "year >= 1866 year <= 1866 AND (NOT Jamaica)" ; Times: 12
+	Query: "(lachixio)" ; Times: 1
+	Query: ""Passerina versicolor" type:specimen" ; Times: 1
+	Query: "spiders" ; Times: 1
+	Query: "human" ; Times: 1
+	Query: "county:"Columbia" stateprovince:"Wisconsin"" ; Times: 1
+	Query: "Vireo bellii pusillus" ; Times: 1
+	Query: "Egretta thula" ; Times: 1
+	Query: "eider" ; Times: 2
+	Query: "house sparrow" ; Times: 3
+	Query: "lepidoptera" ; Times: 1
+	Query: "george willet" ; Times: 1
+	Query: "institutioncode:wfvz" ; Times: 1
+	Query: "anas laysanensis" ; Times: 1
+	Query: "country:"Mexico" specificepithet:petechia genus:Dendroica" ; Times: 1
+	Query: "ectopistes migratorius egg" ; Times: 1
+	Query: "country:"uganda" class:aves year >= 1906 year <= 1906" ; Times: 1
+	Query: "country:"Pakistan" recordedby:ludlow year >= 1910 year <= 1925" ; Times: 1
+	Query: "genus:Diomedea mappable:1" ; Times: 1
+	Query: "KU costa rica" ; Times: 1
+	Query: "6596" ; Times: 1
+	Query: ""butorides virescens" AND (NOT california) year >= 1888 year <= 1922 mappable:1" ; Times: 1
+	Query: "type:specimen genus:Ectopistes mappable:1" ; Times: 1
+	Query: "accipiter gentilis atricapillus" ; Times: 2
+	Query: "class:aves year >= 1866 year <= 1866 AND (NOT Jamaica)" ; Times: 3
+	Query: "Oriolus monacha meneliki" ; Times: 1
+	Query: "stateprovince:"colorado" specificepithet:corax genus:corvus" ; Times: 1
+	Query: "anas wyvilliana type:specimen" ; Times: 2
+	Query: "(quindio)" ; Times: 2
+	Query: "dryocopus lineatus" ; Times: 1
+	Query: "country:"Mexico" genus:Gymnogyps" ; Times: 4
+	Query: "olifants" ; Times: 1
+	Query: "spotted crake" ; Times: 1
+	Query: "catalognumber:208181 institutioncode:WFVZ" ; Times: 1
+	Query: "class:aves year >= 1866 year <= 1866 NOT Jamaica" ; Times: 2
+	Query: ""butorides virescens" AND (NOT california) year >= 1888 year <= 1922" ; Times: 1
+	Query: "eggs specificepithet:virescens genus:butorides AND (NOT california) year >= 1888 year <= 1922 mappable:1" ; Times: 1
+	Query: "country:"malaysia" class:aves year >= 1951 year <= 1951" ; Times: 1
+	Query: "accipiter gentilis atricapillus alberta" ; Times: 1
+	Query: "Rhynchopsitta" ; Times: 2
+	Query: "Spheniscus demersus" ; Times: 3
+	Query: "Passerina versicolor" ; Times: 1
+	Query: "specificepithet:virescens genus:butorides (skin OR skeleton) AND (NOT california) year >= 1888 year <= 1922 mappable:1" ; Times: 1
+	Query: "country:"india" class:aves year >= 1911 year <= 1911" ; Times: 2
+	Query: "Stizorhina" ; Times: 1
+	Query: "class:aves AND (NOT Jamaica) year >= 1866 year <= 1866" ; Times: 1
+	Query: "country:"Pakistan" class:aves year >= 1910 year <= 1925" ; Times: 3
+	Query: "Elanus leucurus" ; Times: 2
+	Query: "class:aves recordedby:primrose year >= 1905 year <= 1920" ; Times: 1
+	Query: "type:specimen (Ectopistes migratorius)" ; Times: 1
+	Query: "banding class:aves" ; Times: 10
+	Query: ""leg band" class:aves" ; Times: 1
+	Query: "year >= 1866 year <= 1866" ; Times: 4
+	Query: "specificepithet:nebulosa genus:strix" ; Times: 1
+	Query: "sa pa" ; Times: 1
+	Query: "country:"kazakhstan" class:aves year >= 1940 year <= 1960" ; Times: 1
+	Query: "bar-headed goose" ; Times: 6
+	Query: "cockatiel" ; Times: 1
+	Query: "matinicus rock" ; Times: 1
+	Query: "Philemon citreogularis" ; Times: 1
+	Query: "passerina rositae" ; Times: 4
+	Query: "specificepithet:virescens genus:butorides (skin) AND (NOT california) year >= 1888 year <= 1922 mappable:1" ; Times: 1
+	Query: ""butorides virescens" (egg) AND (NOT california) year >= 1888 year <= 1922" ; Times: 1
+	Query: "gallus" ; Times: 1
+	Query: "necropsy" ; Times: 1
+	Query: "northern mockingbird type:specimen (eggs)" ; Times: 1
+	Query: "Cepphus columba kaiurka" ; Times: 2
+	Query: "stateprovince:"maluku" country:"indonesia" class:aves year >= 1909 year <= 1913" ; Times: 1
+	Query: "Crinifer" ; Times: 1
+	Query: "estado de mexico" ; Times: 5
+	Query: "uwbm 51783" ; Times: 1
+	Query: "country:"netherlands" class:aves year >= 1898 year <= 1898" ; Times: 1
+	Query: "specificepithet:excelsior genus:cinclodes" ; Times: 1
+	Query: "willet" ; Times: 1
+	Query: "sylvilagus brasiliensis type:specimen year >= 1961 year <= 2014" ; Times: 1
+	Query: "class:aves year >= 1866 year <= 1866" ; Times: 1
+	Query: "8113 MSU" ; Times: 2
+	Query: "strix occidentalis caurina" ; Times: 1
+	Query: "stateprovince:"utah" specificepithet:corax genus:corvus" ; Times: 1
+	Query: "Pinarornis" ; Times: 1
+	Query: "surf scoter" ; Times: 6
+	Query: "Plegadis chihi" ; Times: 2
+	Query: "genus:Diomedea" ; Times: 2
+	Query: "Plectorhyncha lanceolata" ; Times: 2
+	Query: "Neomixis flavoviridis" ; Times: 3
+	Query: "recordedby:barton year >= 1890 year <= 1920" ; Times: 1
+	Query: "green-backed tit" ; Times: 1
+	Query: "rabbit" ; Times: 1
+	Query: "country:"russia" class:aves year >= 1940 year <= 1960" ; Times: 1
+	Query: "Coccyzus melacoryphus" ; Times: 2
+	Query: "Haliaeetus leucocephalus" ; Times: 3
+	Query: "country:"canada" specificepithet:corax genus:corvus year >= 1920 year <= 2014" ; Times: 1
+	Query: "gallus gallus" ; Times: 1
+	Query: "Dendrocygna bicolor" ; Times: 1
+	Query: "country:"indonesia" class:aves year >= 1951 year <= 1951" ; Times: 1
+	Query: "rosefinch" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(35.20029590610407,-85.30746459960937))<22552" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 34 (out of 273 download events in this period)
+Total number of records downloaded: 6478 (out of 1909881 records downloaded for all resources in this period)
+Total number of unique records downloaded: 5797
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Chile ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Italy ; Times: 2
+	Country: Mexico ; Times: 4
+	Country: United States ; Times: 18
+	Country: Unknown ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-08-01 ; Times: 1
+	Date: 2014-08-03 ; Times: 1
+	Date: 2014-08-05 ; Times: 8
+	Date: 2014-08-08 ; Times: 1
+	Date: 2014-08-12 ; Times: 1
+	Date: 2014-08-13 ; Times: 2
+	Date: 2014-08-14 ; Times: 1
+	Date: 2014-08-18 ; Times: 2
+	Date: 2014-08-19 ; Times: 3
+	Date: 2014-08-20 ; Times: 1
+	Date: 2014-08-22 ; Times: 1
+	Date: 2014-08-24 ; Times: 1
+	Date: 2014-08-26 ; Times: 2
+	Date: 2014-08-27 ; Times: 2
+	Date: 2014-08-28 ; Times: 5
+	Date: 2014-08-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "buteo regalis" ; Times: 1
+	Query: "type:specimen (zoothera)" ; Times: 1
+	Query: "sylvilagus brasiliensis" ; Times: 1
+	Query: "ALCIPPE BRUNNEA" ; Times: 1
+	Query: "tepic" ; Times: 1
+	Query: "Corvus corax" ; Times: 1
+	Query: ""Passerina versicolor" type:specimen" ; Times: 1
+	Query: "year >= 1866 year <= 1866" ; Times: 1
+	Query: "Vireo bellii pusillus" ; Times: 2
+	Query: "Charadrius montanus" ; Times: 3
+	Query: "country:"Mexico" specificepithet:cochlearius genus:Cochlearius" ; Times: 1
+	Query: "ayacucho" ; Times: 1
+	Query: "country:"Mexico" specificepithet:albus genus:Eudocimus" ; Times: 1
+	Query: "forreri" ; Times: 1
+	Query: "type:specimen (turdus) AND (NOT migratorius NOT merula NOT albicollis NOT philomelos NOT pilaris NOT ruficollis NOT rufopalliatus NOT olivaceus NOT obscurus)" ; Times: 1
+	Query: "nayarit" ; Times: 1
+	Query: "strix occidentalis caurina" ; Times: 1
+	Query: "Rhynchopsitta" ; Times: 1
+	Query: "country:"Mexico" specificepithet:petechia genus:Dendroica" ; Times: 1
+	Query: "year >= 1866 year <= 1866 AND (NOT Jamaica)" ; Times: 1
+	Query: "anas laysanensis" ; Times: 1
+	Query: "country:"brazil"" ; Times: 2
+	Query: "Toxostoma lecontei" ; Times: 1
+	Query: "country:"Suriname"" ; Times: 1
+	Query: "Diomedea exulans" ; Times: 1
+	Query: "specificepithet:melodia institutioncode:UCLA OR LACM OR SBMNH OR SDMNH OR WFVZ" ; Times: 1
+	Query: "Dendrocygna bicolor" ; Times: 2
+	Query: "paradoxornis" ; Times: 2
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 852
+Total number of records retrieved from searches: 12688
+Number of download events that retrieved data from the resource: 184
+Total number of records downloaded: 85048
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 852
+Total number of records retrieved from searches: 12688
+Number of download events that retrieved data from the resource: 249
+Total number of records downloaded: 122791
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
