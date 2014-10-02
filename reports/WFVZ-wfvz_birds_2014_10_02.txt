@@ -1,0 +1,225 @@
+Report for Institution Code WFVZ, Resource wfvz_birds
+Usage stats for September, 2014, generated on 2014/10/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 134
+Number of records retrieved in searches: 2841
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 2
+	Country: Bosnia and Herzegovina ; Times: 1
+	Country: Canada ; Times: 10
+	Country: Chile ; Times: 1
+	Country: Colombia ; Times: 15
+	Country: Denmark ; Times: 1
+	Country: France ; Times: 1
+	Country: Germany ; Times: 7
+	Country: Mexico ; Times: 8
+	Country: United States ; Times: 87
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-09-01 ; Times: 2
+	Date: 2014-09-02 ; Times: 7
+	Date: 2014-09-03 ; Times: 7
+	Date: 2014-09-04 ; Times: 1
+	Date: 2014-09-05 ; Times: 9
+	Date: 2014-09-06 ; Times: 14
+	Date: 2014-09-07 ; Times: 4
+	Date: 2014-09-08 ; Times: 7
+	Date: 2014-09-09 ; Times: 1
+	Date: 2014-09-10 ; Times: 2
+	Date: 2014-09-11 ; Times: 4
+	Date: 2014-09-12 ; Times: 11
+	Date: 2014-09-13 ; Times: 3
+	Date: 2014-09-15 ; Times: 15
+	Date: 2014-09-16 ; Times: 9
+	Date: 2014-09-17 ; Times: 6
+	Date: 2014-09-18 ; Times: 6
+	Date: 2014-09-19 ; Times: 2
+	Date: 2014-09-20 ; Times: 7
+	Date: 2014-09-21 ; Times: 1
+	Date: 2014-09-22 ; Times: 3
+	Date: 2014-09-23 ; Times: 3
+	Date: 2014-09-24 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 13
+	Query: "Cornell Tyrannus verticalis type:specimen" ; Times: 1
+	Query: ""Falco femoralis" type:specimen year >= 1920 year <= 2014 mappable:1" ; Times: 1
+	Query: "house finch" ; Times: 1
+	Query: "Pteroglossus" ; Times: 1
+	Query: "Tyrannus verticalis institutioncode:WFVZ (eggs)" ; Times: 5
+	Query: "Nothoprocta perdicaria" ; Times: 1
+	Query: "harpyhaliaetus solitarius country:"Mexico" mappable:1" ; Times: 1
+	Query: "ectopistes" ; Times: 1
+	Query: "Falco peregrinus anatum country:"united states" year >= 1870 year <= 1940" ; Times: 1
+	Query: "Spheniscidae" ; Times: 1
+	Query: "Gavia Immer type:specimen stateprovince:"California"" ; Times: 2
+	Query: ""Falco femoralis" type:specimen year >= 1920 year <= 2014" ; Times: 2
+	Query: "Rostrhamus sociabilis paraguay" ; Times: 1
+	Query: "Wofford Heights stateprovince:"California"" ; Times: 2
+	Query: "country:"japan" class:aves year >= 1910 year <= 1910" ; Times: 2
+	Query: "recordedby:heinrich year >= 1900 year <= 1920" ; Times: 1
+	Query: "Ptilinopus" ; Times: 1
+	Query: "B 12343" ; Times: 1
+	Query: "Spizaetus ornatus country:"Mexico" mappable:1" ; Times: 1
+	Query: "6596" ; Times: 1
+	Query: "Tyrannus verticalis institutioncode:WFVZ" ; Times: 2
+	Query: "harpia harpyja country:"Mexico" mappable:1" ; Times: 1
+	Query: "county:"Freestone" stateprovince:"Texas"" ; Times: 1
+	Query: "brotogeris" ; Times: 1
+	Query: "Aphelocoma Santa Barbara" ; Times: 1
+	Query: "Falco peregrinus anatum country:"united states" year >= 1830 year <= 1940" ; Times: 1
+	Query: "Gavia Immer type:specimen stateprovince:"California" year >= 2000 year <= 2014" ; Times: 1
+	Query: "Cairina moschata" ; Times: 3
+	Query: "Telophorus dohertyi" ; Times: 3
+	Query: "feather plumas" ; Times: 2
+	Query: "buteo jamaicensis alascensis type:specimen country:"United States"" ; Times: 1
+	Query: "spizaetus ornatus country:"Mexico"" ; Times: 1
+	Query: "Falco peregrinus country:"united states" year >= 1830 year <= 1940" ; Times: 1
+	Query: "Spizaetus ornatus country:"Mexico"" ; Times: 1
+	Query: "butterfly" ; Times: 2
+	Query: "Quetzal bird" ; Times: 2
+	Query: "pied-billed grebe" ; Times: 1
+	Query: "Least weasel" ; Times: 2
+	Query: "Pseudonestor xanthophrys" ; Times: 2
+	Query: "kangaroo" ; Times: 4
+	Query: "falco peregrinus type:specimen country:"United States" year >= 1800 year <= 1940" ; Times: 1
+	Query: "turdoides affinis" ; Times: 1
+	Query: "zonotrichia capensis country:"Argentina" year >= 1980 year <= 2014" ; Times: 1
+	Query: "Mellisuga minima" ; Times: 2
+	Query: "Pterocles alchata type:specimen" ; Times: 2
+	Query: "buteo jamaicensis fuertesi type:specimen country:"United States"" ; Times: 1
+	Query: "Lagopus Newfoundland" ; Times: 1
+	Query: "barred owl" ; Times: 8
+	Query: ""laguna de santa rosa"" ; Times: 1
+	Query: "lonchura cantans" ; Times: 3
+	Query: "Corythaixoides" ; Times: 1
+	Query: "1933 marshall" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 2
+	Query: "Falco peregrinus country:"united states" year >= 1980 year <= 2003" ; Times: 1
+	Query: "diston" ; Times: 1
+	Query: "Buteo jamaicensis borealis type:specimen country:"United States"" ; Times: 1
+	Query: "Falco peregrinus anatum country:"united states" year >= 1850 year <= 1940" ; Times: 1
+	Query: "Pavo muticus" ; Times: 1
+	Query: ""Falco deiroleucus" type:specimen year >= 1920 year <= 2014" ; Times: 1
+	Query: "recordedby:douglas year >= 1883 year <= 1888" ; Times: 1
+	Query: "whip-poor-will" ; Times: 1
+	Query: "Lagopus Newfoundland type:specimen year >= 1800 year <= 2014" ; Times: 3
+	Query: "rallus crepitans" ; Times: 5
+	Query: "Falco peregrinus anatum country:"united states" year >= 1890 year <= 1940" ; Times: 1
+	Query: "zonotrichia capensis stateprovince:"Buenos Aires" country:"Argentina" year >= 1980 year <= 2014" ; Times: 1
+	Query: "fresno slough" ; Times: 1
+	Query: "platyhelminthes" ; Times: 1
+	Query: "(Diston)" ; Times: 1
+	Query: ""Falco rufigularis" type:specimen year >= 1920 year <= 2014" ; Times: 1
+	Query: "Buteo jamaicensis borealis type:specimen country:"United States" year >= 1980 year <= 2010" ; Times: 1
+	Query: "Wofford Heights stateprovince:"California" class:aves" ; Times: 1
+	Query: "Lagopus Newfoundland type:specimen year >= 1800 year <= 2010" ; Times: 2
+	Query: "Sphyrapicus ruber AND California AND (Mexico)" ; Times: 1
+	Query: "Ploceus galbula" ; Times: 1
+	Query: "falco peregrinus type:specimen country:"United States" year >= 1974 year <= 2014" ; Times: 2
+	Query: "Aphelocoma Santa Barbara county" ; Times: 2
+	Query: "Gavia Immer type:specimen stateprovince:"new york"" ; Times: 1
+	Query: ""Falco rufigularis" type:specimen mappable:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 42 (out of 164 download events in this period)
+Total number of records downloaded: 22657 (out of 2860493 records downloaded for all resources in this period)
+Total number of unique records downloaded: 18512
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Cyprus ; Times: 1
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 27
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-09-01 ; Times: 1
+	Date: 2014-09-02 ; Times: 2
+	Date: 2014-09-03 ; Times: 1
+	Date: 2014-09-04 ; Times: 2
+	Date: 2014-09-05 ; Times: 1
+	Date: 2014-09-08 ; Times: 5
+	Date: 2014-09-09 ; Times: 1
+	Date: 2014-09-11 ; Times: 2
+	Date: 2014-09-12 ; Times: 7
+	Date: 2014-09-13 ; Times: 1
+	Date: 2014-09-14 ; Times: 1
+	Date: 2014-09-15 ; Times: 8
+	Date: 2014-09-16 ; Times: 2
+	Date: 2014-09-17 ; Times: 2
+	Date: 2014-09-19 ; Times: 3
+	Date: 2014-09-20 ; Times: 1
+	Date: 2014-09-23 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "PreservedSpecimen genus:zoothera" ; Times: 1
+	Query: "type:specimen (zoothera)" ; Times: 1
+	Query: ""Falco femoralis" type:specimen year >= 1920 year <= 2014" ; Times: 1
+	Query: "aphelocoma" ; Times: 1
+	Query: "Thamnophilus" ; Times: 1
+	Query: "Falco peregrinus anatum country:"united states" year >= 1870 year <= 1940" ; Times: 1
+	Query: "type:specimen stateprovince:"NEW MEXICO" class:AVES year >= 1854 year <= 1955" ; Times: 1
+	Query: "Gavia immer type:specimen" ; Times: 1
+	Query: "Gavia Immer type:specimen stateprovince:"california"" ; Times: 1
+	Query: "zonotrichia capensis" ; Times: 1
+	Query: "type:specimen stateprovince:"TEXAS" class:AVES year >= 1854 year <= 1955" ; Times: 1
+	Query: "Grulla" ; Times: 1
+	Query: "nest stateprovince:"california" genus:junco" ; Times: 1
+	Query: "sigmodon" ; Times: 1
+	Query: "icterus gularis" ; Times: 1
+	Query: "Tyrannus verticalis institutioncode:WFVZ" ; Times: 1
+	Query: "harpia harpyja country:"Mexico" mappable:1" ; Times: 1
+	Query: "Falco peregrinus anatum country:"united states" year >= 1830 year <= 1940" ; Times: 1
+	Query: "spizella mappable:1" ; Times: 1
+	Query: "larus delawarensis" ; Times: 1
+	Query: "Falco peregrinus country:"united states" year >= 1830 year <= 1940" ; Times: 1
+	Query: "Buteo jamaicensis borealis type:specimen country:"United States"" ; Times: 1
+	Query: "habia rubica" ; Times: 1
+	Query: "falco peregrinus type:specimen country:"United States" year >= 1800 year <= 1940" ; Times: 1
+	Query: "Lagopus Newfoundland type:specimen year >= 1800 year <= 2014" ; Times: 1
+	Query: "distance(location,geopoint(34.04014265821739,-118.7127685546875))<7406.907814491575" ; Times: 1
+	Query: "catharus fuscescens" ; Times: 1
+	Query: "Falco peregrinus country:"united states" year >= 1980 year <= 2003" ; Times: 2
+	Query: "pogoniulus bilineatus" ; Times: 1
+	Query: "PreservedSpecimen genus:turdus" ; Times: 1
+	Query: "peromyscus" ; Times: 2
+	Query: "distance(location,geopoint(34.03317229615444,-118.72684478759766))<1889" ; Times: 1
+	Query: "Spizaetus tyrannus country:"Mexico" mappable:1" ; Times: 1
+	Query: "Falconidae type:specimen AND (NOT sparverius) year >= 1940 year <= 2014 mappable:1" ; Times: 1
+	Query: "type:specimen stateprovince:"ARIZONA" class:AVES year >= 1854 year <= 1955" ; Times: 1
+	Query: ""Falco rufigularis" type:specimen year >= 1920 year <= 2014" ; Times: 1
+	Query: "zonotrichia capensis country:"Argentina" year >= 1960 year <= 2014" ; Times: 1
+	Query: "falco peregrinus type:specimen country:"United States" year >= 1974 year <= 2014" ; Times: 1
+	Query: "buteo jamaicensis borealis" ; Times: 1
+	Query: "Gavia Immer type:specimen stateprovince:"new york"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 986
+Total number of records retrieved from searches: 15529
+Number of download events that retrieved data from the resource: 226
+Total number of records downloaded: 107705
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 986
+Total number of records retrieved from searches: 15529
+Number of download events that retrieved data from the resource: 291
+Total number of records downloaded: 145448
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
