@@ -1,0 +1,210 @@
+Report for Institution Code WFVZ, Resource wfvz_birds
+Usage stats for October, 2014, generated on 2014/11/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 171
+Number of records retrieved in searches: 3822
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: China ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: France ; Times: 7
+	Country: Germany ; Times: 7
+	Country: Mexico ; Times: 2
+	Country: Panama ; Times: 15
+	Country: United States ; Times: 132
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-10-10 ; Times: 14
+	Date: 2014-10-11 ; Times: 16
+	Date: 2014-10-13 ; Times: 5
+	Date: 2014-10-14 ; Times: 5
+	Date: 2014-10-15 ; Times: 4
+	Date: 2014-10-16 ; Times: 2
+	Date: 2014-10-17 ; Times: 6
+	Date: 2014-10-18 ; Times: 9
+	Date: 2014-10-19 ; Times: 6
+	Date: 2014-10-20 ; Times: 22
+	Date: 2014-10-21 ; Times: 18
+	Date: 2014-10-22 ; Times: 2
+	Date: 2014-10-23 ; Times: 17
+	Date: 2014-10-24 ; Times: 7
+	Date: 2014-10-25 ; Times: 2
+	Date: 2014-10-26 ; Times: 3
+	Date: 2014-10-27 ; Times: 19
+	Date: 2014-10-28 ; Times: 2
+	Date: 2014-10-29 ; Times: 5
+	Date: 2014-10-30 ; Times: 4
+	Date: 2014-10-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "argusianus captive" ; Times: 10
+	Query: "Tyrannus dominicensis institutioncode:WFVZ" ; Times: 3
+	Query: "LSUMZ" ; Times: 1
+	Query: "Veniliornis nigriceps" ; Times: 1
+	Query: "year >= 1866 year <= 1866 AND (NOT Jamaica)" ; Times: 4
+	Query: "goldfinch" ; Times: 1
+	Query: "human" ; Times: 1
+	Query: "county:"Hamilton" stateprovince:"texas"" ; Times: 3
+	Query: "Crax rubra panama" ; Times: 1
+	Query: "elf" ; Times: 3
+	Query: "Numenius americanus parvus year <= 1910" ; Times: 1
+	Query: "specificepithet:varia genus:mniotilta (nest)" ; Times: 1
+	Query: "Anastomus oscitans" ; Times: 2
+	Query: "stateprovince:"california" country:"united states" specificepithet:corax genus:corvus year >= 1700 year <= 1890" ; Times: 1
+	Query: "crax rubra panama" ; Times: 1
+	Query: "stateprovince:"California" specificepithet:Corax genus:Corvus" ; Times: 1
+	Query: "Sora" ; Times: 1
+	Query: "denton wellesley" ; Times: 3
+	Query: "type:specimen (melanitta AND cornell) AND (NOT sound)" ; Times: 1
+	Query: "Philortyx fasciatus" ; Times: 1
+	Query: "tetraogallus" ; Times: 1
+	Query: "stateprovince:"colorado" country:"united states" specificepithet:corax genus:corvus year >= 1800 year <= 1924" ; Times: 1
+	Query: "parrot" ; Times: 1
+	Query: "fairy" ; Times: 1
+	Query: "stateprovince:"California" specificepithet:Corax genus:Corvus year >= 1700 year <= 1890" ; Times: 2
+	Query: "Catharus guttatus auduboni year >= 1929 year <= 1929" ; Times: 1
+	Query: "Semnornis year >= 1985 year <= 2014" ; Times: 1
+	Query: "grus canadensis (alaska)" ; Times: 1
+	Query: "Morus" ; Times: 1
+	Query: "Lacedo pulchella" ; Times: 1
+	Query: "mute swan" ; Times: 1
+	Query: "duck billed" ; Times: 1
+	Query: "Crypturellus noctivagus" ; Times: 1
+	Query: "Frank Lattin" ; Times: 2
+	Query: "stateprovince:"colorado" specificepithet:corax genus:corvus year >= 1894 year <= 1924" ; Times: 1
+	Query: "chipping sparrow" ; Times: 2
+	Query: "stateprovince:"colorado" country:"united states" specificepithet:corax genus:corvus year >= 1800 year <= 1894" ; Times: 1
+	Query: "dwarf" ; Times: 2
+	Query: "lindsey creek" ; Times: 1
+	Query: "Petaluma county:"Sonoma" stateprovince:"California"" ; Times: 2
+	Query: "Penelope dabbenei" ; Times: 1
+	Query: "catharus minimus" ; Times: 1
+	Query: "psaltria santa barbara" ; Times: 1
+	Query: "Sicalis olivascens" ; Times: 1
+	Query: "stateprovince:"north dakota" recordedby:judd" ; Times: 1
+	Query: "Perdicula argoondah" ; Times: 1
+	Query: "Tyrannus melancholicus institutioncode:WFVZ" ; Times: 6
+	Query: "Sialia mexicana utah" ; Times: 1
+	Query: "tijuana" ; Times: 1
+	Query: "Ammoperdix griseogularis" ; Times: 3
+	Query: "melanitta cornell type:specimen AND (NOT sound)" ; Times: 1
+	Query: ""white-throated sparrow"" ; Times: 1
+	Query: "Fork-tailed Flycatcher institutioncode:WFVZ" ; Times: 1
+	Query: "Tyrannus couchii institutioncode:WFVZ" ; Times: 4
+	Query: "american kestrel" ; Times: 2
+	Query: ""yellow-billed cuckoo"" ; Times: 2
+	Query: "Skin stateprovince:"California" specificepithet:Corax genus:Corvus (Skin) AND (Eggs) year >= 1700 year <= 1915" ; Times: 1
+	Query: "white-crowned sparrow" ; Times: 2
+	Query: "melanitta cornell" ; Times: 1
+	Query: "Long-eared owl" ; Times: 1
+	Query: "stateprovince:"California" specificepithet:Corax genus:Corvus year >= 1700 year <= 1914" ; Times: 1
+	Query: "Lacedo pulchella type:specimen" ; Times: 1
+	Query: "Skin stateprovince:"California" specificepithet:Corax genus:Corvus (Skin) AND (Egg) year >= 1700 year <= 1915" ; Times: 2
+	Query: "aphelocoma dickey" ; Times: 2
+	Query: ""Tadorna"" ; Times: 1
+	Query: "kingfisher" ; Times: 1
+	Query: "Chordeiles minor aserriensis" ; Times: 1
+	Query: "verditer flycatcher" ; Times: 2
+	Query: "county:"Comanche" stateprovince:"texas"" ; Times: 1
+	Query: "stateprovince:"California" specificepithet:Corax genus:Corvus (Skin) year >= 1700 year <= 1915" ; Times: 1
+	Query: "chamaepetes unicolor" ; Times: 10
+	Query: "geositta cornell" ; Times: 2
+	Query: "Skin stateprovince:"California" specificepithet:Corax genus:Corvus AND (Eggs ) year >= 1700 year <= 1915" ; Times: 2
+	Query: "Cyanolyca pulchra" ; Times: 1
+	Query: "bucerotidae cornell" ; Times: 2
+	Query: "specificepithet:genei genus:larus" ; Times: 8
+	Query: "anteater" ; Times: 1
+	Query: "Myrmotherula ornata" ; Times: 1
+	Query: "dendrortyx" ; Times: 1
+	Query: "Dendrocincla anabatina" ; Times: 3
+	Query: "la cumbre de autlan" ; Times: 2
+	Query: "loggerhead shrike" ; Times: 2
+	Query: "Foulehaio carunculata" ; Times: 1
+	Query: "Cardinalis cardinalis superbus" ; Times: 1
+	Query: "calyptorhynchus cornell" ; Times: 1
+	Query: "pionus" ; Times: 2
+	Query: "Numenius americanus parvus" ; Times: 2
+	Query: "furnarius leucopus wfvz nest 1991 ecuador" ; Times: 1
+	Query: "ernest doane" ; Times: 1
+	Query: "Tachuris rubrigastra" ; Times: 3
+	Query: "Granatellus venustus" ; Times: 1
+	Query: "Hemicircus" ; Times: 2
+	Query: "crax rubra" ; Times: 3
+	Query: "specificepithet:Corax genus:Corvus year >= 1700 year <= 1914 distance(location,geopoint(40.44694705960048,-106.5234375))<839064" ; Times: 1
+	Query: "falco sparverius type:specimen stateprovince:"Kansas"" ; Times: 1
+	Query: "semnornis year >= 1990 year <= 2014" ; Times: 1
+	Query: "cyanocorax luxuosus" ; Times: 1
+	Query: "Ortygospiza atricollis ugandae" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 166 download events in this period)
+Total number of records downloaded: 4857 (out of 1059512 records downloaded for all resources in this period)
+Total number of unique records downloaded: 4185
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Paraguay ; Times: 1
+	Country: Philippines ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 11
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-10-10 ; Times: 1
+	Date: 2014-10-11 ; Times: 1
+	Date: 2014-10-13 ; Times: 3
+	Date: 2014-10-14 ; Times: 3
+	Date: 2014-10-17 ; Times: 1
+	Date: 2014-10-19 ; Times: 1
+	Date: 2014-10-21 ; Times: 1
+	Date: 2014-10-24 ; Times: 1
+	Date: 2014-10-27 ; Times: 4
+	Date: 2014-10-28 ; Times: 1
+	Date: 2014-10-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Dendrocincla" ; Times: 1
+	Query: "La Grulla" ; Times: 1
+	Query: "type:specimen specificepithet:purpureus genus:Carpodacus" ; Times: 2
+	Query: "Dark-eyed Junco" ; Times: 1
+	Query: "Callipepla californica" ; Times: 1
+	Query: "MINDORO" ; Times: 1
+	Query: "Alaska AND Kodiak type:specimen class:Aves" ; Times: 1
+	Query: "passer montanus" ; Times: 1
+	Query: "pipilo maculatus" ; Times: 1
+	Query: "specificepithet:montezumae" ; Times: 1
+	Query: "Paraguay" ; Times: 1
+	Query: "Formicarius colma" ; Times: 1
+	Query: ""yellow-billed cuckoo"" ; Times: 2
+	Query: "passer domesticus type:specimen" ; Times: 1
+	Query: "dendrortyx" ; Times: 1
+	Query: "momotus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1157
+Total number of records retrieved from searches: 19351
+Number of download events that retrieved data from the resource: 244
+Total number of records downloaded: 112562
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1157
+Total number of records retrieved from searches: 19351
+Number of download events that retrieved data from the resource: 309
+Total number of records downloaded: 150305
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
