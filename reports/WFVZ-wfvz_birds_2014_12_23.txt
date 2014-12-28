@@ -1,0 +1,165 @@
+Report for Institution Code WFVZ, Resource wfvz_birds
+Usage stats for November, 2014, generated on 2014/12/23
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 112
+Number of records retrieved in searches: 2400
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 35
+	Country: Denmark ; Times: 3
+	Country: Germany ; Times: 10
+	Country: Peru ; Times: 3
+	Country: United States ; Times: 60
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-11-01 ; Times: 2
+	Date: 2014-11-02 ; Times: 4
+	Date: 2014-11-04 ; Times: 4
+	Date: 2014-11-05 ; Times: 1
+	Date: 2014-11-06 ; Times: 3
+	Date: 2014-11-07 ; Times: 5
+	Date: 2014-11-08 ; Times: 2
+	Date: 2014-11-10 ; Times: 9
+	Date: 2014-11-11 ; Times: 2
+	Date: 2014-11-12 ; Times: 5
+	Date: 2014-11-13 ; Times: 34
+	Date: 2014-11-14 ; Times: 4
+	Date: 2014-11-15 ; Times: 5
+	Date: 2014-11-17 ; Times: 3
+	Date: 2014-11-18 ; Times: 1
+	Date: 2014-11-19 ; Times: 1
+	Date: 2014-11-21 ; Times: 5
+	Date: 2014-11-22 ; Times: 3
+	Date: 2014-11-23 ; Times: 1
+	Date: 2014-11-24 ; Times: 3
+	Date: 2014-11-25 ; Times: 7
+	Date: 2014-11-26 ; Times: 2
+	Date: 2014-11-27 ; Times: 1
+	Date: 2014-11-28 ; Times: 1
+	Date: 2014-11-29 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "guy 05" ; Times: 1
+	Query: "Molothrus ater artemisiae year <= 1909" ; Times: 1
+	Query: "county:"Nevada" institutioncode:WFVZ" ; Times: 5
+	Query: "Yellow-billed Cuckoo" ; Times: 2
+	Query: "barred owl nebraska" ; Times: 1
+	Query: "kittiwake" ; Times: 1
+	Query: "type:specimen stateprovince:"minnesota" (nest egg)" ; Times: 1
+	Query: "Henshaw" ; Times: 1
+	Query: "Northern Saw-whet" ; Times: 29
+	Query: "vireo griseus stateprovince:"Florida"" ; Times: 1
+	Query: "Surf scoter" ; Times: 1
+	Query: "hooded warbler" ; Times: 3
+	Query: "northern saw-whet owl" ; Times: 3
+	Query: "Phalacrocorax auritus stateprovince:"Minnesota"" ; Times: 1
+	Query: "Ptilinopus" ; Times: 2
+	Query: "Somateria mollissima" ; Times: 2
+	Query: "Sittasomus griseicapillus sylvioides" ; Times: 1
+	Query: "Phalacrocorax auritus stateprovince:"Wisconsin"" ; Times: 1
+	Query: "mesitornithidae" ; Times: 1
+	Query: "Pinguinus impennis" ; Times: 3
+	Query: "white-eyed vireo" ; Times: 3
+	Query: "todidae" ; Times: 1
+	Query: "buteo jamaicensis alascensis type:specimen country:"United States"" ; Times: 1
+	Query: "vireo idaho" ; Times: 1
+	Query: "morphnus" ; Times: 1
+	Query: "Geothlypis tolmiei" ; Times: 2
+	Query: "Albatross" ; Times: 1
+	Query: "california king snake" ; Times: 1
+	Query: "type:specimen (hooded OR setophaga OR wilsonia AND warbler OR citrina) AND (pusilla)" ; Times: 2
+	Query: "owl feathers" ; Times: 1
+	Query: "great horned owl "great horned owl"" ; Times: 1
+	Query: "pionus" ; Times: 2
+	Query: "Black scoter" ; Times: 1
+	Query: "hawk mountain" ; Times: 1
+	Query: "blue jay" ; Times: 1
+	Query: ""Pinguinus impennis"" ; Times: 1
+	Query: "barred owl" ; Times: 1
+	Query: "Numenius borealis" ; Times: 1
+	Query: "Arachnothera juliae" ; Times: 1
+	Query: "Molothrus aeneus loyei year <= 1937" ; Times: 1
+	Query: "Molothrus aeneus loyei year <= 1934" ; Times: 1
+	Query: "type:specimen (hooded citrina) AND (egg)" ; Times: 1
+	Query: "mellivora" ; Times: 1
+	Query: "type:specimen (hooded citrina)" ; Times: 2
+	Query: "todidae type:specimen" ; Times: 1
+	Query: "porphyrio martinica" ; Times: 3
+	Query: "parrot" ; Times: 1
+	Query: "Agelaius phoeniceus grinnelli" ; Times: 1
+	Query: "black-necked" ; Times: 1
+	Query: "stateprovince:"Alaska" specificepithet:borealis genus:Phylloscopus class:Aves" ; Times: 2
+	Query: "specificepithet:marmoratus genus:brachyramphus year >= 1990 year <= 2014" ; Times: 1
+	Query: "type:specimen specificepithet:marmoratus genus:brachyramphus year >= 1990 year <= 2014" ; Times: 1
+	Query: "Numenius minnesota" ; Times: 1
+	Query: ""Doane Valley"" ; Times: 1
+	Query: "Sapayoa aenigma" ; Times: 4
+	Query: "Tree swallow" ; Times: 1
+	Query: "Morelia" ; Times: 2
+	Query: "Vireo huttoni obscurus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 178 download events in this period)
+Total number of records downloaded: 5664 (out of 878465 records downloaded for all resources in this period)
+Total number of unique records downloaded: 5568
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: Mexico ; Times: 2
+	Country: Panama ; Times: 1
+	Country: United States ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-11-05 ; Times: 1
+	Date: 2014-11-06 ; Times: 2
+	Date: 2014-11-10 ; Times: 1
+	Date: 2014-11-13 ; Times: 3
+	Date: 2014-11-18 ; Times: 1
+	Date: 2014-11-19 ; Times: 1
+	Date: 2014-11-21 ; Times: 1
+	Date: 2014-11-24 ; Times: 1
+	Date: 2014-11-25 ; Times: 1
+	Date: 2014-11-26 ; Times: 3
+	Date: 2014-11-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:"puebla" country:"Mexico" year <= 2010" ; Times: 1
+	Query: "type:specimen specificepithet:marmoratus genus:brachyramphus year >= 1990 year <= 2014" ; Times: 1
+	Query: "Rissa brevirostris" ; Times: 1
+	Query: "Somateria mollissima" ; Times: 1
+	Query: "(vermivora OR Oreothlypis OR Parula) mappable:1" ; Times: 1
+	Query: "dendroica tissue" ; Times: 1
+	Query: "type:specimen stateprovince:"minnesota" (nest egg)" ; Times: 1
+	Query: "myrmeciza exsul" ; Times: 1
+	Query: "Numenius borealis" ; Times: 1
+	Query: "Northern Saw-whet" ; Times: 3
+	Query: "type:specimen specificepithet:tucanus genus:ramphastos class:aves" ; Times: 1
+	Query: "Morelia" ; Times: 1
+	Query: "aves de chihuahua" ; Times: 1
+	Query: "dendroica" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1269
+Total number of records retrieved from searches: 21751
+Number of download events that retrieved data from the resource: 260
+Total number of records downloaded: 118226
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1269
+Total number of records retrieved from searches: 21751
+Number of download events that retrieved data from the resource: 325
+Total number of records downloaded: 155969
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
