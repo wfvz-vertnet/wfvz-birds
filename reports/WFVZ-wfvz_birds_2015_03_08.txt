@@ -1,0 +1,462 @@
+Report for Institution Code WFVZ, Resource wfvz_birds
+Usage stats for February, 2015, generated on 2015/03/08
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 471
+Number of records retrieved in searches: 11091
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Australia ; Times: 9
+	Country: Brazil ; Times: 42
+	Country: Canada ; Times: 27
+	Country: Chile ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Costa Rica ; Times: 2
+	Country: Faroe Islands ; Times: 1
+	Country: France ; Times: 1
+	Country: Germany ; Times: 21
+	Country: Hungary ; Times: 1
+	Country: India ; Times: 3
+	Country: Mexico ; Times: 72
+	Country: Portugal ; Times: 12
+	Country: United Kingdom ; Times: 25
+	Country: United States ; Times: 241
+	Country: Unknown ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-01 ; Times: 3
+	Date: 2015-02-02 ; Times: 11
+	Date: 2015-02-03 ; Times: 20
+	Date: 2015-02-04 ; Times: 30
+	Date: 2015-02-05 ; Times: 27
+	Date: 2015-02-06 ; Times: 11
+	Date: 2015-02-07 ; Times: 6
+	Date: 2015-02-08 ; Times: 6
+	Date: 2015-02-09 ; Times: 12
+	Date: 2015-02-10 ; Times: 29
+	Date: 2015-02-11 ; Times: 14
+	Date: 2015-02-12 ; Times: 36
+	Date: 2015-02-13 ; Times: 13
+	Date: 2015-02-14 ; Times: 31
+	Date: 2015-02-15 ; Times: 2
+	Date: 2015-02-16 ; Times: 11
+	Date: 2015-02-17 ; Times: 19
+	Date: 2015-02-18 ; Times: 20
+	Date: 2015-02-19 ; Times: 15
+	Date: 2015-02-20 ; Times: 23
+	Date: 2015-02-21 ; Times: 3
+	Date: 2015-02-22 ; Times: 28
+	Date: 2015-02-23 ; Times: 14
+	Date: 2015-02-24 ; Times: 14
+	Date: 2015-02-25 ; Times: 26
+	Date: 2015-02-26 ; Times: 28
+	Date: 2015-02-27 ; Times: 9
+	Date: 2015-02-28 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "Agelaius LSU" ; Times: 1
+	Query: "Myrmotherula behni" ; Times: 1
+	Query: "Falco deiroleucus" ; Times: 1
+	Query: "maitland congreve corax" ; Times: 1
+	Query: "county:"Norfolk" stateprovince:"Massachusetts"" ; Times: 1
+	Query: "Coccyzus minor" ; Times: 1
+	Query: "Coeligena wilsoni" ; Times: 3
+	Query: "cook canada type:specimen (egg) year >= 1920 year <= 1950" ; Times: 1
+	Query: "william hobson buteo" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:johansen institutioncode:wfvz" ; Times: 1
+	Query: "leptoptilos" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:hobson institutioncode:wfvz" ; Times: 1
+	Query: "wissahickon" ; Times: 1
+	Query: "Scotopelia" ; Times: 2
+	Query: "Chaetura pelagica mappable:1" ; Times: 1
+	Query: "hooded warbler" ; Times: 1
+	Query: ""san jose tenango"" ; Times: 1
+	Query: "cathartes aura" ; Times: 3
+	Query: "psm athene" ; Times: 3
+	Query: ""Buteo jamaicensis calurus" type:specimen institutioncode:wfvz (specimen)" ; Times: 1
+	Query: "Callipepla Californica mappable:1" ; Times: 3
+	Query: ""Empidonax traillii" type:specimen (Arizona) mappable:1" ; Times: 2
+	Query: "WFVZ Psittacidae eggs" ; Times: 1
+	Query: "Salpornis" ; Times: 1
+	Query: "Orthotomus Sri Lanka" ; Times: 1
+	Query: "fregata magnificens mexico type:specimen" ; Times: 1
+	Query: "culicicapa ceylonensis type:specimen country:"India"" ; Times: 2
+	Query: "orthotomus sutorius type:specimen country:"Sri Lanka"" ; Times: 1
+	Query: "dendroica petechia year >= 2000 year <= 2013 mappable:1" ; Times: 1
+	Query: "alca torda eggs" ; Times: 1
+	Query: "maitland congreve alca torda" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:hopson institutioncode:wfvz" ; Times: 2
+	Query: "albatross irrorata class:Aves" ; Times: 2
+	Query: "Leonard type:specimen recordedby:Leonard year >= 1878 year <= 1890" ; Times: 1
+	Query: "yellow warbler wfvz new york" ; Times: 2
+	Query: "northern Wheatear" ; Times: 1
+	Query: "Hylocharis leucotis" ; Times: 2
+	Query: "pacha" ; Times: 1
+	Query: "institutioncode:wfvz" ; Times: 1
+	Query: "yellow rail" ; Times: 2
+	Query: "class:aves catalognumber:74671" ; Times: 1
+	Query: ""Buteo jamaicensis calurus" institutioncode:wfvz" ; Times: 1
+	Query: "Caldas" ; Times: 1
+	Query: "branta canadensis distance(location,geopoint(70.50535400877942,-153.017578125))<215614" ; Times: 1
+	Query: "type:specimen specificepithet:pelagica genus:Chaetura class:aves institutioncode:wfvz mappable:1" ; Times: 1
+	Query: "Diomedea albatrus" ; Times: 14
+	Query: "Chlorostilbon mellisugus" ; Times: 2
+	Query: "psm otus asio" ; Times: 1
+	Query: "fregata magnificens" ; Times: 8
+	Query: "institutioncode:wfvz Myanmar" ; Times: 2
+	Query: "enicurus maculatus type:specimen country:"India"" ; Times: 1
+	Query: "aramides axillaris" ; Times: 1
+	Query: "Mesembrinibis cayennensis" ; Times: 3
+	Query: "christopher walsh" ; Times: 1
+	Query: "carriker country:"peru" year >= 1933 year <= 1933" ; Times: 1
+	Query: "Anser caerulescens distance(location,geopoint(70.67088107015755,-149.58984375))<328765" ; Times: 1
+	Query: "Synallaxis moesta" ; Times: 1
+	Query: "Falco peregrinus egg" ; Times: 1
+	Query: "Falco peregrinus Falco peregrinus type:specimen (egg) AND (birds bird)" ; Times: 2
+	Query: "stateprovince:"alaska" recordedby:hopson steve institutioncode:wfvz" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:james e.h. institutioncode:wfvz" ; Times: 1
+	Query: "zoothera mollissima type:specimen country:"India"" ; Times: 1
+	Query: "Melospiza melodia stateprovince:"Pennsylvania"" ; Times: 1
+	Query: "eggs Falco peregrinus anatum type:specimen institutioncode:WFVZ AND (bird)" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:hurley institutioncode:wfvz" ; Times: 1
+	Query: "gallinula chloropus orientalis" ; Times: 1
+	Query: "Chlorochrysa phoenicotis" ; Times: 3
+	Query: "Geococcyx Californianus mappable:1" ; Times: 4
+	Query: "walrus" ; Times: 2
+	Query: "dendrocitta cinerascens" ; Times: 2
+	Query: "stateprovince:"alaska" recordedby:howsley institutioncode:wfvz" ; Times: 1
+	Query: "O Marsh" ; Times: 1
+	Query: "yellow warbler wfvz new jersey" ; Times: 1
+	Query: "chaetura pelagica institutioncode:WFVZ mappable:1" ; Times: 1
+	Query: "lizard california" ; Times: 2
+	Query: "stateprovince:"alaska" class:aves recordedby:hensel institutioncode:wfvz" ; Times: 1
+	Query: "garrulax striatus type:specimen country:"India"" ; Times: 1
+	Query: "psm tyto" ; Times: 2
+	Query: "Lurocalis semitorquatus" ; Times: 2
+	Query: "golden-crowned sparrow" ; Times: 2
+	Query: "buteo buteo bannermani" ; Times: 1
+	Query: "Fregata Magnificens mappable:1" ; Times: 2
+	Query: "oceanodroma leucorhoa institutioncode:wfvz mappable:1" ; Times: 3
+	Query: "Laterallus jamaicensis" ; Times: 1
+	Query: "ortalis leucogastra" ; Times: 2
+	Query: "type:specimen specificepithet:californianus genus:Geococcyx class:aves institutioncode:wfvz" ; Times: 1
+	Query: "Enderson" ; Times: 1
+	Query: "catharus mexicanus" ; Times: 11
+	Query: "congreve cuculus canorus" ; Times: 1
+	Query: "lava gull" ; Times: 1
+	Query: "palomar mountain distance(location,geopoint(33.32651223950189,-116.9498062133789))<100000" ; Times: 1
+	Query: "Pegunungan Tamrau ripley" ; Times: 1
+	Query: "great horned owl" ; Times: 1
+	Query: "oceanodroma melania institutioncode:wfvz mappable:1" ; Times: 3
+	Query: "type:specimen stateprovince:"Santa Catarina" country:"Brazil" class:Aves year >= 1850 year <= 2015" ; Times: 1
+	Query: "empidonax traillii (arizona ) mappable:1" ; Times: 1
+	Query: "Strix rufipes" ; Times: 1
+	Query: "Bubo virginianus saturatus" ; Times: 3
+	Query: "WFVZ Leucosticte" ; Times: 1
+	Query: "type:specimen county:"Blair" stateprovince:"pennsylvania"" ; Times: 1
+	Query: "Megapodius 1913" ; Times: 2
+	Query: "FMNH Riverdale" ; Times: 2
+	Query: "maitland congreve accipiter" ; Times: 1
+	Query: "stateprovince:"PA"" ; Times: 1
+	Query: "maitland congreve bempton" ; Times: 1
+	Query: "usnm 1936" ; Times: 1
+	Query: "turdoides affinis type:specimen country:"India"" ; Times: 1
+	Query: "Contopus virens stateprovince:"Pennsylvania"" ; Times: 1
+	Query: "bat costa rica" ; Times: 2
+	Query: "county:"Blair" stateprovince:"pennsylvania"" ; Times: 2
+	Query: "Thripophaga" ; Times: 3
+	Query: "stateprovince:"utah" (egg island) mappable:1" ; Times: 1
+	Query: "streaked shearwater" ; Times: 1
+	Query: "Cardinalis cardinalis type:specimen (Mexico) year >= 1980 year <= 2014" ; Times: 1
+	Query: "owl minnesota" ; Times: 1
+	Query: "psm asio otus" ; Times: 1
+	Query: "county:"Hall" stateprovince:"Nebraska" year <= 2015" ; Times: 1
+	Query: "institutioncode:wfvz Psittacula" ; Times: 1
+	Query: "fregata magnificens mappable:1" ; Times: 2
+	Query: "Koklass" ; Times: 2
+	Query: "Aratinga finschi 1997" ; Times: 1
+	Query: "probosciger aterrimus type:specimen" ; Times: 2
+	Query: "congreve vanellus" ; Times: 1
+	Query: "hobson hobby" ; Times: 1
+	Query: "eggs Falco peregrinus anatum type:specimen institutioncode:WFVZ (Eggs) AND (Bird)" ; Times: 3
+	Query: "Elanoides forficatus" ; Times: 1
+	Query: ""Empidonax traillii" type:specimen (utah) mappable:1" ; Times: 1
+	Query: "fregata magnificens mexico type:specimen (Cape verde)" ; Times: 1
+	Query: "geococcyx californianus mappable:1" ; Times: 3
+	Query: "fregata magnificens caribbean" ; Times: 1
+	Query: "accipiter badius type:specimen country:"India"" ; Times: 1
+	Query: "psm micrathene" ; Times: 1
+	Query: "type:specimen genus:pseudoscops" ; Times: 1
+	Query: ""Empidonax traillii" type:specimen (montana) mappable:1" ; Times: 1
+	Query: ""Dendroica petechia" type:specimen (California) mappable:1 distance(location,geopoint(39.35836934869491,-120.73608353734016))<100000" ; Times: 1
+	Query: "piranga ludoviciana johnson" ; Times: 1
+	Query: "fred m. jones" ; Times: 2
+	Query: "aves quetzal" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:hersey institutioncode:wfvz" ; Times: 1
+	Query: "cnipodectes subbrunneus" ; Times: 1
+	Query: "population count data" ; Times: 1
+	Query: "gill genus:zosterops AND (NOT UMMZ) year >= 1967 year <= 1967" ; Times: 1
+	Query: "Ornithion semiflavum type:specimen" ; Times: 1
+	Query: "stateprovince:"alaska" genus:calidris class:aves year >= 1917 year <= 1917" ; Times: 1
+	Query: "bubo psm" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:hoberg institutioncode:wfvz" ; Times: 1
+	Query: ""empidonax traillii" (Arizona)" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:howsley" ; Times: 1
+	Query: "maitland congreve corvus frugilegus" ; Times: 1
+	Query: "Sialia mexicana occidentalis year <= 1889" ; Times: 1
+	Query: "callipepla californica institutioncode:WFVZ mappable:1" ; Times: 2
+	Query: "turdus boulboul type:specimen country:"India"" ; Times: 2
+	Query: "Sclerurus type:specimen" ; Times: 1
+	Query: "danube river" ; Times: 1
+	Query: "Falco peregrinus anatum egg sets" ; Times: 2
+	Query: "psm Glaucidium" ; Times: 1
+	Query: "pulsatrix melanota" ; Times: 1
+	Query: "Wilsonia citrina stateprovince:"Pennsylvania"" ; Times: 2
+	Query: "stateprovince:"california" specificepithet:corax genus:corvus year >= 1800 year <= 1895" ; Times: 1
+	Query: "Psittacula myanmar" ; Times: 4
+	Query: ""Buteo jamaicensis" institutioncode:wfvz" ; Times: 1
+	Query: "carabidae" ; Times: 1
+	Query: "branta bernicla distance(location,geopoint(70.50535400877942,-153.017578125))<215614" ; Times: 2
+	Query: "common redpoll" ; Times: 2
+	Query: "stateprovince:"alaska" class:aves recordedby:heath year >= 1900 year <= 1920" ; Times: 1
+	Query: "rhea americana" ; Times: 1
+	Query: "psm otus" ; Times: 2
+	Query: "stork" ; Times: 1
+	Query: "anser caerulescens distance(location,geopoint(70.50535400877942,-153.017578125))<215614" ; Times: 1
+	Query: "WFVZ Psittacidae" ; Times: 4
+	Query: "sterna paradisaea" ; Times: 1
+	Query: "catharus guttatus (Maine)" ; Times: 1
+	Query: "Lucifer hummingbird" ; Times: 1
+	Query: ""Poly"" ; Times: 1
+	Query: "grallaria carrikeri" ; Times: 2
+	Query: "stateprovince:"california" specificepithet:corax genus:corvus year >= 1800 year <= 1915" ; Times: 1
+	Query: "enicurus scouleri type:specimen country:"India"" ; Times: 1
+	Query: "milvus migrans type:specimen country:"India"" ; Times: 1
+	Query: "william hobson" ; Times: 1
+	Query: "pulsatrix" ; Times: 3
+	Query: "Cichladusa guttata Kenya" ; Times: 1
+	Query: "Myanmar 1901" ; Times: 1
+	Query: "Agua Bonita" ; Times: 1
+	Query: "orthotomus sutorius type:specimen country:"myanmar"" ; Times: 1
+	Query: "fulvetta vinipectus type:specimen country:"India"" ; Times: 1
+	Query: "cassowary" ; Times: 3
+	Query: "Xenops tenuirostris" ; Times: 1
+	Query: "Gallus gallus" ; Times: 1
+	Query: "fields defined" ; Times: 1
+	Query: "(crete)" ; Times: 2
+	Query: "Grallaria guatimalensis" ; Times: 1
+	Query: "andrei" ; Times: 2
+	Query: "toucan" ; Times: 1
+	Query: "anisognathus notabilis" ; Times: 1
+	Query: "napothera crassa" ; Times: 1
+	Query: "Fregata magnificens institutioncode:WFVZ mappable:1" ; Times: 1
+	Query: "maitland congreve canorus" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:hersey year >= 1915 year <= 1915" ; Times: 1
+	Query: "stateprovince:"texas" specificepithet:bicolor genus:parus year >= 1982 year <= 1984" ; Times: 1
+	Query: "osprey" ; Times: 1
+	Query: "type:specimen specificepithet:californica genus:Callipepla class:aves institutioncode:wfvz mappable:1" ; Times: 1
+	Query: "waved albatross" ; Times: 1
+	Query: "garrulax albogularis type:specimen country:"India"" ; Times: 1
+	Query: "least bittern type:specimen year >= 1879 year <= 1881" ; Times: 1
+	Query: "type:specimen specificepithet:brachyurus genus:Buteo AND (skin)" ; Times: 1
+	Query: "cinclus pallasii type:specimen country:"India"" ; Times: 1
+	Query: "megapodius" ; Times: 1
+	Query: "Sterna repressa type:specimen" ; Times: 3
+	Query: "muhlenberg county kentucky" ; Times: 2
+	Query: ""Buteo jamaicensis" type:specimen institutioncode:wfvz (specimen)" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:hunter" ; Times: 1
+	Query: "corvus splendens type:specimen country:"India"" ; Times: 2
+	Query: "type:specimen specificepithet:semiflavum genus:ornithion" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:hopson steve institutioncode:wfvz" ; Times: 1
+	Query: "leptoptilos dubius" ; Times: 5
+	Query: "jones year >= 1900 year <= 1935" ; Times: 1
+	Query: "larus fuliginosus" ; Times: 1
+	Query: "albatross albatrus class:Aves" ; Times: 1
+	Query: "county:"Del norte" stateprovince:"California" (george) mappable:1" ; Times: 1
+	Query: "Cyanocorax cyanopogon" ; Times: 1
+	Query: "psm bubo" ; Times: 2
+	Query: "heliodoxa aurescens" ; Times: 1
+	Query: "pygmy nuthatch" ; Times: 1
+	Query: "Lako" ; Times: 1
+	Query: "maitland congreve" ; Times: 4
+	Query: "prinia socialis type:specimen" ; Times: 3
+	Query: "Chrysothlypis salmoni" ; Times: 1
+	Query: "Anser caerulescens" ; Times: 1
+	Query: "ectopistes" ; Times: 1
+	Query: "Waved albatross" ; Times: 2
+	Query: "psm hawaii" ; Times: 1
+	Query: "gymnogyps" ; Times: 5
+	Query: "Quiscalus quiscula stateprovince:"Pennsylvania"" ; Times: 3
+	Query: "orthotomus sutorius type:specimen country:"India"" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:hopson steve" ; Times: 2
+	Query: "Geococcyx californianus mappable:1" ; Times: 5
+	Query: "Heterophasia capistrata type:specimen country:"India"" ; Times: 1
+	Query: "Crooker" ; Times: 1
+	Query: "stateprovince:"virginia" (cobbs island) mappable:1" ; Times: 1
+	Query: "eggs Falco peregrinus type:specimen institutioncode:WFVZ AND (bird birds)" ; Times: 1
+	Query: "Athene" ; Times: 2
+	Query: "chaetura pelagica mappable:1" ; Times: 4
+	Query: "county:"Osceola" stateprovince:"Florida" year <= 2015" ; Times: 1
+	Query: "type:specimen stateprovince:"North Dakota" (Devils Lake) mappable:1" ; Times: 1
+	Query: "solstitialis" ; Times: 1
+	Query: "Stigmatura budytoides" ; Times: 4
+	Query: "whip-poor" ; Times: 1
+	Query: "leptodon cayanensis" ; Times: 2
+	Query: "yellow warbler wfvz" ; Times: 1
+	Query: "sitta himalayensis type:specimen country:"India"" ; Times: 1
+	Query: "prinia socialis" ; Times: 2
+	Query: "Eupetomena macroura brazil" ; Times: 2
+	Query: "congreve pica" ; Times: 3
+	Query: "Heliodoxa schreibersii" ; Times: 1
+	Query: "chaimarrornis leucocephalus type:specimen country:"India"" ; Times: 2
+	Query: "aeronautes saxatalis institutioncode:wfvz mappable:1" ; Times: 3
+	Query: "congreve hobby" ; Times: 2
+	Query: "eider type:specimen year >= 1883 year <= 1885" ; Times: 3
+	Query: "PSM Leucosticte" ; Times: 2
+	Query: "Pharomachrus mocinno" ; Times: 2
+	Query: "stateprovince:"alaska" recordedby:hopson institutioncode:wfvz" ; Times: 1
+	Query: "class:aves recordedby:hines institutioncode:wfvz" ; Times: 1
+	Query: "Calothorax lucifer" ; Times: 1
+	Query: "culicicapa ceylonensis type:specimen country:"Sri Lanka"" ; Times: 1
+	Query: "andigena laminirostris" ; Times: 1
+	Query: "arachnothera longirostra type:specimen country:"India"" ; Times: 1
+	Query: "monticola rufiventris type:specimen country:"India"" ; Times: 1
+	Query: "specificepithet:corax genus:corvus class:aves year >= 1921 year <= 1921" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 3
+	Query: "congreve eagle" ; Times: 2
+	Query: "cairina moschata" ; Times: 2
+	Query: "palomar mountain" ; Times: 1
+	Query: "aledo illinois" ; Times: 2
+	Query: "Arizona county:"kern"" ; Times: 1
+	Query: "puffer lake beaver" ; Times: 1
+	Query: "Myrmotherula erythrura" ; Times: 1
+	Query: "Cichladusa Kenya" ; Times: 1
+	Query: "Fregata magnificens" ; Times: 4
+	Query: "dicrurus macrocercus type:specimen country:"India"" ; Times: 1
+	Query: "Xenotriccus mexicanus type:specimen" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:innokente institutioncode:wfvz" ; Times: 1
+	Query: "Heliomaster longirostris" ; Times: 1
+	Query: "Picathartes" ; Times: 1
+	Query: "country:"india" recordedby:sparrow" ; Times: 2
+	Query: "stateprovince:"alaska" class:aves recordedby:johansen" ; Times: 1
+	Query: "Juan de Nova" ; Times: 1
+	Query: "garrulax delesserti type:specimen country:"India"" ; Times: 1
+	Query: "Falco peregrinus institutioncode:WFVZ (Eggs)" ; Times: 3
+	Query: "Neophron percnopterus type:specimen (Cape verde)" ; Times: 1
+	Query: "least bittern type:specimen year >= 1879 year <= 1880" ; Times: 1
+	Query: "aquia creek" ; Times: 4
+	Query: "maitland congreve milvus" ; Times: 1
+	Query: "psm asio" ; Times: 1
+	Query: "Otus spilocephalus" ; Times: 1
+	Query: "Fregata Magnificens institutioncode:WFVZ mappable:1" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:hurley institutioncode:wfvz year >= 1929 year <= 1931" ; Times: 1
+	Query: "Streptoprocne zonaris" ; Times: 1
+	Query: "Callipepla californica mappable:1" ; Times: 6
+	Query: "Carriker 1933 Peru" ; Times: 1
+	Query: "Bat falcon" ; Times: 1
+	Query: "cook type:specimen (egg) year >= 1920 year <= 1950" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 36 (out of 326 download events in this period)
+Total number of records downloaded: 20161 (out of 4108714 records downloaded for all resources in this period)
+Total number of unique records downloaded: 19806
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: France ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: Sweden ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 16
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-01 ; Times: 1
+	Date: 2015-02-02 ; Times: 2
+	Date: 2015-02-03 ; Times: 2
+	Date: 2015-02-04 ; Times: 3
+	Date: 2015-02-05 ; Times: 3
+	Date: 2015-02-07 ; Times: 1
+	Date: 2015-02-09 ; Times: 1
+	Date: 2015-02-11 ; Times: 2
+	Date: 2015-02-14 ; Times: 1
+	Date: 2015-02-16 ; Times: 2
+	Date: 2015-02-17 ; Times: 1
+	Date: 2015-02-18 ; Times: 1
+	Date: 2015-02-19 ; Times: 2
+	Date: 2015-02-20 ; Times: 1
+	Date: 2015-02-21 ; Times: 1
+	Date: 2015-02-22 ; Times: 1
+	Date: 2015-02-23 ; Times: 2
+	Date: 2015-02-24 ; Times: 3
+	Date: 2015-02-25 ; Times: 3
+	Date: 2015-02-26 ; Times: 1
+	Date: 2015-02-27 ; Times: 1
+	Date: 2015-02-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "peucaea ruficauda" ; Times: 1
+	Query: "Monasa year <= 2015" ; Times: 1
+	Query: "catharus mexicanus" ; Times: 1
+	Query: "Falco peregrinus eggs" ; Times: 1
+	Query: "Dryocopus pileatus mappable:1" ; Times: 1
+	Query: "Cameroon" ; Times: 1
+	Query: "genus:Ducula" ; Times: 1
+	Query: "Hylocharis leucotis" ; Times: 2
+	Query: ""Empidonax traillii" type:specimen (California) mappable:1" ; Times: 1
+	Query: "Bastrop county" ; Times: 1
+	Query: "galbula" ; Times: 1
+	Query: "country:"Peru"" ; Times: 1
+	Query: "Calothorax lucifer" ; Times: 1
+	Query: "Cardinalis Sinaloa" ; Times: 1
+	Query: "country:"Guatemala" (passeriformes OR picidae OR cuculiformes)" ; Times: 1
+	Query: "Tephrodornis gularis" ; Times: 1
+	Query: "type:specimen specificepithet:californica genus:Callipepla class:aves institutioncode:wfvz mappable:1" ; Times: 1
+	Query: "(turdus OR zoothera)" ; Times: 1
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "quetzal" ; Times: 1
+	Query: "carriker country:"peru" year >= 1933 year <= 1933" ; Times: 1
+	Query: "Streptoprocne zonaris" ; Times: 1
+	Query: "Bubo africanus" ; Times: 1
+	Query: ""colinus virginianus" type:specimen" ; Times: 1
+	Query: "Coturnicops noveboracensis" ; Times: 1
+	Query: "country:"ecuador"" ; Times: 1
+	Query: "aves stateprovince:"colima" country:"mexico" class:aves mappable:1" ; Times: 1
+	Query: "nipissing" ; Times: 1
+	Query: "CHILE" ; Times: 1
+	Query: "Campephilus imperialis" ; Times: 1
+	Query: "Crypturellus" ; Times: 1
+	Query: "Turnix sylvatica" ; Times: 1
+	Query: "stateprovince:"Kentucky"" ; Times: 1
+	Query: "Zosterops type:specimen institutioncode:WFVZ" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1962
+Total number of records retrieved from searches: 36706
+Number of download events that retrieved data from the resource: 119
+Total number of records downloaded: 54181
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 2379
+Total number of records retrieved from searches: 41988
+Number of download events that retrieved data from the resource: 483
+Total number of records downloaded: 226114
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
