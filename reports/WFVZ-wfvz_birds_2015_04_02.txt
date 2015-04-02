@@ -1,0 +1,373 @@
+Report for Institution Code WFVZ, Resource wfvz_birds
+Usage stats for March, 2015, generated on 2015/04/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 308
+Number of records retrieved in searches: 3788
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 4
+	Country: Australia ; Times: 2
+	Country: Brazil ; Times: 16
+	Country: Canada ; Times: 9
+	Country: Denmark ; Times: 1
+	Country: France ; Times: 2
+	Country: Germany ; Times: 55
+	Country: India ; Times: 2
+	Country: Italy ; Times: 7
+	Country: Mexico ; Times: 9
+	Country: Panama ; Times: 1
+	Country: South Korea ; Times: 1
+	Country: Thailand ; Times: 2
+	Country: United Kingdom ; Times: 6
+	Country: United States ; Times: 180
+	Country: Unknown ; Times: 7
+	Country: Venezuela ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-01 ; Times: 1
+	Date: 2015-03-02 ; Times: 7
+	Date: 2015-03-03 ; Times: 8
+	Date: 2015-03-04 ; Times: 34
+	Date: 2015-03-05 ; Times: 17
+	Date: 2015-03-06 ; Times: 20
+	Date: 2015-03-07 ; Times: 9
+	Date: 2015-03-08 ; Times: 5
+	Date: 2015-03-09 ; Times: 17
+	Date: 2015-03-10 ; Times: 9
+	Date: 2015-03-11 ; Times: 17
+	Date: 2015-03-12 ; Times: 26
+	Date: 2015-03-13 ; Times: 16
+	Date: 2015-03-15 ; Times: 4
+	Date: 2015-03-16 ; Times: 12
+	Date: 2015-03-17 ; Times: 15
+	Date: 2015-03-18 ; Times: 18
+	Date: 2015-03-19 ; Times: 6
+	Date: 2015-03-20 ; Times: 6
+	Date: 2015-03-21 ; Times: 2
+	Date: 2015-03-22 ; Times: 6
+	Date: 2015-03-23 ; Times: 6
+	Date: 2015-03-24 ; Times: 14
+	Date: 2015-03-25 ; Times: 4
+	Date: 2015-03-26 ; Times: 4
+	Date: 2015-03-27 ; Times: 8
+	Date: 2015-03-28 ; Times: 2
+	Date: 2015-03-30 ; Times: 14
+	Date: 2015-03-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:cyanea genus:Pitta" ; Times: 1
+	Query: "Chordeiles minor chapmani" ; Times: 1
+	Query: "Falco deiroleucus" ; Times: 1
+	Query: "institutioncode:wfvz Agapornis" ; Times: 3
+	Query: "colinus ridgwayi year >= 1950 year <= 2015" ; Times: 1
+	Query: "peucaea ruficauda" ; Times: 1
+	Query: "finca esperanza specificepithet:poliocephala genus:geothlypis year >= 1940 year <= 1940" ; Times: 1
+	Query: "type:specimen specificepithet:sumatranus genus:corydon" ; Times: 1
+	Query: ""Ficedula narcissina"" ; Times: 2
+	Query: "Arborophila atrogularis" ; Times: 1
+	Query: "Montezuma quail year >= 1888 year <= 2014 mappable:1" ; Times: 1
+	Query: "type:specimen specificepithet:moluccensis megarhyncha genus:pitta" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:koford institutioncode:wfvz" ; Times: 1
+	Query: "amazonetta brasiliensis" ; Times: 2
+	Query: "pectoral sandpiper" ; Times: 1
+	Query: "colinus nigrogularis" ; Times: 1
+	Query: "stateprovince:"alaska" specificepithet:acuminata class:aves" ; Times: 1
+	Query: "crawfish frog" ; Times: 1
+	Query: "catalognumber:38291 institutioncode:WFVZ" ; Times: 1
+	Query: "culicicapa ceylonensis type:specimen country:"India"" ; Times: 3
+	Query: "culicicapa ceylonensis type:specimen mappable:1" ; Times: 1
+	Query: "country:"panama" (thryothorus modestus)" ; Times: 1
+	Query: "Sayornis saya type:specimen county:"Ventura" stateprovince:"California"" ; Times: 1
+	Query: "Lorius chlorocercus year >= 1990 year <= 2015" ; Times: 1
+	Query: "county:"Patzcuaro" stateprovince:"Michoacan" country:"Mexico"" ; Times: 1
+	Query: "Tockus deckeni" ; Times: 1
+	Query: "meiglyptes" ; Times: 2
+	Query: "Pallid Harrier" ; Times: 1
+	Query: "dactylortyx" ; Times: 1
+	Query: ""grallaria guatimalensis" type:specimen" ; Times: 1
+	Query: "specificepithet:poliocephala genus:geothlypis year >= 1940 year <= 1940" ; Times: 1
+	Query: "Cyrtonyx montezumae country:"mexico" year >= 1960 year <= 2015" ; Times: 1
+	Query: "Philortyx fasciatus" ; Times: 1
+	Query: "institutioncode:wfvz" ; Times: 4
+	Query: "manatee" ; Times: 1
+	Query: "Molothrus ater obscurus county:"San Diego" mappable:1" ; Times: 2
+	Query: "laysan albatross" ; Times: 1
+	Query: "institutioncode:wfvz Psittacula" ; Times: 3
+	Query: "type:specimen specificepithet:ridgwayi genus:cotinga" ; Times: 1
+	Query: "type:specimen specificepithet:moluccensis genus:pitta" ; Times: 1
+	Query: "paradoxornis poliotis" ; Times: 1
+	Query: "type:specimen specificepithet:amabilis genus:cotinga" ; Times: 1
+	Query: "Megapodius eremita" ; Times: 1
+	Query: "harpagus diodon" ; Times: 1
+	Query: "type:specimen stateprovince:"Utah" (Bear River)" ; Times: 1
+	Query: "gavia immer" ; Times: 1
+	Query: "county:"Sumter" stateprovince:"Alabama"" ; Times: 1
+	Query: "type:specimen specificepithet:cubensis genus:Tyrannus" ; Times: 1
+	Query: "colinus atriceps" ; Times: 1
+	Query: "Molothrus ater obscurus county:"San Diego" stateprovince:"California" mappable:1" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:macey institutioncode:wfvz" ; Times: 1
+	Query: "Eremophila alpestris insularis type:specimen" ; Times: 1
+	Query: "roseate spoonbill" ; Times: 6
+	Query: "Agapornis weight" ; Times: 3
+	Query: "california dawson type:specimen year >= 1888 year <= 1940" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:kofahl institutioncode:wfvz" ; Times: 1
+	Query: "Ptilinopus superbus year >= 1990 year <= 2015" ; Times: 1
+	Query: "Psittacula eggs" ; Times: 3
+	Query: "florence arizona" ; Times: 3
+	Query: "dendrortyx leucophrys" ; Times: 2
+	Query: "Strix occidentalis" ; Times: 1
+	Query: "year >= 1839 year <= 1839" ; Times: 1
+	Query: "francolinus psilolaemus" ; Times: 1
+	Query: "pacoima" ; Times: 1
+	Query: "Lepidopyga coeruleogularis" ; Times: 2
+	Query: "stateprovince:"alaska" class:aves recordedby:lamont" ; Times: 1
+	Query: "sager" ; Times: 1
+	Query: "calyptomena viridis institutioncode:wfvz" ; Times: 1
+	Query: "Lesbia nuna country:"Colombia"" ; Times: 1
+	Query: "Common Myna" ; Times: 2
+	Query: "Odontophorus speciosus" ; Times: 1
+	Query: "paris Parus major" ; Times: 1
+	Query: "Piping Plover" ; Times: 2
+	Query: "type:specimen specificepithet:oberi genus:myiarchus" ; Times: 2
+	Query: "francolinus icterorhynchus year >= 1950 year <= 2015" ; Times: 1
+	Query: "Rhodinocichla rosea" ; Times: 1
+	Query: "Molothrus ater obscurus county:"San Diego"" ; Times: 1
+	Query: "Suliformes los angeles" ; Times: 1
+	Query: "Pitta granatina" ; Times: 1
+	Query: "dendrortyx macroura jalisco" ; Times: 1
+	Query: "Rynchops niger" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:kennedy institutioncode:wfvz" ; Times: 1
+	Query: "aves birds georgia united states ummz" ; Times: 1
+	Query: "racoon" ; Times: 2
+	Query: "mitu brazil" ; Times: 1
+	Query: "Molothrus oryzivora" ; Times: 2
+	Query: "campephilus principalis" ; Times: 1
+	Query: "culicicapa ceylonensis type:specimen (Skin) mappable:1" ; Times: 1
+	Query: "fleayi" ; Times: 2
+	Query: "stateprovince:"alaska" class:aves recordedby:koen institutioncode:wfvz" ; Times: 1
+	Query: "geothlypis poliocephala" ; Times: 2
+	Query: "gallus sonneratii" ; Times: 3
+	Query: "pauxi" ; Times: 1
+	Query: "Psittacula longicauda" ; Times: 8
+	Query: "Rhipidura cyaniceps" ; Times: 1
+	Query: "type:specimen recordedby:Primrose" ; Times: 1
+	Query: "amaurolimnas concolor" ; Times: 2
+	Query: "stateprovince:"alaska" class:aves recordedby:littlejohn institutioncode:wfvz" ; Times: 1
+	Query: "type:specimen specificepithet:leucorrhoa genus:corapipo" ; Times: 1
+	Query: "dactylortyx thoracicus jalisco" ; Times: 1
+	Query: "institutioncode:wfvz Loriculus" ; Times: 8
+	Query: "specificepithet:guajana genus:Pitta" ; Times: 3
+	Query: "stateprovince:"alaska" class:aves recordedby:leslie institutioncode:wfvz" ; Times: 1
+	Query: "specificepithet:granatina genus:Pitta" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves (paul) year >= 1897 year <= 1898" ; Times: 1
+	Query: "Chordeiles minor chapmani year <= 1887" ; Times: 1
+	Query: "bird skin sarawak" ; Times: 1
+	Query: "heliodoxa imperatrix" ; Times: 1
+	Query: "Pulsatrix" ; Times: 1
+	Query: "Scaphidura" ; Times: 1
+	Query: "stateprovince:"california" country:"mexico" year >= 1921 year <= 1922" ; Times: 1
+	Query: "dendrortyx year >= 1980 year <= 2015" ; Times: 1
+	Query: "furnarius minor" ; Times: 2
+	Query: "institutioncode:wfvz Psittacula longicauda" ; Times: 2
+	Query: "buteo jamaicensis country:"mexico"" ; Times: 2
+	Query: "passer domesticus stateprovince:"delaware"" ; Times: 1
+	Query: "Arborophila hyperythra" ; Times: 1
+	Query: "coleoptera" ; Times: 1
+	Query: "Vireo atricapillus" ; Times: 1
+	Query: "Pluvianellus type:specimen" ; Times: 3
+	Query: "pulsatrix" ; Times: 4
+	Query: "brown-headed nuthatch" ; Times: 2
+	Query: "oklahoma murray" ; Times: 1
+	Query: "colinus oaxaca" ; Times: 2
+	Query: "lamprotornis australis" ; Times: 1
+	Query: "amazona ochrocephala" ; Times: 1
+	Query: "type:specimen specificepithet:nigroviridis genus:Tangara year >= 1990 year <= 2015" ; Times: 1
+	Query: "colinus cristatus badius year >= 1950 year <= 2015" ; Times: 1
+	Query: "rufipes" ; Times: 1
+	Query: "pteroglossus inscriptus inscriptus" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:koen" ; Times: 1
+	Query: "paradoxornis nipalensis" ; Times: 1
+	Query: "salpornis" ; Times: 1
+	Query: "semipalmated sandpiper" ; Times: 2
+	Query: "dendrexetastes" ; Times: 1
+	Query: "nectarinia zeylonica" ; Times: 1
+	Query: "geothlypis poliocephala stateprovince:"texas"" ; Times: 1
+	Query: "collin county" ; Times: 2
+	Query: "Pycnonotus atriceps" ; Times: 4
+	Query: "W. L. Dawson" ; Times: 1
+	Query: "rallus longirostris" ; Times: 2
+	Query: "Harpyhaliaetus solitarius" ; Times: 1
+	Query: "Cyrtonyx ocellatus" ; Times: 2
+	Query: "Sterna repressa type:specimen" ; Times: 1
+	Query: ""Falco deiroleucus" type:specimen" ; Times: 1
+	Query: "passerina versicolor" ; Times: 1
+	Query: "grizzly bear" ; Times: 2
+	Query: "gray catbird" ; Times: 1
+	Query: "Sayornis saya type:specimen county:"San Luis Obispo" stateprovince:"California"" ; Times: 1
+	Query: "cypseloides niger" ; Times: 2
+	Query: "type:specimen specificepithet:inornatus genus:myiophobus" ; Times: 1
+	Query: "leptoptilos dubius" ; Times: 5
+	Query: "specificepithet:brachyura genus:Chaetura" ; Times: 2
+	Query: "Arborophila charltonii" ; Times: 1
+	Query: ""lava heron"" ; Times: 1
+	Query: "colinus country:"mexico" year >= 1970 year <= 2015" ; Times: 1
+	Query: "Myrmeciza berlepschi" ; Times: 1
+	Query: "227991" ; Times: 1
+	Query: "institutioncode:wfvz kihangine" ; Times: 1
+	Query: "Sayornis saya type:specimen county:"San Diego" stateprovince:"California"" ; Times: 1
+	Query: "Psittacula weight" ; Times: 5
+	Query: ""Empidonax wrightii" county:"San Bernardino" class:Aves" ; Times: 1
+	Query: "Eudynamys Bangkok" ; Times: 1
+	Query: "colinus atriceps year >= 1950 year <= 2015" ; Times: 1
+	Query: "Black swift mappable:1" ; Times: 1
+	Query: "(Menage OR Worcester OR Bourns) year <= 1900" ; Times: 1
+	Query: "georgia aves united states 1850" ; Times: 1
+	Query: "institutioncode:wfvz Poicephalus" ; Times: 5
+	Query: "chlorocharis" ; Times: 1
+	Query: "Corvus brachyrhynchos type:specimen county:"San Diego" stateprovince:"California"" ; Times: 1
+	Query: "mountain beaver" ; Times: 1
+	Query: "Stigmatura budytoides" ; Times: 1
+	Query: "advanced search" ; Times: 1
+	Query: ""Sierra del Carmen" Coahuila Aves" ; Times: 1
+	Query: ""francolinus francolinus" year >= 1990 year <= 2015" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:koford" ; Times: 1
+	Query: "loggerhead shrike" ; Times: 1
+	Query: "leptoptilos javanicus" ; Times: 1
+	Query: "Wissahickon" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves institutioncode:wfvz year >= 1924 year <= 1924" ; Times: 1
+	Query: "culicicapa ceylonensis type:specimen" ; Times: 1
+	Query: "Oenanthe cypriaca" ; Times: 6
+	Query: "colinus insignis year >= 1950 year <= 2015" ; Times: 1
+	Query: "francolinus nahani" ; Times: 1
+	Query: "Numenius tenuirostris" ; Times: 4
+	Query: "Phegornis mitchellii" ; Times: 1
+	Query: "Xenops tenuirostris" ; Times: 1
+	Query: "corvus corone" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:cruttenden" ; Times: 1
+	Query: "type:specimen specificepithet:panamensis genus:scytalopus" ; Times: 2
+	Query: "Catharus year >= 1933 year <= 1933" ; Times: 1
+	Query: "colinus minor year >= 1950 year <= 2015" ; Times: 1
+	Query: "type:specimen specificepithet:barbirostris genus:Myiarchus" ; Times: 1
+	Query: "Chalcopsitta cardinalis year >= 1990 year <= 2015" ; Times: 1
+	Query: "ptilinopus superbus year >= 1990 year <= 2015" ; Times: 1
+	Query: ""grus grus"" ; Times: 1
+	Query: "francolinus bicalcaratus year >= 1950 year <= 2015" ; Times: 2
+	Query: "Otus leucotis" ; Times: 1
+	Query: "saroglossa aurata" ; Times: 1
+	Query: "Cypseloides cherriei" ; Times: 4
+	Query: "streaked shearwater" ; Times: 1
+	Query: "scrippsi" ; Times: 3
+	Query: "institutioncode:wfvz Psittinus" ; Times: 6
+	Query: "Chordeiles minor year <= 1905" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 56 (out of 298 download events in this period)
+Total number of records downloaded: 14234 (out of 2382149 records downloaded for all resources in this period)
+Total number of unique records downloaded: 12157
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 9
+	Country: Canada ; Times: 5
+	Country: Cyprus ; Times: 1
+	Country: Mexico ; Times: 10
+	Country: United States ; Times: 26
+	Country: Unknown ; Times: 1
+	Country: Venezuela ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-01 ; Times: 1
+	Date: 2015-03-02 ; Times: 7
+	Date: 2015-03-03 ; Times: 2
+	Date: 2015-03-04 ; Times: 1
+	Date: 2015-03-06 ; Times: 4
+	Date: 2015-03-08 ; Times: 1
+	Date: 2015-03-10 ; Times: 1
+	Date: 2015-03-11 ; Times: 3
+	Date: 2015-03-12 ; Times: 3
+	Date: 2015-03-16 ; Times: 2
+	Date: 2015-03-18 ; Times: 4
+	Date: 2015-03-20 ; Times: 1
+	Date: 2015-03-22 ; Times: 2
+	Date: 2015-03-24 ; Times: 7
+	Date: 2015-03-25 ; Times: 2
+	Date: 2015-03-26 ; Times: 7
+	Date: 2015-03-27 ; Times: 4
+	Date: 2015-03-30 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Ptilinopus superbus year >= 1980 year <= 2015" ; Times: 1
+	Query: "country:"Nicaragua" (passeriformes OR picidae OR cuculiformes)" ; Times: 1
+	Query: "Scaphidura" ; Times: 1
+	Query: "passerina amoena" ; Times: 1
+	Query: "Aves country:"Argentina" year >= 1960 year <= 2014" ; Times: 2
+	Query: "Cacicus" ; Times: 1
+	Query: "Psarocolius" ; Times: 1
+	Query: "momotidae type:specimen" ; Times: 1
+	Query: "stateprovince:"Oregon" country:"United States" mappable:1" ; Times: 1
+	Query: "type:specimen specificepithet:fuscescens genus:catharus year >= 1980 year <= 2015" ; Times: 1
+	Query: "Melanerpes chrysogenys" ; Times: 1
+	Query: "amazonetta brasiliensis" ; Times: 1
+	Query: "Lepidopyga coeruleogularis" ; Times: 1
+	Query: "stateprovince:"california sur" country:"mexico" year >= 1921 year <= 1922" ; Times: 2
+	Query: "Vireo olivaceus" ; Times: 1
+	Query: "amaurospiza concolor" ; Times: 1
+	Query: "birds paraguay" ; Times: 1
+	Query: "ayacucho" ; Times: 1
+	Query: "laysan albatross" ; Times: 2
+	Query: "tuna year >= 1950 year <= 1970 mappable:1" ; Times: 1
+	Query: "Tachycineta albilinea" ; Times: 1
+	Query: "stateprovince:"Washington" country:"United States" mappable:1" ; Times: 1
+	Query: "asio flammeus" ; Times: 1
+	Query: "Ara militaris" ; Times: 1
+	Query: "country:"Costa Rica" (passeriformes OR picidae OR cuculiformes)" ; Times: 1
+	Query: "Lesbia nuna" ; Times: 1
+	Query: "Calothorax lucifer" ; Times: 1
+	Query: "Molothrus ater obscurus county:"San Diego"" ; Times: 1
+	Query: "stateprovince:"Montana" country:"United States" mappable:1" ; Times: 1
+	Query: "stateprovince:"Alberta" country:"Canada" mappable:1" ; Times: 1
+	Query: "Philortyx fasciatus" ; Times: 1
+	Query: "Molothrus ater obscurus county:"San Diego" mappable:1" ; Times: 2
+	Query: "Molothrus ater obscurus county:"San diego" stateprovince:"California" mappable:1" ; Times: 1
+	Query: "class:Aves (Cuyamaca)" ; Times: 2
+	Query: "year <= 2015 distance(location,geopoint(41.36526606011106,-75.65460205078125))<17395" ; Times: 1
+	Query: "Acridotheres tristis" ; Times: 1
+	Query: "pogoniulus bilineatus" ; Times: 1
+	Query: ""coccyzus americanus occidentalis" stateprovince:"california"" ; Times: 1
+	Query: "Passerina amoena" ; Times: 1
+	Query: "type:specimen country:"El Salvador" (passeriformes OR picidae OR cuculiformes)" ; Times: 1
+	Query: "scrippsi" ; Times: 1
+	Query: "passerina versicolor" ; Times: 1
+	Query: "C. nana" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "stateprovince:"Ohio" country:"United States" class:Aves" ; Times: 1
+	Query: "Ptilinopus superbus" ; Times: 1
+	Query: "passerina ciris" ; Times: 1
+	Query: "Colinus virginianus" ; Times: 1
+	Query: "Eremophila alpestris insularis type:specimen" ; Times: 1
+	Query: "HYLOPHILUS FLAVIPES" ; Times: 1
+	Query: "passerina caerulea" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 2270
+Total number of records retrieved from searches: 40494
+Number of download events that retrieved data from the resource: 175
+Total number of records downloaded: 68415
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 2687
+Total number of records retrieved from searches: 45776
+Number of download events that retrieved data from the resource: 539
+Total number of records downloaded: 240348
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
