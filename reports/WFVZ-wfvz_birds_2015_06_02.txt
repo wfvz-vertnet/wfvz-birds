@@ -1,0 +1,659 @@
+Report for Institution Code WFVZ, Resource wfvz_birds
+Usage stats for May, 2015, generated on 2015/06/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 886
+Number of records retrieved in searches: 10302
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 13
+	Country: Australia ; Times: 5
+	Country: Belgium ; Times: 2
+	Country: Brazil ; Times: 33
+	Country: Canada ; Times: 19
+	Country: Chile ; Times: 16
+	Country: Colombia ; Times: 4
+	Country: Czech Republic ; Times: 16
+	Country: Germany ; Times: 33
+	Country: India ; Times: 19
+	Country: Mexico ; Times: 18
+	Country: Netherlands ; Times: 11
+	Country: Philippines ; Times: 4
+	Country: Thailand ; Times: 20
+	Country: United Kingdom ; Times: 49
+	Country: United States ; Times: 578
+	Country: Unknown ; Times: 45
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 65
+	Date: 2015-05-06 ; Times: 61
+	Date: 2015-05-07 ; Times: 30
+	Date: 2015-05-08 ; Times: 17
+	Date: 2015-05-09 ; Times: 33
+	Date: 2015-05-10 ; Times: 31
+	Date: 2015-05-11 ; Times: 18
+	Date: 2015-05-12 ; Times: 45
+	Date: 2015-05-13 ; Times: 20
+	Date: 2015-05-14 ; Times: 11
+	Date: 2015-05-15 ; Times: 11
+	Date: 2015-05-16 ; Times: 45
+	Date: 2015-05-17 ; Times: 4
+	Date: 2015-05-18 ; Times: 67
+	Date: 2015-05-19 ; Times: 32
+	Date: 2015-05-20 ; Times: 43
+	Date: 2015-05-21 ; Times: 32
+	Date: 2015-05-22 ; Times: 50
+	Date: 2015-05-23 ; Times: 30
+	Date: 2015-05-24 ; Times: 19
+	Date: 2015-05-25 ; Times: 32
+	Date: 2015-05-26 ; Times: 73
+	Date: 2015-05-27 ; Times: 33
+	Date: 2015-05-28 ; Times: 34
+	Date: 2015-05-29 ; Times: 19
+	Date: 2015-05-30 ; Times: 16
+	Date: 2015-05-31 ; Times: 15
+
+List of queries that retrieved data from the resource: 
+	Query: "anthus dabbenei" ; Times: 1
+	Query: "aves Georgia United States Sitta carolinensis" ; Times: 1
+	Query: "Sialia sialis Arizona" ; Times: 2
+	Query: "perdicula erythrorhyncha" ; Times: 5
+	Query: "baily egg" ; Times: 1
+	Query: "Falco deiroleucus" ; Times: 5
+	Query: "Oriolus type:specimen AND (NOT Canada NOT USA) year >= 1936 year <= 1936" ; Times: 1
+	Query: "119603" ; Times: 2
+	Query: "119602" ; Times: 1
+	Query: ""j. claire wood" stateprovince:"michigan" year >= 1890 year <= 1890" ; Times: 1
+	Query: "fulica gigantea" ; Times: 1
+	Query: "snowy-throated" ; Times: 1
+	Query: "Rallus aquaticus country:"india"" ; Times: 1
+	Query: "turdoides subrufus" ; Times: 4
+	Query: "3996" ; Times: 1
+	Query: "accipiter trivirgatus" ; Times: 6
+	Query: "copsychus malabaricus" ; Times: 10
+	Query: "Campephilus principalis" ; Times: 5
+	Query: "type:specimen specificepithet:americana genus:grus" ; Times: 2
+	Query: "stateprovince:"alaska" class:aves recordedby:fario" ; Times: 1
+	Query: "county:"Columbia" stateprovince:"Pennsylvania"" ; Times: 3
+	Query: "30758" ; Times: 1
+	Query: "red-tailed hawk year >= 1000 year <= 1907" ; Times: 1
+	Query: "catalognumber:92555" ; Times: 1
+	Query: "pulsatrix perspicillata country:"Ecuador"" ; Times: 1
+	Query: "pionus maximiliani" ; Times: 2
+	Query: "genus:grus specificepithet:americana year >= 1900 year <= 1925" ; Times: 1
+	Query: "distance(location,geopoint(37.09974768923571,14.56787109375))<100000" ; Times: 1
+	Query: "Gyps fulvus" ; Times: 1
+	Query: "turdus unicolor" ; Times: 2
+	Query: "class:aves recordedby:paneak george" ; Times: 1
+	Query: "J.S. Rowley" ; Times: 5
+	Query: "dumetia hyperythra" ; Times: 1
+	Query: "24681 specificepithet:melodia" ; Times: 2
+	Query: "aves Georgia United States Cyanocitta cristata" ; Times: 2
+	Query: "Boucard country:"Mexico"" ; Times: 3
+	Query: "Tolmomyias sulphurescens pallescens" ; Times: 1
+	Query: "136* specificepithet:melodia" ; Times: 2
+	Query: "stateprovince:"alaska" class:aves recordedby:rember" ; Times: 1
+	Query: "wisconsin horicon marsh" ; Times: 2
+	Query: "stateprovince:"alaska" class:aves recordedby:frank pierce" ; Times: 1
+	Query: "aviceda leuphotes" ; Times: 2
+	Query: "stateprovince:"alaska" class:aves recordedby:peyton sidney year >= 1971 year <= 1971" ; Times: 1
+	Query: "genus:Platylophus" ; Times: 1
+	Query: "francolinus francolinus" ; Times: 1
+	Query: "Ramphodon naevius" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:paneak year >= 1900 year <= 1978" ; Times: 1
+	Query: "Vermivora pinus year >= 1800 year <= 1930" ; Times: 3
+	Query: "caprimulgus nigrescens eggs" ; Times: 1
+	Query: ""Virginia" stateprovince:"Texas"" ; Times: 1
+	Query: "Harpactes orrhophaeus" ; Times: 2
+	Query: "Microchera albocoronata albocoronata" ; Times: 2
+	Query: "aythya nyroca" ; Times: 1
+	Query: "haliaeetus leucoryphus" ; Times: 2
+	Query: "catalognumber:221827" ; Times: 5
+	Query: "Nyctiphrynus yucatanicus type:specimen" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1937 year <= 1970" ; Times: 1
+	Query: "class:aves recordedby:paneak" ; Times: 1
+	Query: "county:"wayne" stateprovince:"michigan" specificepithet:cerulea genus:dendroica year >= 1906 year <= 1906" ; Times: 1
+	Query: "pauxi" ; Times: 1
+	Query: "Bubo coromandus country:"india"" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:roseneau" ; Times: 1
+	Query: "Nucifraga columbiana Mexico" ; Times: 1
+	Query: "rhipidura albogularis" ; Times: 4
+	Query: "lanius collurio x" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1956 year <= 1988" ; Times: 2
+	Query: "stateprovince:"alaska" class:aves recordedby:ritchie" ; Times: 1
+	Query: "pulsatrix country:"Ecuador"" ; Times: 6
+	Query: "aves Georgia United States Myiarchus crinitus" ; Times: 1
+	Query: "hirundapus gigantea" ; Times: 1
+	Query: "strigiformes stateprovince:"chihuahua" country:"Mexico" year >= 1970 year <= 2015 mappable:1" ; Times: 1
+	Query: "Lagopus welchi" ; Times: 8
+	Query: "Oriolus oriolus year >= 1936 year <= 1936" ; Times: 1
+	Query: "Bewick wren arizona" ; Times: 1
+	Query: "Lepidocolaptes angustirostris" ; Times: 1
+	Query: "BAJA NORTHERN CARDINAL" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:hurley" ; Times: 1
+	Query: "class:aves catalognumber:163573 institutioncode:wfvz" ; Times: 1
+	Query: "class:aves recordedby:dave pat" ; Times: 2
+	Query: "corvus corax class:aves year >= 1933 year <= 1933" ; Times: 1
+	Query: "catalognumber:178568 institutioncode:WFVZ" ; Times: 2
+	Query: "ptilogonys caudatus" ; Times: 1
+	Query: "Otus barbarus" ; Times: 1
+	Query: "Sitta carolinensis year >= 1886 year <= 1887" ; Times: 1
+	Query: "Coracina striata" ; Times: 5
+	Query: "institutioncode:wfvz Psittacidae" ; Times: 5
+	Query: "stateprovince:"alaska" class:aves recordedby:merculief" ; Times: 1
+	Query: "catalognumber:27084 institutioncode:wfvz" ; Times: 2
+	Query: "stateprovince:"alaska" class:aves recordedby:prokopiof" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:rust" ; Times: 1
+	Query: "branta canadensis leucopareia" ; Times: 1
+	Query: "carpodacus erythrinus india" ; Times: 1
+	Query: "stateprovince:"Texas" genus:Buteo" ; Times: 1
+	Query: "lanius collurio institutioncode:wfvz" ; Times: 1
+	Query: "leptoptilos javanicus" ; Times: 1
+	Query: "Aquila chrysaetos AND (NOT california) mappable:1" ; Times: 4
+	Query: "stateprovince:"alaska" class:aves recordedby:rwh institutioncode:wfvz" ; Times: 1
+	Query: "Phaetusa simplex chloropoda" ; Times: 1
+	Query: "type:specimen stateprovince:"saskatchewan" specificepithet:americana genus:Grus" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:peyton sidney year >= 1930 year <= 1999" ; Times: 1
+	Query: ""j. claire wood" year >= 1897 year <= 1897" ; Times: 1
+	Query: "turdoides affinis" ; Times: 5
+	Query: "Pyrocephalus rubinus type:specimen (egg)" ; Times: 1
+	Query: "condor egg year >= 1800 year <= 1950" ; Times: 1
+	Query: "Megalaima australis SKIN" ; Times: 1
+	Query: "perez zeledon" ; Times: 1
+	Query: "Psittacula Pakistan" ; Times: 1
+	Query: "marmaronetta angustirostris" ; Times: 1
+	Query: "pseudibis papillosa" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:howsley l.b." ; Times: 1
+	Query: "leucotis country:"Guatemala"" ; Times: 1
+	Query: "aves Georgia United States Vireo solitarius" ; Times: 1
+	Query: "rhopocichla atriceps" ; Times: 5
+	Query: "phylloscopus griseolus" ; Times: 1
+	Query: "Oceanodroma willetti" ; Times: 1
+	Query: "Didunculus" ; Times: 1
+	Query: "Otus vermiculatus" ; Times: 2
+	Query: "butastur teesa" ; Times: 3
+	Query: "harpactes fasciatus" ; Times: 4
+	Query: "strigiformes stateprovince:"chihuahua" country:"Mexico" mappable:1" ; Times: 1
+	Query: "Pelican Bay Santa Cruz Island" ; Times: 1
+	Query: "recordedby:dave pat" ; Times: 3
+	Query: "tolmomyias sulphurescens" ; Times: 1
+	Query: "hypocolius" ; Times: 1
+	Query: ""j. claire wood" year >= 1894 year <= 1894" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:richardson AND (NOT usnm) year >= 1915 year <= 1920" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:rex AND ("rex floyd")" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:nicholson" ; Times: 2
+	Query: "class:aves catalognumber:49430" ; Times: 1
+	Query: "anthus bogotensis" ; Times: 5
+	Query: "genus:grus specificepithet:americana year >= 1900 year <= 2010" ; Times: 4
+	Query: "stateprovince:"alaska" class:aves recordedby:richardson institutioncode:wfvz year >= 1915 year <= 1920" ; Times: 1
+	Query: "black oystercatcher" ; Times: 1
+	Query: "phylloscopus fuscatus" ; Times: 1
+	Query: "turdoides striatus" ; Times: 6
+	Query: "stateprovince:"alaska" class:aves recordedby:richardson" ; Times: 1
+	Query: "Schoutedenapus" ; Times: 2
+	Query: "stateprovince:"alaska" class:aves recordedby:orchard" ; Times: 1
+	Query: "188298" ; Times: 1
+	Query: "Regent Honeyeater" ; Times: 1
+	Query: "sypheotides indica" ; Times: 2
+	Query: ""j. claire wood" stateprovince:"michigan" year >= 1880 year <= 1922" ; Times: 3
+	Query: "batrachostomus javensis" ; Times: 1
+	Query: "grus antigone" ; Times: 3
+	Query: "hypogramma" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:william parker" ; Times: 1
+	Query: "institutioncode:wfvz 20766" ; Times: 1
+	Query: "Pionopsitta pyrilia" ; Times: 1
+	Query: "anthus hellmayri dabbenei" ; Times: 2
+	Query: "Strigiformes stateprovince:"Mexico" country:"Mexico" mappable:1" ; Times: 1
+	Query: "aves Georgia United States Lanius ludovicianus" ; Times: 4
+	Query: "Cliff Swallow" ; Times: 1
+	Query: "institutioncode:wfvz Brotogeris" ; Times: 1
+	Query: "tolmomyias sulphurescens country:"colombia"" ; Times: 1
+	Query: "aves Georgia United States Tyrannus tyrannus" ; Times: 1
+	Query: "rafael barros" ; Times: 1
+	Query: "class:aves recordedby:pat paul" ; Times: 1
+	Query: "Eremophila alpestris hoyti" ; Times: 1
+	Query: "Coturnicops" ; Times: 1
+	Query: "chrysococcyx xanthorhynchus" ; Times: 3
+	Query: "Abbott 1903" ; Times: 1
+	Query: "monkey" ; Times: 1
+	Query: ""j. claire wood" year >= 1900 year <= 1900" ; Times: 1
+	Query: "Rhea pennata" ; Times: 8
+	Query: "zarcero" ; Times: 1
+	Query: "collinson stateprovince:"alaska" class:aves recordedby:dave year >= 1933 year <= 1933" ; Times: 1
+	Query: "aves Mclean county Illinois" ; Times: 3
+	Query: "Psittacula" ; Times: 2
+	Query: "Bewick wren eggs" ; Times: 1
+	Query: "pitta cyanea type:specimen (egg*)" ; Times: 1
+	Query: "Strix aluco country:"India"" ; Times: 1
+	Query: "USNM 4464" ; Times: 1
+	Query: "Aegolius year >= 1936 year <= 1936" ; Times: 1
+	Query: "coccyzus minor country:"Costa Rica" year >= 1932 year <= 1934" ; Times: 1
+	Query: ""j. claire wood" year >= 1891 year <= 1891" ; Times: 1
+	Query: "White Wagtail" ; Times: 2
+	Query: "Caprimulgus carolinensis" ; Times: 1
+	Query: "Megalaima australis australis SKIN" ; Times: 1
+	Query: "lonchura kelaarti" ; Times: 1
+	Query: "olive sparrow" ; Times: 1
+	Query: "(caudal)" ; Times: 1
+	Query: "stateprovince:"alaska" recordedby:nicolai" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:r.w.h." ; Times: 1
+	Query: "Oceanodroma willetti year >= 1913 year <= 1913" ; Times: 1
+	Query: "class:aves recordedby:nicholson year >= 1918 year <= 1922" ; Times: 1
+	Query: "grizzly bear" ; Times: 2
+	Query: "Yellow Rail" ; Times: 1
+	Query: "Sedge Wren" ; Times: 1
+	Query: "Troglodytes year >= 1946 year <= 1946" ; Times: 1
+	Query: "mucar" ; Times: 1
+	Query: "salpornis" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:philemonof" ; Times: 1
+	Query: "clamator coromandus" ; Times: 4
+	Query: "R 184443" ; Times: 1
+	Query: "county:"Northumberland" stateprovince:"Pennsylvania"" ; Times: 1
+	Query: "Psittacula 1918" ; Times: 2
+	Query: "58062" ; Times: 1
+	Query: "Ara militaris" ; Times: 1
+	Query: "county:"wayne" stateprovince:"michigan" year >= 1893 year <= 1893" ; Times: 1
+	Query: "strigiformes stateprovince:"chihuahua" country:"Mexico" year >= 1960 year <= 2015 mappable:1" ; Times: 1
+	Query: "marbled class:aves institutioncode:wfvz year >= 1992 year <= 1992" ; Times: 1
+	Query: "Cistothorus palustris county:Orange year >= 1960 year <= 2015" ; Times: 1
+	Query: "Picus vittatus" ; Times: 1
+	Query: "aves Georgia United States bewickii" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:howsley" ; Times: 1
+	Query: "10270" ; Times: 2
+	Query: "adelie penguin type:specimen" ; Times: 2
+	Query: "aves Georgia United States Cistothorus palustris" ; Times: 1
+	Query: "aves Georgia United States Hirundo rustica" ; Times: 1
+	Query: "chinese goshawk" ; Times: 4
+	Query: "centropus toulou" ; Times: 2
+	Query: ""j. claire wood" year >= 1896 year <= 1896" ; Times: 1
+	Query: "cranes" ; Times: 1
+	Query: "aves Georgia United States Petrochelidon pyrrhonota" ; Times: 1
+	Query: "Cistothorus palustris county:Los Angeles year >= 1960 year <= 2015" ; Times: 1
+	Query: "Gyps fulvus country:"india"" ; Times: 1
+	Query: "Madison Wisconsin" ; Times: 2
+	Query: "zoothera wardii-" ; Times: 1
+	Query: "arachnothera" ; Times: 4
+	Query: ""j. claire wood" year >= 1898 year <= 1898" ; Times: 1
+	Query: "aves Georgia United States Vireo griseus" ; Times: 2
+	Query: "aythya nyroca india" ; Times: 1
+	Query: "zoothera wardii" ; Times: 14
+	Query: "porzana porzana" ; Times: 2
+	Query: "anthus hellmayri" ; Times: 1
+	Query: "Boucard" ; Times: 1
+	Query: "king eider" ; Times: 3
+	Query: "skunk" ; Times: 1
+	Query: "vermivora bachmanii" ; Times: 1
+	Query: "Otus guatemalae vermiculatus" ; Times: 4
+	Query: "stateprovince:"alaska" recordedby:peyton year >= 1961 year <= 1961" ; Times: 1
+	Query: "aves Georgia United States Vireo olivaceus" ; Times: 1
+	Query: "Phoenicopterus chilensis" ; Times: 2
+	Query: ""Coracina striata"" ; Times: 11
+	Query: "WFVZ county:"Grays Harbor" year >= 1920 year <= 1930" ; Times: 1
+	Query: "collinson stateprovince:"alaska" class:aves recordedby:pat year >= 1933 year <= 1933" ; Times: 1
+	Query: "Strix biddulphi country:"India"" ; Times: 1
+	Query: "Microchera albocoronata type:specimen" ; Times: 1
+	Query: "Pterocles alchata" ; Times: 6
+	Query: ""branta bernicla" stateprovince:"Alaska"" ; Times: 3
+	Query: "ummz "j. claire wood" stateprovince:"michigan" year >= 1880 year <= 1922" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:richardson institutioncode:wfvz AND (NOT usnm) year >= 1915 year <= 1920" ; Times: 2
+	Query: "lepidoptera" ; Times: 1
+	Query: "Rhynchocyclus" ; Times: 7
+	Query: "Motacilla alba type:specimen year >= 1937 year <= 1980" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:richardson t.l. institutioncode:wfvz year >= 1915 year <= 1920" ; Times: 2
+	Query: "gracula religiosa" ; Times: 3
+	Query: "whooping crane" ; Times: 6
+	Query: "specificepithet:ferruginea genus:calidris" ; Times: 5
+	Query: "stateprovince:"arizona" class:aves year >= 1905 year <= 1905" ; Times: 1
+	Query: "egg Pyrocephalus rubinus type:specimen AND (bird)" ; Times: 1
+	Query: "Megalaima henricii SKIN" ; Times: 1
+	Query: "Aves Abbott 1902" ; Times: 1
+	Query: "catalognumber:16156" ; Times: 1
+	Query: "aves Georgia United States Parus bicolor" ; Times: 1
+	Query: "54847" ; Times: 1
+	Query: "Coturnicops noveboracensis" ; Times: 1
+	Query: "lanius collurio" ; Times: 3
+	Query: "anser indicus" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:paneak institutioncode:wfvz year >= 1900 year <= 1978" ; Times: 1
+	Query: "vireo bellii california san bernardino" ; Times: 1
+	Query: "grus americana" ; Times: 3
+	Query: "columba fasciata testes" ; Times: 1
+	Query: "Sitta carolinensis year >= 1937 year <= 1937" ; Times: 1
+	Query: "stateprovince:"alaska" genus:Motacilla recordedby:peyton year >= 1961 year <= 1961" ; Times: 1
+	Query: "Sakesphorus melanonotus" ; Times: 1
+	Query: "Stachyris leucotis" ; Times: 1
+	Query: "Oceanodroma leucorhoa year >= 1901 year <= 1901" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:rice institutioncode:wfvz" ; Times: 1
+	Query: "catalognumber:160970" ; Times: 1
+	Query: "montello" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:olsen" ; Times: 1
+	Query: "class:aves catalognumber:163575 institutioncode:wfvz" ; Times: 1
+	Query: "Sitta carolinensis UWBM" ; Times: 1
+	Query: "r-87381" ; Times: 1
+	Query: "palo verde costa rica" ; Times: 1
+	Query: "locustella certhiola" ; Times: 19
+	Query: "Dendragapus obscurus year >= 1800 year <= 1910" ; Times: 1
+	Query: "Psilopogon skin" ; Times: 1
+	Query: "strigiformes stateprovince:"Mexico" country:"Mexico" year >= 1800 year <= 2015 mappable:1" ; Times: 4
+	Query: "diomedea immutabilis type:specimen year >= 1900 year <= 1950" ; Times: 1
+	Query: "Greater Prairie Chicken" ; Times: 4
+	Query: "ag 137" ; Times: 1
+	Query: "class:aves recordedby:nicholson donald year >= 1918 year <= 1922" ; Times: 1
+	Query: "whooping crane eggs" ; Times: 2
+	Query: "class:aves catalognumber:163576 institutioncode:wfvz" ; Times: 1
+	Query: "turdoides malcolmi" ; Times: 4
+	Query: "Cistothorus palustris county:San Diego year >= 1960 year <= 2015" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:peyton sidney year >= 1964 year <= 1964" ; Times: 1
+	Query: "Falco hypoleucos" ; Times: 4
+	Query: "Harpactes kasumba" ; Times: 1
+	Query: "atenas" ; Times: 3
+	Query: "acrocephalus dumetorum" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves institutioncode:wfvz year >= 1992 year <= 1992" ; Times: 1
+	Query: "condor year >= 1850 year <= 1950" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:patten" ; Times: 1
+	Query: "cuculus sparverioides" ; Times: 1
+	Query: "bees" ; Times: 1
+	Query: "Nyctiphrynus ocellatus" ; Times: 1
+	Query: "pulsatrix perspicillata country:"Colombia"" ; Times: 1
+	Query: "condor stateprovince:"california" year >= 1850 year <= 1950" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:richardson year >= 1800 year <= 1913" ; Times: 1
+	Query: "bubo coromandus" ; Times: 2
+	Query: "lanius cristatus x" ; Times: 1
+	Query: "88511" ; Times: 1
+	Query: "Sterna saundersi" ; Times: 1
+	Query: "Crax globulosa" ; Times: 2
+	Query: "Black Swifts" ; Times: 1
+	Query: "zoothera wardii-india" ; Times: 24
+	Query: "aves Georgia United States Progne subis" ; Times: 2
+	Query: "stateprovince:"alaska" class:aves recordedby:rice" ; Times: 1
+	Query: "leptoptilos dubius" ; Times: 4
+	Query: "pterocles exustus" ; Times: 6
+	Query: "Strix fulvescens" ; Times: 1
+	Query: "petrochelidon fluvicola" ; Times: 1
+	Query: "Cathartes aura" ; Times: 1
+	Query: "class:aves recordedby:susie paneak" ; Times: 1
+	Query: "CAPERCAILLIE" ; Times: 1
+	Query: ""j. claire wood" year >= 1892 year <= 1892" ; Times: 1
+	Query: "aves Georgia United States serripennis" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:rex AND (floyd)" ; Times: 1
+	Query: "strigiformes stateprovince:"san luis potosi" country:"Mexico" year >= 1960 year <= 2015 mappable:1" ; Times: 1
+	Query: "otus bakkamoena" ; Times: 1
+	Query: "Sitta carolinensis year >= 1886 year <= 1886" ; Times: 1
+	Query: "Parus stupae" ; Times: 1
+	Query: "202942" ; Times: 1
+	Query: "stateprovince:"alaska" recordedby:nyc" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:j. richardson institutioncode:wfvz AND (NOT usnm) year >= 1915 year <= 1920" ; Times: 2
+	Query: "Strix aluco biddulphi country:"India"" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:pearson" ; Times: 1
+	Query: "gregg county texas" ; Times: 1
+	Query: "cyanopectus" ; Times: 1
+	Query: "Otidiphaps nobilis" ; Times: 27
+	Query: "Electron platyrhynchum" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:rex" ; Times: 1
+	Query: "Pardirallus maculatus type:specimen" ; Times: 1
+	Query: "169828" ; Times: 1
+	Query: "strix ocellata" ; Times: 1
+	Query: "red-tailed hawk AND (egg) year >= 1000 year <= 1907" ; Times: 1
+	Query: "Otus guatemalae vermiculatus type:specimen" ; Times: 1
+	Query: "pericrocotus flammeus" ; Times: 6
+	Query: "stateprovince:"alaska" class:aves recordedby:romar" ; Times: 1
+	Query: "recordedby:hannigan" ; Times: 2
+	Query: "Berenicornis comatus" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:howsley l.r." ; Times: 1
+	Query: "122533" ; Times: 1
+	Query: "county:"Hill" stateprovince:"Texas"" ; Times: 1
+	Query: "Falco columbarius egg" ; Times: 1
+	Query: "11092" ; Times: 1
+	Query: "distance(location,geopoint(30.13721055991247,-102.4090576171875))<15652" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:rivers" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:innokente" ; Times: 1
+	Query: "clamator coromandus india" ; Times: 1
+	Query: "Whooping Crane" ; Times: 4
+	Query: "strigiformes stateprovince:"chihuahua" country:"Mexico" year >= 1950 year <= 2015 mappable:1" ; Times: 1
+	Query: "aves Georgia United States Sitta pusilla" ; Times: 5
+	Query: "strix leptogrammica" ; Times: 2
+	Query: "Big Black Mtn" ; Times: 1
+	Query: "white wagtail type:specimen" ; Times: 1
+	Query: "Spizella+pallida+United States+Washington" ; Times: 1
+	Query: "78732" ; Times: 1
+	Query: "Nyctiphrynus yucatanicus" ; Times: 2
+	Query: "scolopax rusticola" ; Times: 4
+	Query: "R-184488" ; Times: 1
+	Query: "pharomachrus mocinno" ; Times: 2
+	Query: "103178" ; Times: 1
+	Query: "Vermivora bachmanii" ; Times: 1
+	Query: "Big Black MtN" ; Times: 1
+	Query: "Phoenicoparrus jamesi" ; Times: 1
+	Query: "turdus obscurus" ; Times: 2
+	Query: "laysan albatross type:specimen year >= 1900 year <= 1950" ; Times: 1
+	Query: "52375" ; Times: 1
+	Query: "egg Pyrocephalus rubinus type:specimen" ; Times: 3
+	Query: "siberian crane" ; Times: 2
+	Query: ""j. claire wood" year >= 1889 year <= 1889" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:richardson j" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:nicolai" ; Times: 1
+	Query: "Yellow-throated vireo" ; Times: 4
+	Query: "Nothura minor brazil" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 2
+	Query: "Gallinago paraguaiae brazil" ; Times: 1
+	Query: "Geotrygon saphirina" ; Times: 20
+	Query: "Gymnomyza samoensis" ; Times: 1
+	Query: "stateprovince:"alaska" specificepithet:squatarola class:aves year >= 1915 year <= 1920" ; Times: 1
+	Query: "anser caerulescens" ; Times: 1
+	Query: "Amaurornis akool" ; Times: 1
+	Query: "hypsipetes madagascariensis" ; Times: 3
+	Query: "class:aves recordedby:olsen institutioncode:wfvz" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:peyton sidney institutioncode:wfvz year >= 1964 year <= 1964" ; Times: 1
+	Query: "poicephalus gonads" ; Times: 3
+	Query: "Megalaima armillaris skin" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:robards" ; Times: 1
+	Query: "4206 specificepithet:melodia" ; Times: 2
+	Query: "garrulax delesserti" ; Times: 1
+	Query: "Phoenicoparrus andinus" ; Times: 1
+	Query: "pulsatrix institutioncode:WFVZ" ; Times: 8
+	Query: "cuculus saturatus" ; Times: 3
+	Query: "gallus sonneratii" ; Times: 1
+	Query: "penelope obscura" ; Times: 1
+	Query: "sclerurus mexicanus" ; Times: 1
+	Query: "55546" ; Times: 1
+	Query: "Platalea leucorodia balsaci" ; Times: 1
+	Query: "penelope superciliaris" ; Times: 1
+	Query: "county:"wayne" stateprovince:"michigan" genus:ammodramus year >= 1888 year <= 1922" ; Times: 1
+	Query: "Lurocalis semitorquatus" ; Times: 2
+	Query: "aves Georgia United States Thryothorus ludovicianus" ; Times: 2
+	Query: "stateprovince:"alaska" recordedby:innokente year >= 1921 year <= 1921" ; Times: 1
+	Query: "Pyrocephalus rubinus egg" ; Times: 3
+	Query: "Accipiter gularis" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:pierce year >= 1800 year <= 1900" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:rex floyd" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1937 year <= 1990" ; Times: 1
+	Query: "Rhynochetos jubatus" ; Times: 2
+	Query: "coleoptera" ; Times: 2
+	Query: "class:aves catalognumber:163574 institutioncode:wfvz" ; Times: 1
+	Query: "septentrionalis kansas" ; Times: 2
+	Query: "pulsatrix" ; Times: 23
+	Query: "stateprovince:"alaska" class:aves recordedby:peyton sidney institutioncode:wfvz year >= 1971 year <= 1971" ; Times: 1
+	Query: "Empidonax traillii (San Bernardino) mappable:1" ; Times: 1
+	Query: "Spizella pallida United States Wyoming" ; Times: 1
+	Query: "J.S. Rowley stateprovince:"Oaxaca" country:"Mexico"" ; Times: 1
+	Query: "pionus sordidus" ; Times: 2
+	Query: "75588" ; Times: 1
+	Query: "iodopleura isabellae" ; Times: 2
+	Query: "marsh wren county:"ventura"" ; Times: 1
+	Query: "catalognumber:206332" ; Times: 1
+	Query: "Monias benschi" ; Times: 2
+	Query: "megapodius" ; Times: 1
+	Query: "county:"Douglas" specificepithet:galbula genus:Icterus year >= 1850 year <= 1955" ; Times: 1
+	Query: "Limnothlypis swainsonii" ; Times: 2
+	Query: "ectopistes migratorius" ; Times: 1
+	Query: ""anser caerulescens" stateprovince:"Alaska"" ; Times: 1
+	Query: "Nucifraga columbiana" ; Times: 2
+	Query: "stateprovince:"alaska" class:aves recordedby:peyton sidney" ; Times: 1
+	Query: "aves Georgia United States Sitta pusilla 18" ; Times: 1
+	Query: "anthus lutescens" ; Times: 1
+	Query: "Fulica gigantea" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:peyton sidney institutioncode:wfvz" ; Times: 7
+	Query: "stateprovince:"alaska" class:aves recordedby:hendee AND (NOT dmns NOT dmnh)" ; Times: 1
+	Query: "B 431" ; Times: 1
+	Query: "Zonotrichia melodia type:specimen" ; Times: 1
+	Query: "type:specimen specificepithet:corax genus:Corvus (skin) mappable:1" ; Times: 1
+	Query: "pied wagtail type:specimen" ; Times: 1
+	Query: "stateprovince:"alaska" genus:limosa class:aves institutioncode:wfvz" ; Times: 2
+	Query: "Cistothorus palustris Los Angeles" ; Times: 1
+	Query: "dicaeum trigonostigma" ; Times: 1
+	Query: "catalognumber:30758" ; Times: 1
+	Query: "Muscicapa Thailand" ; Times: 1
+	Query: "49339" ; Times: 3
+	Query: "naranjo costa rica" ; Times: 1
+	Query: "Least Tern" ; Times: 1
+	Query: "Arachnothera flavigaster" ; Times: 2
+	Query: "class:aves catalognumber:163574" ; Times: 2
+	Query: "Turdoides type:specimen year >= 1980" ; Times: 1
+	Query: "class:aves recordedby:george paneak" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:hendee institutioncode:wfvz" ; Times: 1
+	Query: "aves Georgia United States Parus carolinensis" ; Times: 3
+	Query: "Dendragapus obscurus year >= 1800 year <= 1920" ; Times: 1
+	Query: "zoothera dauma" ; Times: 3
+	Query: "county:"Montour" stateprovince:"Pennsylvania"" ; Times: 1
+	Query: "aves Georgia United States Corvus brachyrhynchos" ; Times: 1
+	Query: "Pachyramphus aglaiae gravis" ; Times: 1
+	Query: "94030" ; Times: 1
+	Query: "chalcites xanthorhynchus" ; Times: 2
+	Query: "Anodorhynchus hyacinthinus" ; Times: 3
+	Query: "stateprovince:"alaska" class:aves recordedby:rex institutioncode:wfvz" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 117 (out of 976 download events in this period)
+Total number of records downloaded: 94218 (out of 7910366 records downloaded for all resources in this period)
+Total number of unique records downloaded: 45465
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 2
+	Country: Australia ; Times: 3
+	Country: Austria ; Times: 1
+	Country: Brazil ; Times: 7
+	Country: Canada ; Times: 6
+	Country: India ; Times: 2
+	Country: Mexico ; Times: 8
+	Country: Netherlands ; Times: 1
+	Country: Philippines ; Times: 1
+	Country: United States ; Times: 28
+	Country: Unknown ; Times: 56
+	Country: Venezuela ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 1
+	Date: 2015-05-06 ; Times: 5
+	Date: 2015-05-07 ; Times: 1
+	Date: 2015-05-08 ; Times: 2
+	Date: 2015-05-09 ; Times: 2
+	Date: 2015-05-10 ; Times: 1
+	Date: 2015-05-11 ; Times: 3
+	Date: 2015-05-12 ; Times: 3
+	Date: 2015-05-13 ; Times: 5
+	Date: 2015-05-14 ; Times: 4
+	Date: 2015-05-15 ; Times: 3
+	Date: 2015-05-16 ; Times: 2
+	Date: 2015-05-18 ; Times: 22
+	Date: 2015-05-19 ; Times: 35
+	Date: 2015-05-20 ; Times: 3
+	Date: 2015-05-21 ; Times: 2
+	Date: 2015-05-22 ; Times: 3
+	Date: 2015-05-23 ; Times: 2
+	Date: 2015-05-24 ; Times: 5
+	Date: 2015-05-25 ; Times: 4
+	Date: 2015-05-26 ; Times: 2
+	Date: 2015-05-27 ; Times: 3
+	Date: 2015-05-28 ; Times: 3
+	Date: 2015-05-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Motacilla alba type:specimen mappable:1" ; Times: 2
+	Query: "Motacilla alba type:specimen year >= 1956 year <= 1988" ; Times: 1
+	Query: "minnesota egg" ; Times: 1
+	Query: "hypogramma" ; Times: 1
+	Query: "Falco hypoleucos" ; Times: 2
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "stateprovince:"Baja California" country:"Mexico"" ; Times: 1
+	Query: "Thryothorus ludovicianus" ; Times: 1
+	Query: "Didunculus" ; Times: 1
+	Query: "country:"Mexico"" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 1
+	Query: "Vermivora pinus year >= 1800 year <= 1930" ; Times: 1
+	Query: "american black bear" ; Times: 1
+	Query: "Falco deiroleucus" ; Times: 1
+	Query: "Sakesphorus melanonotus" ; Times: 1
+	Query: "cave stateprovince:"Tennessee" year >= 1700 year <= 2015" ; Times: 1
+	Query: "squamata (durango OR coahuila OR zacatecas OR chihuahua) mappable:1" ; Times: 1
+	Query: "Vermivora pinus" ; Times: 1
+	Query: "type:specimen specificepithet:iliaca class:Aves institutioncode:FMNH OR UMMZ" ; Times: 1
+	Query: "Tyrannidae" ; Times: 2
+	Query: "J. S. Rowley" ; Times: 1
+	Query: "Underwood" ; Times: 1
+	Query: "Calypte anna type:specimen" ; Times: 1
+	Query: "Streptoprocne semicollaris" ; Times: 1
+	Query: "Phaetusa simplex simplex" ; Times: 1
+	Query: "Rhynchocyclus" ; Times: 2
+	Query: "(Nipissing OR Nipising OR Nippising OR Nippissing)" ; Times: 2
+	Query: "Cistothorus platensis" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "year >= 1800 year <= 2015 distance(location,geopoint(35.9602229692967,-119.37744140625))<100000" ; Times: 1
+	Query: "aves Georgia United States Sitta pusilla" ; Times: 1
+	Query: ""Neochmia phaeton" country:"Australia"" ; Times: 1
+	Query: "Lesbia nuna" ; Times: 1
+	Query: "Phaetusa simplex chloropoda" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1891 year <= 1909" ; Times: 4
+	Query: "country:"Philippines" class:Aves year <= 2015" ; Times: 1
+	Query: "genus:rupicola" ; Times: 1
+	Query: "Neochmia phaeton year >= 1900 year <= 1960" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1800 year <= 1890" ; Times: 3
+	Query: "Lepidocolaptes angustirostris" ; Times: 2
+	Query: "specificepithet:hudsonicus class:Aves institutioncode:ROM OR UMMZ OR FMNH OR MVZ OR CAS" ; Times: 1
+	Query: "arachnothera" ; Times: 1
+	Query: "ammodramus leconteii" ; Times: 1
+	Query: "ammodramus nelsoni" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1910 year <= 1925" ; Times: 4
+	Query: "country:"Mexico" class:Aves" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "Vermivora bachmanii" ; Times: 1
+	Query: "j. claire wood stateprovince:"michigan" year >= 1880 year <= 1922" ; Times: 1
+	Query: "putao" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1800 year <= 1909" ; Times: 38
+	Query: "strigiformes stateprovince:"Mexico" country:"Mexico" year >= 1800 year <= 2015 mappable:1" ; Times: 1
+	Query: "county:"Columbia" stateprovince:"Pennsylvania"" ; Times: 1
+	Query: "Tympanuchus cupido cupido" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1926 year <= 1936" ; Times: 1
+	Query: "Cachar" ; Times: 1
+	Query: "tyto alba" ; Times: 1
+	Query: "Coturnicops noveboracensis" ; Times: 1
+	Query: "pionus maximiliani" ; Times: 2
+	Query: "Cistothorus palustris" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1937 year <= 1955" ; Times: 1
+	Query: "Streptopelia turtur" ; Times: 1
+	Query: "certhia americana" ; Times: 1
+	Query: "Coryphospingus cucullatus" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:richardson institutioncode:wfvz year >= 1915 year <= 1920" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 3156
+Total number of records retrieved from searches: 50796
+Number of download events that retrieved data from the resource: 292
+Total number of records downloaded: 162633
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 3573
+Total number of records retrieved from searches: 56078
+Number of download events that retrieved data from the resource: 656
+Total number of records downloaded: 334566
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
