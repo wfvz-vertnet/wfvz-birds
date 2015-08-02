@@ -1,0 +1,631 @@
+Report for Institution Code WFVZ, Resource wfvz_birds
+Usage stats for July, 2015, generated on 2015/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 711
+Number of records retrieved in searches: 7486
+Number of different countries where searches have been originated: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 4
+	Country: Australia ; Times: 5
+	Country: Austria ; Times: 1
+	Country: Brazil ; Times: 133
+	Country: Canada ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 7
+	Country: Germany ; Times: 14
+	Country: Guatemala ; Times: 1
+	Country: Hungary ; Times: 5
+	Country: India ; Times: 7
+	Country: Jamaica ; Times: 1
+	Country: Mexico ; Times: 33
+	Country: Netherlands ; Times: 12
+	Country: Peru ; Times: 3
+	Country: Portugal ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: United Kingdom ; Times: 52
+	Country: United States ; Times: 427
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 6
+	Date: 2015-07-02 ; Times: 19
+	Date: 2015-07-03 ; Times: 12
+	Date: 2015-07-04 ; Times: 9
+	Date: 2015-07-05 ; Times: 8
+	Date: 2015-07-06 ; Times: 18
+	Date: 2015-07-07 ; Times: 11
+	Date: 2015-07-08 ; Times: 22
+	Date: 2015-07-09 ; Times: 33
+	Date: 2015-07-10 ; Times: 12
+	Date: 2015-07-11 ; Times: 16
+	Date: 2015-07-12 ; Times: 8
+	Date: 2015-07-13 ; Times: 18
+	Date: 2015-07-14 ; Times: 20
+	Date: 2015-07-15 ; Times: 29
+	Date: 2015-07-16 ; Times: 39
+	Date: 2015-07-17 ; Times: 23
+	Date: 2015-07-18 ; Times: 10
+	Date: 2015-07-19 ; Times: 4
+	Date: 2015-07-20 ; Times: 13
+	Date: 2015-07-21 ; Times: 20
+	Date: 2015-07-22 ; Times: 24
+	Date: 2015-07-23 ; Times: 23
+	Date: 2015-07-24 ; Times: 18
+	Date: 2015-07-25 ; Times: 25
+	Date: 2015-07-26 ; Times: 26
+	Date: 2015-07-27 ; Times: 52
+	Date: 2015-07-28 ; Times: 20
+	Date: 2015-07-29 ; Times: 70
+	Date: 2015-07-30 ; Times: 71
+	Date: 2015-07-31 ; Times: 32
+
+List of queries that retrieved data from the resource: 
+	Query: "190161" ; Times: 1
+	Query: "broad-tailed hummingbird" ; Times: 2
+	Query: "Montifringilla nivalis country:"India"" ; Times: 1
+	Query: "catalognumber:53810 institutioncode:wfvz" ; Times: 2
+	Query: "arachnothera longirostra" ; Times: 2
+	Query: "Strix country:"Mexico" AND (NOT occidentalis)" ; Times: 1
+	Query: "seiurus motacilla egg" ; Times: 2
+	Query: "catalognumber:96307" ; Times: 1
+	Query: "95741" ; Times: 1
+	Query: "agelaius (oroville)" ; Times: 2
+	Query: "celaenops" ; Times: 2
+	Query: "specificepithet:caeruleus genus:Elanus year >= 1909" ; Times: 1
+	Query: "cypseloides niger costaricensis" ; Times: 1
+	Query: "bird balleza chihuahua" ; Times: 1
+	Query: "hugh land type:specimen" ; Times: 3
+	Query: "county:"Wasatch" stateprovince:"Utah"" ; Times: 1
+	Query: "distance(location,geopoint(34.05891711006568,-120.33187866210938))<398" ; Times: 3
+	Query: "aves Georgia United States Field" ; Times: 1
+	Query: "tropicalis weight" ; Times: 1
+	Query: "Egretta thula type:specimen AND (NOT eggs NOT CRCM NOT DMNH NOT DMNS NOT KU NOT LACM NOT MLZ NOT MSB NOT ROM NOT QM NOT UMMZ NOT MVZ NOT MCZ NOT OMNH NOT UWBM NOT YPM NOT SBMNH NOT ANSP NOT NYSM NOT AMNH NOT CAS NOT FMNH)" ; Times: 1
+	Query: "campylorhynchus megalopterus" ; Times: 2
+	Query: "distance(location,geopoint(46.75993680791378,10.8984375))<96649" ; Times: 1
+	Query: "aves distance(location,geopoint(53.199451902831555,-170.68359375))<104719" ; Times: 1
+	Query: "Cape Barren Island" ; Times: 1
+	Query: "Egretta thula type:specimen AND (NOT eggs NOT CRCM NOT DMNH NOT DMNS NOT KU NOT LACM NOT MLZ NOT MSB NOT ROM NOT QM NOT UMMZ NOT MVZ NOT MCZ NOT OMNH NOT UWBM NOT YPM NOT SBMNH NOT ANSP NOT NYSM NOT AMNH NOT CAS NOT FMNH NOT SDNHM NOT CUMV)" ; Times: 3
+	Query: "5851" ; Times: 1
+	Query: "county:"Duchesne" stateprovince:"Utah"" ; Times: 1
+	Query: "sporophila americana" ; Times: 33
+	Query: "aves distance(location,geopoint(53.1072166918934,-171.2603759765625))<119084" ; Times: 1
+	Query: "Tinamotis ingoufi" ; Times: 1
+	Query: "aves distance(location,geopoint(53.199451902831555,-170.68359375))<111719" ; Times: 1
+	Query: "strix country:"mexico" (varia OR sartorii)" ; Times: 1
+	Query: "Crypturellus parvirostris" ; Times: 1
+	Query: "abc" ; Times: 1
+	Query: "Inglis country:"China"" ; Times: 1
+	Query: "Rollandia rolland Falkland" ; Times: 1
+	Query: "Mniotilta varia type:specimen country:"Colombia"" ; Times: 1
+	Query: "recordedby:G. F. year <= 1900" ; Times: 2
+	Query: "Tympanuchus pallidicinctus type:specimen" ; Times: 1
+	Query: "catalognumber:186681" ; Times: 1
+	Query: "ketupa ketupa" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:j. smith" ; Times: 1
+	Query: "aythya nyroca" ; Times: 3
+	Query: "histurgops" ; Times: 2
+	Query: "catalognumber:164049" ; Times: 1
+	Query: "Egretta thula type:specimen AND (NOT eggs NOT CRCM NOT DMNH NOT DMNS NOT KU NOT LACM NOT MLZ NOT MSB NOT ROM NOT QM NOT UMMZ NOT MVZ NOT MCZ NOT OMNH NOT UWBM NOT YPM NOT SBMNH NOT ANSP NOT NYSM NOT AMNH NOT CAS NOT FMNH NOT SDMNH NOT CUMV)" ; Times: 1
+	Query: "aves solitarius sonora" ; Times: 1
+	Query: "Eurynorhynchus pygmeus institutioncode:wfvz" ; Times: 1
+	Query: "50293" ; Times: 1
+	Query: "Empidonax virescens egg" ; Times: 1
+	Query: "catalognumber:190336" ; Times: 1
+	Query: "62346" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:smith" ; Times: 1
+	Query: "aves Georgia United States Haematopus palliatus" ; Times: 2
+	Query: "Montezuma Quail" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:smith franklin" ; Times: 1
+	Query: "Fulica cornuta type:specimen" ; Times: 1
+	Query: "catalognumber:11062 institutioncode:wfvz" ; Times: 1
+	Query: "aepyornis" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:snyder" ; Times: 1
+	Query: "albitarsus" ; Times: 2
+	Query: "caspian tern egg" ; Times: 1
+	Query: "Carduelis country:"India"" ; Times: 1
+	Query: "scrub jay" ; Times: 4
+	Query: "bald eagle" ; Times: 1
+	Query: "trogon viridis wfvz" ; Times: 1
+	Query: "specificepithet:motacilla genus:seiurus" ; Times: 2
+	Query: "Chloropsis cochinchinensis" ; Times: 1
+	Query: "glaucidium cuculoides" ; Times: 1
+	Query: "anas clypeata county:"siskiyou" stateprovince:"california" institutioncode:wfvz" ; Times: 1
+	Query: "Brachyramphus brevirostris" ; Times: 4
+	Query: "catalognumber:2512" ; Times: 1
+	Query: "catalognumber:63232" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:j.a. smith" ; Times: 2
+	Query: "Vanellus chilensis" ; Times: 4
+	Query: "trogon citreolus wfvz" ; Times: 1
+	Query: "aves Georgia United States Buteo platypterus" ; Times: 1
+	Query: "Chlamydotis undulata" ; Times: 1
+	Query: ""Anser albifrons" country:"Canada"" ; Times: 2
+	Query: "distance(location,geopoint(40.31446719283562,-113.411865234375))<30246.971978908655" ; Times: 1
+	Query: "Amazilia wagneri type:specimen" ; Times: 1
+	Query: "aves Georgia United States Thryomanes bewickii" ; Times: 1
+	Query: "strix varia country:"mexico"" ; Times: 2
+	Query: "155329" ; Times: 1
+	Query: "Metallura theresiae type:specimen" ; Times: 1
+	Query: "Strix country:"Mexico" AND (NOT occidentalis NOT virgat* NOT nigrolineat*)" ; Times: 1
+	Query: "strix nebulosa lapland" ; Times: 1
+	Query: "mecca 3 mi E" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:seaman" ; Times: 2
+	Query: "Podicipedidae falkland" ; Times: 1
+	Query: "25578" ; Times: 1
+	Query: "Cercomacra nigricans type:specimen" ; Times: 2
+	Query: "zosterops everetti" ; Times: 1
+	Query: "127639 type:specimen" ; Times: 2
+	Query: "91707" ; Times: 1
+	Query: "trogon viridis WFVZ" ; Times: 1
+	Query: "county:"Greenwood" stateprovince:"South Carolina" class:Aves" ; Times: 1
+	Query: "coral gables" ; Times: 2
+	Query: "year <= 2015 distance(location,geopoint(40.31446719283562,-113.411865234375))<39805" ; Times: 2
+	Query: "8767" ; Times: 1
+	Query: "Falco sparverius tropicalis type:specimen" ; Times: 2
+	Query: "otis tarda" ; Times: 1
+	Query: "Spizastur" ; Times: 1
+	Query: "rhopocichla atriceps" ; Times: 1
+	Query: "catalognumber:21655" ; Times: 1
+	Query: "muscicapa ferruginea" ; Times: 1
+	Query: "selasphorus flammula" ; Times: 1
+	Query: "(saint lucia)" ; Times: 1
+	Query: "51472" ; Times: 1
+	Query: "aves distance(location,geopoint(53.1072166918934,-171.2603759765625))<96662.06742785237" ; Times: 1
+	Query: "aves Georgia United States Falco columbarius" ; Times: 1
+	Query: "specificepithet:auriventris genus:Sicalis" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:smith year >= 1900 year <= 1910" ; Times: 2
+	Query: "cypseloides niger country:"mexico"" ; Times: 1
+	Query: "cypseloides niger stateprovince:"mexico"" ; Times: 1
+	Query: "Anisognathus notabilis" ; Times: 2
+	Query: ""cygnus buccinator" year <= 1892" ; Times: 1
+	Query: "Falco sparverius tropicalis" ; Times: 1
+	Query: "sterna dougallii" ; Times: 13
+	Query: "Numenius phaeopus" ; Times: 1
+	Query: "phylloscopus fuscatus" ; Times: 1
+	Query: "specificepithet:indigotica genus:Diglossa" ; Times: 1
+	Query: "MZFC 5012" ; Times: 1
+	Query: "country:"china" specificepithet:flavirostris genus:carduelis" ; Times: 1
+	Query: "county:"Greenville" stateprovince:"South Carolina" class:Aves" ; Times: 1
+	Query: "specificepithet:rufum genus:Conirostrum" ; Times: 1
+	Query: "house sparrow egg" ; Times: 1
+	Query: "Tachuris rubrigastra loaensis" ; Times: 1
+	Query: "county:"Sonoma" stateprovince:"California" year >= 1900 year <= 1900" ; Times: 1
+	Query: "specificepithet:caeruleus genus:Elanus year >= 1910" ; Times: 3
+	Query: "geositta punensis" ; Times: 2
+	Query: "aves Georgia United States Ixobrychus exilis" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:schaller" ; Times: 1
+	Query: "62750" ; Times: 1
+	Query: "ducula badia type:specimen" ; Times: 1
+	Query: "stateprovince:"Utah" specificepithet:stelleri genus:cyanocitta" ; Times: 2
+	Query: ""sterna aleutica"" ; Times: 2
+	Query: "aves Georgia United States Asio otus" ; Times: 1
+	Query: "95649" ; Times: 1
+	Query: "trogon violaceus wfvz" ; Times: 1
+	Query: "14299" ; Times: 4
+	Query: "Egretta thula type:specimen AND (NOT eggs NOT CRCM NOT DMNH NOT DMNS NOT KU NOT LACM NOT MLZ NOT MSB NOT ROM NOT QM NOT UMMZ NOT MVZ NOT MCZ NOT OMNH NOT UWBM NOT YPM NOT SBMNH NOT ANSP NOT NYSM NOT AMNH NOT CAS NOT FMNH NOT SDNMH NOT CUMV)" ; Times: 1
+	Query: "pseudoscops clamator" ; Times: 2
+	Query: "auricollis year >= 1886" ; Times: 2
+	Query: "Branta Sandvicensis" ; Times: 4
+	Query: "stateprovince:"sanchez ramirez" country:"dominican republic"" ; Times: 1
+	Query: "aves distance(location,geopoint(53.199451902831555,-170.68359375))<141013" ; Times: 1
+	Query: "Chimney Swift" ; Times: 2
+	Query: "33940" ; Times: 1
+	Query: "stateprovince:"Texas" genus:Coccyzus year >= 1982" ; Times: 1
+	Query: "Strix country:"Mexico" AND (NOT occidentalis NOT virgata NOT nigrolineata)" ; Times: 1
+	Query: "Egretta thula type:specimen AND (NOT eggs NOT CRCM NOT DMNH NOT DMNS NOT KU NOT LACM NOT MLZ NOT MSB NOT ROM NOT QM NOT UMMZ NOT MVZ NOT MCZ)" ; Times: 1
+	Query: "Brachyramphus marmoratus stateprovince:"California"" ; Times: 9
+	Query: "Eudyptes moseleyi type:specimen" ; Times: 1
+	Query: "specificepithet:caeruleus genus:elanus" ; Times: 1
+	Query: "Streptoprocne" ; Times: 2
+	Query: "Falco femoralis" ; Times: 2
+	Query: "Harpyhaliaetus solitarius sonora" ; Times: 1
+	Query: "Blue Tit" ; Times: 1
+	Query: "county:"Clinton" stateprovince:"Illinois"" ; Times: 1
+	Query: "Afropavo congensis type:specimen" ; Times: 1
+	Query: "aves distance(location,geopoint(53.199451902831555,-170.68359375))<100000" ; Times: 1
+	Query: "aves distance(location,geopoint(53.1072166918934,-171.2603759765625))<100000" ; Times: 1
+	Query: "colibri thalassinus" ; Times: 10
+	Query: "catalognumber:28045" ; Times: 1
+	Query: "MZFC 14193" ; Times: 1
+	Query: "MZFC 14192" ; Times: 1
+	Query: "megalaima haemacephala" ; Times: 2
+	Query: "accipiter gularis" ; Times: 5
+	Query: "14280 type:specimen" ; Times: 2
+	Query: "Hugh land type:specimen country:"Guatemala"" ; Times: 1
+	Query: "Pseudibis" ; Times: 1
+	Query: "Melanotrochilus fuscus" ; Times: 49
+	Query: "45870" ; Times: 1
+	Query: "mastodon" ; Times: 1
+	Query: "Gypohierax angolensis" ; Times: 1
+	Query: "fort bend county texas" ; Times: 1
+	Query: "Megapodius pritchardii type:specimen" ; Times: 1
+	Query: "Egretta thula type:specimen AND (NOT eggs NOT CRCM NOT DMNH NOT DMNS NOT KU NOT LACM NOT MLZ NOT MSB NOT ROM NOT QM NOT UMMZ NOT MVZ NOT MCZ NOT OMNH NOT UWBM)" ; Times: 1
+	Query: "aves Georgia United States Sterna antillarum" ; Times: 1
+	Query: "dam country:"zimbabwe"" ; Times: 1
+	Query: "rolland falkland" ; Times: 3
+	Query: "crax globulosa" ; Times: 1
+	Query: "Phaethornis pretrei" ; Times: 1
+	Query: "catalognumber:127640" ; Times: 2
+	Query: "Cypseloides cryptus" ; Times: 3
+	Query: "catalognumber:228886" ; Times: 1
+	Query: "phylloscopus subaffinis" ; Times: 1
+	Query: "marmaronetta angustirostris" ; Times: 1
+	Query: "Harpy Eagle" ; Times: 1
+	Query: "parabuteo unicinctus" ; Times: 1
+	Query: "Otus scops" ; Times: 1
+	Query: "228897" ; Times: 1
+	Query: "ROM 98483" ; Times: 1
+	Query: "Eurynorhynchus pygmeus" ; Times: 2
+	Query: "borealis stateprovince:"oaxaca"" ; Times: 1
+	Query: "chrysomma sinense" ; Times: 1
+	Query: "UMMZ 123886" ; Times: 2
+	Query: "Xenopsaris albinucha" ; Times: 1
+	Query: "24633" ; Times: 1
+	Query: "155432" ; Times: 1
+	Query: "phylloscopus borealis" ; Times: 2
+	Query: "distance(location,geopoint(40.27256855319715,-113.258056640625))<30247" ; Times: 1
+	Query: "saint lucia" ; Times: 2
+	Query: "specificepithet:notabilis genus:Anisognathus" ; Times: 4
+	Query: "county:"Sonoma" stateprovince:"California" specificepithet:alpestris genus:eremophila" ; Times: 1
+	Query: "mead river stateprovince:"alaska"" ; Times: 1
+	Query: "Ochthoeca leucophrys" ; Times: 2
+	Query: "trogon wfvz" ; Times: 2
+	Query: "142880 type:specimen" ; Times: 1
+	Query: "aves Georgia United States WFVZ 123961" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:smith year >= 1930 year <= 1935" ; Times: 1
+	Query: "anthus hellmayri" ; Times: 1
+	Query: "arachnothera juliae" ; Times: 5
+	Query: "Ducula luctuosa type:specimen AND (NOT eggs)" ; Times: 1
+	Query: "aves distance(location,geopoint(53.199451902831555,-170.68359375))<129296" ; Times: 1
+	Query: "county:"Spartanburg" stateprovince:"South Carolina" class:Aves" ; Times: 1
+	Query: "Hypsipetes flavala" ; Times: 1
+	Query: "specificepithet:caeruleus genus:elanus year >= 1970" ; Times: 3
+	Query: "Mniotilta varia type:specimen country:"Costa Rica"" ; Times: 2
+	Query: "county:"Richland" stateprovince:"South Carolina" class:Aves" ; Times: 1
+	Query: "stateprovince:"Texas" genus:Coccyzus year >= 1982 year <= 1982" ; Times: 1
+	Query: "14470" ; Times: 2
+	Query: "Prunella montanella" ; Times: 1
+	Query: "cherriei weight" ; Times: 2
+	Query: "specificepithet:cinerea genus:Poospiza" ; Times: 1
+	Query: "distance(location,geopoint(34.116352469972746,-120.223388671875))<7787.571209819605" ; Times: 1
+	Query: "stateprovince:"texas" specificepithet:bairdii" ; Times: 1
+	Query: "zosterops everetti type:specimen" ; Times: 3
+	Query: "whooping crane" ; Times: 2
+	Query: "42291" ; Times: 1
+	Query: "institutioncode:wfvz" ; Times: 1
+	Query: "county:"Bell" stateprovince:"Texas"" ; Times: 1
+	Query: "222738" ; Times: 1
+	Query: "harpactes fasciatus type:specimen" ; Times: 1
+	Query: "Guadalupe Murrelet" ; Times: 1
+	Query: "33125" ; Times: 1
+	Query: "catalognumber:96258" ; Times: 1
+	Query: "Tinamotis ingoufi type:specimen" ; Times: 1
+	Query: "specificepithet:pygmaea institutioncode:wfvz" ; Times: 1
+	Query: "country:"denmark" class:aves year >= 1885 year <= 1890" ; Times: 1
+	Query: "sterna dougallii stateprovince:"ohio"" ; Times: 3
+	Query: "catalognumber:223963" ; Times: 1
+	Query: "tangara inornata" ; Times: 4
+	Query: "Penelope dabbenei type:specimen" ; Times: 1
+	Query: "Phoenicopterus roseus type:specimen" ; Times: 2
+	Query: "100263" ; Times: 1
+	Query: "strix varia country:"Mexico"" ; Times: 2
+	Query: "county:"Lancaster" stateprovince:"South Carolina" class:Aves" ; Times: 1
+	Query: "columba livia" ; Times: 1
+	Query: "podiceps cristatus" ; Times: 1
+	Query: "catalognumber:56775 institutioncode:wfvz" ; Times: 1
+	Query: "city creek san bernardino county" ; Times: 1
+	Query: "Pyrrhura albipectus type:specimen AND (NOT eggs)" ; Times: 1
+	Query: "recordedby:altman institutioncode:wfvz" ; Times: 1
+	Query: "95651" ; Times: 1
+	Query: "picoides albolarvatus" ; Times: 1
+	Query: "26305" ; Times: 1
+	Query: "vireolanius melitophrys" ; Times: 1
+	Query: "catalognumber:222645" ; Times: 1
+	Query: "catalognumber:500" ; Times: 1
+	Query: ""Anser albifrons" stateprovince:"Alaska"" ; Times: 3
+	Query: "Myiarchus nuttingi type:specimen" ; Times: 3
+	Query: "36223" ; Times: 1
+	Query: "Syrmaticus ellioti type:specimen" ; Times: 1
+	Query: "191043" ; Times: 1
+	Query: "pseudoseisura" ; Times: 2
+	Query: "burti weight" ; Times: 1
+	Query: "county:"Anderson" stateprovince:"South Carolina" class:Aves" ; Times: 1
+	Query: "Egretta thula type:specimen AND (NOT eggs NOT CRCM NOT DMNH NOT DMNS NOT KU NOT LACM NOT MLZ NOT MSB NOT ROM NOT QM NOT UMMZ)" ; Times: 1
+	Query: "common murre egg" ; Times: 1
+	Query: "passenger pigeon" ; Times: 3
+	Query: "palmarum egg" ; Times: 1
+	Query: "183420" ; Times: 1
+	Query: "cypseloides niger country:"costa rica"" ; Times: 1
+	Query: "Trogon violaceus WFVZ" ; Times: 1
+	Query: "cuculus poliocephalus" ; Times: 2
+	Query: "aves Georgia United States Coragyps atratus" ; Times: 1
+	Query: "Anthus bogotensis country:"Colombia"" ; Times: 3
+	Query: "Nyctidromus veracruz" ; Times: 1
+	Query: "sporophila torqueola mutanda" ; Times: 1
+	Query: "pionus maximiliani" ; Times: 1
+	Query: "Red-winged Blackbird stateprovince:"Connecticut"" ; Times: 1
+	Query: "CAPERCAILLIE" ; Times: 2
+	Query: "stateprovince:"alaska" class:aves recordedby:schmidt" ; Times: 1
+	Query: "Branta hutchinsii type:specimen" ; Times: 2
+	Query: "otus bakkamoena" ; Times: 2
+	Query: "institutioncode:wfvz Poicephalus" ; Times: 1
+	Query: "acanthis flammea" ; Times: 1
+	Query: "africa AND green AND frog" ; Times: 1
+	Query: "Oceanodroma homochroa" ; Times: 1
+	Query: "megalurus palustris" ; Times: 2
+	Query: "stateprovince:"alaska" class:aves recordedby:smith mary" ; Times: 1
+	Query: "81805" ; Times: 1
+	Query: "county:"Dane" stateprovince:"Wisconsin" year <= 2015" ; Times: 1
+	Query: "UMMZ 161022" ; Times: 1
+	Query: "Egretta thula type:specimen AND (NOT eggs NOT CRCM NOT DMNH NOT DMNS NOT KU NOT LACM NOT MLZ NOT MSB NOT ROM NOT QM NOT UMMZ NOT MVZ NOT MCZ NOT OMNH NOT UWBM NOT YPM NOT SBMNH NOT ANSP NOT NYSM)" ; Times: 1
+	Query: "33625" ; Times: 2
+	Query: "Egretta thula type:specimen" ; Times: 2
+	Query: "class:Aves catalognumber:24681 institutioncode:WFVZ" ; Times: 1
+	Query: "Pharomachrus mocinno type:specimen" ; Times: 3
+	Query: "specificepithet:migratorius genus:Ectopistes" ; Times: 2
+	Query: "cannabina type:specimen (egg)" ; Times: 1
+	Query: "catalognumber:101565" ; Times: 1
+	Query: "brown nuthatch" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:scudden" ; Times: 2
+	Query: "rufous tailed hummingbird" ; Times: 1
+	Query: "22774" ; Times: 2
+	Query: "Mimus gilvus" ; Times: 1
+	Query: "27802" ; Times: 1
+	Query: "bird guadalupe y calvo chihuahua" ; Times: 2
+	Query: "buteo albonotatus" ; Times: 1
+	Query: "Mniotilta varia type:specimen country:"Guatemala"" ; Times: 1
+	Query: "turdoides malcolmi" ; Times: 3
+	Query: "class:aves recordedby:richardson year <= 1904" ; Times: 1
+	Query: "puerto arista" ; Times: 3
+	Query: "pulsatrix perspicillata" ; Times: 1
+	Query: "155398" ; Times: 1
+	Query: "type:specimen catalognumber:110263" ; Times: 1
+	Query: "pin-tailed whydah" ; Times: 1
+	Query: "calliope hummingbird" ; Times: 3
+	Query: "Larus serranus" ; Times: 3
+	Query: "stateprovince:"alaska" class:aves recordedby:j.o. snyder" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:a. smith" ; Times: 1
+	Query: "catalognumber:38002" ; Times: 1
+	Query: "summer tanager" ; Times: 1
+	Query: "Podiceps occipitalis PERU" ; Times: 1
+	Query: "paradisaea guilielmi year >= 1980 year <= 2015" ; Times: 1
+	Query: "distance(location,geopoint(40.33381556989261,-113.3294677734375))<32712.805901669977" ; Times: 1
+	Query: "personatus weight" ; Times: 1
+	Query: "africa green frog" ; Times: 1
+	Query: "greater yellowlegs eggs type:specimen" ; Times: 1
+	Query: "oreophasis" ; Times: 1
+	Query: "178475" ; Times: 1
+	Query: "cygnus buccinator" ; Times: 1
+	Query: "Saint Lucia" ; Times: 1
+	Query: "Mesitornithidae" ; Times: 1
+	Query: "class:aves recordedby:richardson year >= 1904 year <= 1904" ; Times: 2
+	Query: "jenks lake san bernardino county" ; Times: 1
+	Query: "Mimus saturninus" ; Times: 2
+	Query: "country:"kenya" specificepithet:caeruleus genus:Elanus" ; Times: 1
+	Query: "167529" ; Times: 1
+	Query: "73644" ; Times: 1
+	Query: "aves Georgia United States Nycticorax nycticorax" ; Times: 1
+	Query: "Sobrinho" ; Times: 1
+	Query: "Brachyramphus egg" ; Times: 2
+	Query: "egg "buteo lagopus"" ; Times: 2
+	Query: "greater yellowlegs type:specimen" ; Times: 1
+	Query: "Spizaetus" ; Times: 1
+	Query: "Sporophila americana" ; Times: 1
+	Query: "aves distance(location,geopoint(53.199451902831555,-170.68359375))<104718.90122498687" ; Times: 1
+	Query: "year <= 2015 distance(location,geopoint(40.33381556989261,-113.3294677734375))<32712.805901669977" ; Times: 1
+	Query: "cuculus saturatus" ; Times: 3
+	Query: "Strix aluco country:"India"" ; Times: 1
+	Query: "Pteroptochos megapodius atacamae" ; Times: 1
+	Query: "Grizzly Bear" ; Times: 4
+	Query: "aves Georgia United States Cardinalis cardinalis" ; Times: 1
+	Query: "catalognumber:100917" ; Times: 2
+	Query: "chlorocharis emiliae" ; Times: 1
+	Query: "catalognumber:6000 institutioncode:wfvz" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:serma" ; Times: 1
+	Query: "Sarcoramphus papa" ; Times: 1
+	Query: "Leptodon" ; Times: 1
+	Query: "arizonae county:"dona ana" stateprovince:"New Mexico" year <= 2015" ; Times: 1
+	Query: "county:"Fairfield" stateprovince:"South Carolina" class:Aves" ; Times: 1
+	Query: "catalognumber:60531" ; Times: 1
+	Query: "LACMNH" ; Times: 1
+	Query: "scopus umbretta" ; Times: 1
+	Query: "pulsatrix" ; Times: 6
+	Query: "aves navajoa sonora" ; Times: 1
+	Query: "stateprovince:"north dakota" genus:molothrus" ; Times: 2
+	Query: "36223 Aves" ; Times: 1
+	Query: "county:"Bell" stateprovince:"Texas" year >= 1888 year <= 2015" ; Times: 1
+	Query: "Otus scops country:"India"" ; Times: 1
+	Query: "nelson d. hoy" ; Times: 5
+	Query: "labrador duck" ; Times: 3
+	Query: "Pipile pipile type:specimen" ; Times: 5
+	Query: "aves Georgia United States WFVZ" ; Times: 2
+	Query: "stateprovince:"arizona" specificepithet:stelleri genus:cyanocitta" ; Times: 7
+	Query: "62178" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:schempf" ; Times: 1
+	Query: "county:"Edgefield" stateprovince:"South Carolina" class:Aves" ; Times: 1
+	Query: "62176" ; Times: 1
+	Query: "cypseloides niger" ; Times: 10
+	Query: "mappable:1 distance(location,geopoint(38.019426820061696,-122.28504180908203))<3072" ; Times: 1
+	Query: "186 county:"Cochise" stateprovince:"Arizona" year <= 2015" ; Times: 1
+	Query: "hieraaetus pennatus" ; Times: 11
+	Query: "specificepithet:motacilla genus:seiurus institutioncode:WFVZ" ; Times: 1
+	Query: "aves Georgia United States Selasphorus rufus" ; Times: 1
+	Query: "pig" ; Times: 1
+	Query: "minnesota wabasha" ; Times: 1
+	Query: "36084" ; Times: 1
+	Query: "Egretta thula type:specimen AND (NOT eggs NOT CRCM NOT DMNH NOT DMNS NOT KU NOT LACM NOT MLZ NOT MSB NOT ROM NOT QM NOT UMMZ NOT MVZ NOT MCZ NOT OMNH NOT UWBM NOT YPM NOT SBMNH NOT ANSP NOT NYSM NOT AMNH)" ; Times: 1
+	Query: "specificepithet:melanodera genus:melanodera" ; Times: 1
+	Query: "aves Georgia United States Anas discors" ; Times: 1
+	Query: "agelaius tricolor (oroville)" ; Times: 2
+	Query: "carolina parakeet" ; Times: 1
+	Query: "Mystacornis crossleyi" ; Times: 1
+	Query: "distance(location,geopoint(46.75993680791378,10.8984375))<100000" ; Times: 1
+	Query: "Strix varia country:"Mexico"" ; Times: 1
+	Query: "Laterallus" ; Times: 4
+	Query: "Cypseloides" ; Times: 4
+	Query: "5280" ; Times: 2
+	Query: "Ectopistes migratorius" ; Times: 3
+	Query: "papa" ; Times: 1
+	Query: "oven bird" ; Times: 1
+	Query: "imitatrix" ; Times: 1
+	Query: "Eudyptes filholi type:specimen" ; Times: 1
+	Query: "aves distance(location,geopoint(53.1072166918934,-171.2603759765625))<96662" ; Times: 1
+	Query: "Trogon citreolus WFVZ" ; Times: 1
+	Query: "Loggerhead Shrike" ; Times: 1
+	Query: "Ochthoeca leucophrys leucophrys" ; Times: 1
+	Query: "northern potoo" ; Times: 1
+	Query: "cyanolyca nana" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 88 (out of 1084 download events in this period)
+Total number of records downloaded: 41575 (out of 4365690 records downloaded for all resources in this period)
+Total number of unique records downloaded: 36122
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 6
+	Country: Canada ; Times: 2
+	Country: Dominican Republic ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 25
+	Country: Netherlands ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Puerto Rico ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 48
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 2
+	Date: 2015-07-02 ; Times: 2
+	Date: 2015-07-03 ; Times: 2
+	Date: 2015-07-04 ; Times: 2
+	Date: 2015-07-06 ; Times: 7
+	Date: 2015-07-07 ; Times: 6
+	Date: 2015-07-08 ; Times: 3
+	Date: 2015-07-09 ; Times: 7
+	Date: 2015-07-10 ; Times: 1
+	Date: 2015-07-11 ; Times: 4
+	Date: 2015-07-13 ; Times: 1
+	Date: 2015-07-14 ; Times: 6
+	Date: 2015-07-15 ; Times: 6
+	Date: 2015-07-16 ; Times: 4
+	Date: 2015-07-17 ; Times: 1
+	Date: 2015-07-18 ; Times: 1
+	Date: 2015-07-19 ; Times: 1
+	Date: 2015-07-20 ; Times: 3
+	Date: 2015-07-21 ; Times: 2
+	Date: 2015-07-22 ; Times: 3
+	Date: 2015-07-23 ; Times: 1
+	Date: 2015-07-24 ; Times: 2
+	Date: 2015-07-26 ; Times: 1
+	Date: 2015-07-27 ; Times: 5
+	Date: 2015-07-28 ; Times: 1
+	Date: 2015-07-29 ; Times: 1
+	Date: 2015-07-30 ; Times: 6
+	Date: 2015-07-31 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Streptoprocne" ; Times: 1
+	Query: "Guanajuato" ; Times: 1
+	Query: "agelaius tricolor" ; Times: 1
+	Query: "county:"sonoma" year >= 1930 year <= 1975" ; Times: 1
+	Query: "county:"Grand" stateprovince:"Utah"" ; Times: 1
+	Query: "specificepithet:indigotica genus:Diglossa" ; Times: 1
+	Query: "Hypsipetes flavala" ; Times: 1
+	Query: "catalognumber:6000 institutioncode:wfvz" ; Times: 1
+	Query: "Arkansas" ; Times: 2
+	Query: "Mniotilta varia type:specimen country:"Costa Rica"" ; Times: 1
+	Query: "Phylloscopus cebuensis" ; Times: 1
+	Query: "namibia" ; Times: 1
+	Query: "county:"Carbon" stateprovince:"Utah"" ; Times: 1
+	Query: "Falco femoralis" ; Times: 1
+	Query: "specificepithet:melanodera genus:melanodera" ; Times: 1
+	Query: "geositta punensis" ; Times: 1
+	Query: "Ochthoeca leucophrys" ; Times: 1
+	Query: ""Anser albifrons" country:"Canada"" ; Times: 1
+	Query: "country:"Mexico" class:Aves" ; Times: 1
+	Query: "aves distance(location,geopoint(53.1072166918934,-171.2603759765625))<119084" ; Times: 1
+	Query: "colibri thalassinus" ; Times: 2
+	Query: ""La Encantada" stateprovince:"Baja" country:"Mexico"" ; Times: 1
+	Query: "Mniotilta varia type:specimen country:"Colombia"" ; Times: 1
+	Query: "specificepithet:cinerea genus:Poospiza" ; Times: 1
+	Query: "Eurynorhynchus pygmeus" ; Times: 1
+	Query: "Cardinalis cardinalis specificepithet:cardinalis genus:Cardinalis class:Aves" ; Times: 1
+	Query: "("DRC" OR "Democratic Republic of the Congo" )" ; Times: 1
+	Query: "aepyornis" ; Times: 2
+	Query: "puerto arista" ; Times: 3
+	Query: "Saltator coerulescens" ; Times: 1
+	Query: "strix varia country:"mexico"" ; Times: 2
+	Query: "county:"Sonoma" stateprovince:"California" year >= 1900 year <= 1900" ; Times: 1
+	Query: "Mniotilta varia type:specimen country:"Guatemala"" ; Times: 2
+	Query: "catalognumber:11062 institutioncode:wfvz" ; Times: 1
+	Query: "iguana iguana" ; Times: 1
+	Query: "strix country:"mexico" (varia OR sartorii)" ; Times: 1
+	Query: "Selasphorus platycercus" ; Times: 1
+	Query: "ruffed grouse" ; Times: 1
+	Query: "zacatecas" ; Times: 1
+	Query: "san luis potosi" ; Times: 1
+	Query: "chordata country:"dominican Republic"" ; Times: 1
+	Query: "utah" ; Times: 1
+	Query: "specificepithet:auriventris genus:Sicalis" ; Times: 1
+	Query: "stateprovince:"oaxaca" recordedby:rook w" ; Times: 1
+	Query: "Dendroica kirtlandii type:specimen" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "Encantada country:"Mexico"" ; Times: 1
+	Query: "country:"Puerto Rico"" ; Times: 1
+	Query: "sterna dougallii stateprovince:"ohio"" ; Times: 1
+	Query: "county:"Wasatch" stateprovince:"Utah"" ; Times: 1
+	Query: "Numenius phaeopus" ; Times: 2
+	Query: "specificepithet:abbas genus:Thraupis" ; Times: 1
+	Query: "specificepithet:notabilis genus:Anisognathus" ; Times: 1
+	Query: "aves Georgia United States WFVZ" ; Times: 1
+	Query: "county:"Sonoma" stateprovince:"California" specificepithet:alpestris genus:eremophila" ; Times: 1
+	Query: "Gallicolumba luzonica" ; Times: 1
+	Query: "specificepithet:inornata genus:Pinaroloxias" ; Times: 1
+	Query: "stateprovince:"arizona" specificepithet:stelleri genus:cyanocitta" ; Times: 1
+	Query: "Hylocharis leucotis" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "specificepithet:rufum genus:Conirostrum" ; Times: 1
+	Query: "sporophila americana" ; Times: 1
+	Query: "type:specimen genus:euphonia (tissue)" ; Times: 1
+	Query: "guanajuato" ; Times: 1
+	Query: "Cardinalis cardinalis" ; Times: 1
+	Query: "Oceanodroma homochroa" ; Times: 1
+	Query: "Poicephalus" ; Times: 1
+	Query: ""sylvilagus brasiliensis"" ; Times: 1
+	Query: "crax globulosa" ; Times: 1
+	Query: "Cyanocorax yncas" ; Times: 1
+	Query: "jalisco" ; Times: 1
+	Query: "Loggerhead Shrike" ; Times: 1
+	Query: "county:"Duchesne" stateprovince:"Utah"" ; Times: 1
+	Query: "arachnothera juliae" ; Times: 1
+	Query: "county:"Utah" stateprovince:"Utah"" ; Times: 1
+	Query: "aves distance(location,geopoint(53.199451902831555,-170.68359375))<129296" ; Times: 1
+	Query: "Campylorhynchus rufinucha" ; Times: 1
+	Query: "anas clypeata county:"siskiyou" stateprovince:"california" institutioncode:wfvz" ; Times: 1
+	Query: "Rhipidura cyaniceps" ; Times: 1
+	Query: "Copsychus luzoniensis" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 5035
+Total number of records retrieved from searches: 72156
+Number of download events that retrieved data from the resource: 561
+Total number of records downloaded: 230769
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 5452
+Total number of records retrieved from searches: 77438
+Number of download events that retrieved data from the resource: 925
+Total number of records downloaded: 402702
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
