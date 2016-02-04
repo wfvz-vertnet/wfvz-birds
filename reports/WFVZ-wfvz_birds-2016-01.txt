@@ -1,0 +1,420 @@
+Report for Institution Code WFVZ, Resource wfvz_birds
+Usage stats for January 2016, generated on 2016/02/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 387
+Number of records retrieved in searches: 6371
+Number of different countries where searches have been originated: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 25
+	Country: Brazil ; Times: 17
+	Country: Israel ; Times: 2
+	Country: Netherlands ; Times: 2
+	Country: Portugal ; Times: 14
+	Country: Mexico ; Times: 8
+	Country: Russia ; Times: 21
+	Country: Unknown ; Times: 18
+	Country: India ; Times: 3
+	Country: France ; Times: 2
+	Country: United States ; Times: 256
+	Country: Sweden ; Times: 2
+	Country: Germany ; Times: 6
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Puerto Rico ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: Hungary ; Times: 2
+	Country: Thailand ; Times: 4
+	Country: Denmark ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-04 ; Times: 9
+	Date: 2016-01-05 ; Times: 15
+	Date: 2016-01-20 ; Times: 19
+	Date: 2016-01-07 ; Times: 15
+	Date: 2016-01-26 ; Times: 22
+	Date: 2016-01-27 ; Times: 7
+	Date: 2016-01-02 ; Times: 13
+	Date: 2016-01-03 ; Times: 7
+	Date: 2016-01-28 ; Times: 9
+	Date: 2016-01-29 ; Times: 9
+	Date: 2016-01-08 ; Times: 22
+	Date: 2016-01-09 ; Times: 13
+	Date: 2016-01-22 ; Times: 16
+	Date: 2016-01-23 ; Times: 3
+	Date: 2016-01-06 ; Times: 12
+	Date: 2016-01-19 ; Times: 28
+	Date: 2016-01-21 ; Times: 15
+	Date: 2016-01-13 ; Times: 8
+	Date: 2016-01-12 ; Times: 18
+	Date: 2016-01-11 ; Times: 13
+	Date: 2016-01-10 ; Times: 2
+	Date: 2016-01-17 ; Times: 9
+	Date: 2016-01-16 ; Times: 4
+	Date: 2016-01-15 ; Times: 8
+	Date: 2016-01-14 ; Times: 14
+	Date: 2016-01-31 ; Times: 3
+	Date: 2016-01-30 ; Times: 17
+	Date: 2016-01-24 ; Times: 10
+	Date: 2016-01-25 ; Times: 28
+	Date: 2016-01-18 ; Times: 16
+	Date: 2016-01-01 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "gbifdatasetid:8be43f9b-52e7-47d4-be3e-dbcc066d70ab" ; Times: 2
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:willett year &gt;= 1925 year &lt;= 1925" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:willett year &gt;= 1920 year &lt;= 1920 month &gt;= 1 month &lt;= 5" ; Times: 2
+	Query: "Tadorna ferruginea" ; Times: 3
+	Query: "cissa thalassina" ; Times: 1
+	Query: "urine" ; Times: 2
+	Query: "Grus canadensis Henry" ; Times: 1
+	Query: "yuhina castaniceps castaniceps" ; Times: 1
+	Query: "alcippe stanfordi" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:willett year &gt;= 1916 year &lt;= 1916" ; Times: 1
+	Query: "class:aves locality:dall stateprovince:&#34;alaska&#34; recordedby:willett year &gt;= 1918 year &lt;= 1919" ; Times: 1
+	Query: "distance(location,geopoint(29.429036,-113.527516))&lt;15000" ; Times: 1
+	Query: "Alberta Canada aves collected 2005-2015" ; Times: 1
+	Query: "eggs minnesota bird" ; Times: 2
+	Query: "pharomachrus type:specimen" ; Times: 2
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:willett year &gt;= 1924 year &lt;= 1924" ; Times: 1
+	Query: "Pheucticus tibialis type:specimen" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:willett year &gt;= 1920 year &lt;= 1920" ; Times: 3
+	Query: "elf" ; Times: 6
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:willett year &gt;= 1926 year &lt;= 1926" ; Times: 1
+	Query: "class:aves locality:juan stateprovince:&#34;alaska&#34; recordedby:willett year &gt;= 1918 year &lt;= 1919" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "leucistic" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;oklahoma&#34; year &gt;= 1902 year &lt;= 1902" ; Times: 1
+	Query: "&#34;Elaenia chiriquensis&#34;" ; Times: 1
+	Query: "bubo nipalensis type:specimen" ; Times: 1
+	Query: "bald eagle" ; Times: 2
+	Query: "type:specimen genus:aratinga (brevipes) institutioncode:WFVZ" ; Times: 1
+	Query: "&#34;Lophotriccus pileatus&#34;" ; Times: 1
+	Query: "sedentarius mappable:1" ; Times: 1
+	Query: "Least Storm-Petrel" ; Times: 1
+	Query: "166 county:&#34;Jeff Davis&#34;" ; Times: 1
+	Query: "wilsonia pusilla (southern california)" ; Times: 1
+	Query: "jefferson illinois" ; Times: 1
+	Query: "distance(location,geopoint(26.029036,-108.937516))&lt;15000" ; Times: 1
+	Query: "Henicorhina leucosticta pittieri" ; Times: 1
+	Query: "ROM 263" ; Times: 1
+	Query: "Goodall" ; Times: 1
+	Query: "Boreal Owl" ; Times: 1
+	Query: "oriolus kundoo india" ; Times: 1
+	Query: "Perdicula" ; Times: 2
+	Query: "class:aves locality:craig stateprovince:&#34;alaska&#34; recordedby:willett year &gt;= 1920 year &lt;= 1920 month &gt;= 1 month &lt;= 5" ; Times: 1
+	Query: "Brachypteryx montana" ; Times: 1
+	Query: "Amazona viridigenalis" ; Times: 1
+	Query: "79-64" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:willett jr." ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 2
+	Query: "Cissa thalassina" ; Times: 5
+	Query: "myrmeciza immaculata type:specimen sex:female year &gt;= 1965 institutioncode:WFVZ" ; Times: 1
+	Query: "Platylophus" ; Times: 1
+	Query: "Indicator archipelagicus" ; Times: 1
+	Query: "apapane" ; Times: 2
+	Query: "eastern screech owl" ; Times: 3
+	Query: "wilsonia pusilla (guatemala) month &gt;= 12 month &lt;= 12" ; Times: 1
+	Query: "Oceanodroma leucorhoa Benito" ; Times: 1
+	Query: "specificepithet:militaris genus:Ara" ; Times: 1
+	Query: "albania" ; Times: 2
+	Query: "type:specimen (Acanthidops)" ; Times: 1
+	Query: "snakes" ; Times: 3
+	Query: "himatione" ; Times: 1
+	Query: "Psaltriparus minimus year &gt;= 1950 year &lt;= 1960" ; Times: 1
+	Query: "distance(location,geopoint(23.819036,-105.367516))&lt;15000" ; Times: 1
+	Query: "Catharus dryas Mexico" ; Times: 1
+	Query: "mvz 45316" ; Times: 1
+	Query: "distance(location,geopoint(27.729036,-113.867516))&lt;15000" ; Times: 1
+	Query: "lion" ; Times: 1
+	Query: "Etowah County type:specimen year &gt;= 1900 year &lt;= 1950" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Oklahoma&#34; year &gt;= 1898 year &lt;= 1900" ; Times: 1
+	Query: "Tree Swallow" ; Times: 2
+	Query: "skin genus: Eucometis sex:male" ; Times: 1
+	Query: "class:aves locality:forrester stateprovince:&#34;alaska&#34; recordedby:willett year &gt;= 1920 year &lt;= 1920 month &gt;= 1 month &lt;= 5" ; Times: 1
+	Query: "eq" ; Times: 1
+	Query: "dendrocitta occipitalis" ; Times: 8
+	Query: "116021" ; Times: 1
+	Query: "resplendent quetzal" ; Times: 2
+	Query: "Anthus spragueii minnesota" ; Times: 2
+	Query: "pitta brachyura india" ; Times: 1
+	Query: "mummy" ; Times: 11
+	Query: "Gypaetus (Eggs)" ; Times: 9
+	Query: "type:specimen (tinamus)" ; Times: 1
+	Query: "Oceanodroma homochroa 1896" ; Times: 1
+	Query: "vampire" ; Times: 10
+	Query: "Oceanodroma homochroa 1895" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:willett year &gt;= 1915 year &lt;= 1915" ; Times: 1
+	Query: "grasshopper sparrow" ; Times: 1
+	Query: "motacilla grandis" ; Times: 1
+	Query: "porzana cinerea" ; Times: 1
+	Query: "distance(location,geopoint(26.709036,-108.767516))&lt;15000" ; Times: 1
+	Query: "canadensis osgoodi" ; Times: 1
+	Query: "Lacedo" ; Times: 2
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:willett year &gt;= 1922 year &lt;= 1922" ; Times: 1
+	Query: "class:aves locality:chipp stateprovince:&#34;alaska&#34; year &gt;= 1940 year &lt;= 1940 month &gt;= 6 month &lt;= 6" ; Times: 1
+	Query: "Oceanodroma homochroa sppit" ; Times: 1
+	Query: "yuhina castaniceps" ; Times: 1
+	Query: "Bolborhynchus" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:willett year &gt;= 1936 year &lt;= 1936 institutioncode:WFVZ" ; Times: 1
+	Query: "myrmotherula surinamensis type:specimen sex:male year &gt;= 1965 year &lt;= 2016" ; Times: 1
+	Query: "Falco naumanni" ; Times: 2
+	Query: "class:aves stateprovince:&#34;Oklahoma&#34; year &gt;= 1903 year &lt;= 1903" ; Times: 1
+	Query: "specificepithet:opisthomelas genus:puffinus" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:willett year &gt;= 1927 year &lt;= 2000 institutioncode:WFVZ" ; Times: 1
+	Query: "kea" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:willett year &gt;= 1921 year &lt;= 1921 month &gt;= 5 month &lt;= 5" ; Times: 1
+	Query: "spotted owl" ; Times: 4
+	Query: "witch" ; Times: 8
+	Query: "specificepithet:militaris genus:Ara stateprovince:&#34;Sonora&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:willett ora" ; Times: 1
+	Query: "Hawaii Wilson class:Aves" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:willett year &gt;= 1927 year &lt;= 1990" ; Times: 1
+	Query: "genus:Ictinia stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "gymnogyps californianus" ; Times: 1
+	Query: "wilsonia pusilla (alaska) month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "specificepithet:hirundinacea genus:Sterna" ; Times: 1
+	Query: "blue penguin" ; Times: 3
+	Query: "prarie warbler" ; Times: 2
+	Query: "Spotted Owl" ; Times: 1
+	Query: "Oceanodroma homochroa 1887" ; Times: 1
+	Query: "Oceanodroma homochroa 1886" ; Times: 1
+	Query: "Ortyxelos" ; Times: 1
+	Query: "Empidonax occidentalis" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; year &gt;= 1940 year &lt;= 1940 month &gt;= 6 month &lt;= 6" ; Times: 1
+	Query: "ummz 77261" ; Times: 1
+	Query: "Oceanodroma homochroa Cave Eggs" ; Times: 1
+	Query: "mvz gymnogyps california" ; Times: 1
+	Query: "black rail" ; Times: 2
+	Query: "catalognumber:78131" ; Times: 1
+	Query: "33490" ; Times: 1
+	Query: "long-eared owl" ; Times: 6
+	Query: "Oceanodroma homochroa Cruz" ; Times: 3
+	Query: "poospiza cinerea" ; Times: 2
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:willett year &gt;= 1917 year &lt;= 1917" ; Times: 1
+	Query: "struthio type:specimen" ; Times: 1
+	Query: "Carolina parakeet" ; Times: 1
+	Query: "locality:Revillagigedo year &gt;= 1865 year &lt;= 1900" ; Times: 1
+	Query: "francolinus capensis" ; Times: 2
+	Query: "Oceanodroma homochroa Orizaba" ; Times: 1
+	Query: "class:aves stateprovince:&#34;Oklahoma&#34; year &gt;= 1926 year &lt;= 1926" ; Times: 2
+	Query: "class:aves locality:forrester stateprovince:&#34;alaska&#34; recordedby:willett year &gt;= 1918 year &lt;= 1919" ; Times: 1
+	Query: "skin genus:Acanthidops sex:male" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:weston" ; Times: 1
+	Query: "anas eatoni" ; Times: 1
+	Query: "116441" ; Times: 1
+	Query: "distance(location,geopoint(24.499036,-107.577516))&lt;15000" ; Times: 1
+	Query: "trogon ambiguus type:specimen" ; Times: 2
+	Query: "lizards" ; Times: 1
+	Query: "terpsiphone paradisi india" ; Times: 2
+	Query: "WFVZ 6977" ; Times: 1
+	Query: "dicrurus leucophaeus india" ; Times: 1
+	Query: "cercomacra nigricans type:specimen sex:female year &gt;= 1965" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:willett year &gt;= 1914 year &lt;= 1914" ; Times: 1
+	Query: "county:&#34;Williamson&#34;" ; Times: 1
+	Query: "(Pipra isidorei)" ; Times: 2
+	Query: "genus:Tinamus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:willett jr. institutioncode:WFVZ" ; Times: 2
+	Query: "specificepithet:mollissima genus:zoothera" ; Times: 2
+	Query: "Boissonneaua matthewsii" ; Times: 1
+	Query: "anas sparsa" ; Times: 1
+	Query: "Mills P" ; Times: 1
+	Query: "125417" ; Times: 1
+	Query: "dicrurus leucophaeus" ; Times: 1
+	Query: "ramphastos toco" ; Times: 2
+	Query: "Gallus gallus" ; Times: 1
+	Query: "specificepithet:rufum genus:Conirostrum" ; Times: 1
+	Query: "Catharus dryas" ; Times: 2
+	Query: "myrmeciza immaculata" ; Times: 1
+	Query: "distance(location,geopoint(28.579036,-112.507516))&lt;15000" ; Times: 1
+	Query: "Oceanodroma Benito" ; Times: 2
+	Query: "type:specimen genus:Aratinga (brevipes)" ; Times: 1
+	Query: "Pycnonotus atriceps" ; Times: 1
+	Query: "type:specimen family:Turdidae (poliocephalus)" ; Times: 2
+	Query: "western burrowing owl" ; Times: 1
+	Query: "108529" ; Times: 1
+	Query: "Henicorhina leucophrys" ; Times: 1
+	Query: "Treron sieboldii" ; Times: 1
+	Query: "genus:piculus" ; Times: 1
+	Query: "distance(location,geopoint(23.819036,-106.557516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(34.43664633753353,-118.7570571899414))&lt;1602.3418660082177" ; Times: 1
+	Query: "western snowy plover" ; Times: 1
+	Query: "San Benito Islands" ; Times: 2
+	Query: "Alberta Canada aves 2005-2015" ; Times: 1
+	Query: "ortyxelos" ; Times: 1
+	Query: "wilson hawaii" ; Times: 1
+	Query: "ROM 19936" ; Times: 1
+	Query: "42565" ; Times: 1
+	Query: "Henicorhina leucosticta leucosticta" ; Times: 1
+	Query: "specificepithet:minor genus:Coccyzus" ; Times: 1
+	Query: "birds eggs type:specimen institutioncode:WFVZ" ; Times: 1
+	Query: "specificepithet:leucocephalus genus:Haliaeetus year &gt;= 2000 year &lt;= 2015" ; Times: 2
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:willett AND (NOT lacm NOT dmns) year &gt;= 1920 year &lt;= 1920" ; Times: 1
+	Query: "pulsatrix institutioncode:WFVZ" ; Times: 2
+	Query: "distance(location,geopoint(29.259036,-110.637516))&lt;15000" ; Times: 1
+	Query: "class:aves locality:chipp stateprovince:&#34;alaska&#34; year &gt;= 1940 year &lt;= 1940" ; Times: 1
+	Query: "Tachycineta bicolor nest" ; Times: 1
+	Query: "macaw" ; Times: 1
+	Query: "stateprovince:&#34;alaska&#34; recordedby:willett year &gt;= 1922 year &lt;= 1922" ; Times: 2
+	Query: "(Verdugo)" ; Times: 1
+	Query: "institutioncode:WFVZ" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Oklahoma&#34; year &gt;= 1913 year &lt;= 1913" ; Times: 2
+	Query: "pseudibis" ; Times: 1
+	Query: "marion missouri" ; Times: 1
+	Query: "Agelaius phoeniceus fortis year &gt;= 1921 year &lt;= 1921" ; Times: 2
+	Query: "Bubo nipalensis" ; Times: 1
+	Query: "Psaltriparus minimus melanurus" ; Times: 3
+	Query: "willet" ; Times: 1
+	Query: "distance(location,geopoint(28.579036,-106.047516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(27.559036,-109.617516))&lt;15000" ; Times: 4
+	Query: "type:specimen specificepithet:phoeniceus genus:Cardinalis sex:Male preparations:Skin" ; Times: 1
+	Query: "specificepithet:leucocephalus genus:Haliaeetus preparations:round OR skin year &gt;= 2000 year &lt;= 2015" ; Times: 1
+	Query: "arachnothera longirostris india" ; Times: 1
+	Query: "12113" ; Times: 1
+	Query: "Accipiter Arizona" ; Times: 2
+	Query: "Alberta Canada bird 2005-2015" ; Times: 1
+	Query: "euplectes jacksoni (gonads)" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;oklahoma&#34; year &gt;= 1913 year &lt;= 1913" ; Times: 1
+	Query: "nuts" ; Times: 1
+	Query: "long eared owl" ; Times: 3
+	Query: "Tetrax tetrax" ; Times: 2
+	Query: "&#34;Mission Bay&#34;" ; Times: 1
+	Query: "country:&#34;Brazil&#34; recordedby:Novaes" ; Times: 1
+	Query: "cercomacra nigricans type:specimen sex:female" ; Times: 1
+	Query: "urubambensis" ; Times: 1
+	Query: "Oceanodroma homochroa 1913" ; Times: 1
+	Query: "Haliaeetus leucocephalus washington" ; Times: 1
+	Query: "Oceanodroma homochroa Cruz rock" ; Times: 1
+	Query: "platysmurus leucopterus" ; Times: 1
+	Query: "nothocercus type:specimen" ; Times: 1
+	Query: "stateprovince:&#34;alaska&#34; recordedby:hurley" ; Times: 2
+	Query: "58820" ; Times: 1
+	Query: "stateprovince:&#34;alaska&#34; recordedby:adair" ; Times: 1
+	Query: "aves locality:Revillagigedo year &gt;= 1865 year &lt;= 1900" ; Times: 1
+	Query: "oriolus chinensis india" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:willett institutioncode:WFVZ" ; Times: 1
+	Query: "Tympanuchus phasianellus campestris year &gt;= 1931 year &lt;= 1931" ; Times: 1
+	Query: "Etowah County" ; Times: 1
+	Query: "San Benitos Islands" ; Times: 1
+	Query: "coeligena phalerata" ; Times: 1
+	Query: "edwards stateprovince:&#34;baja california&#34; country:&#34;mexico&#34; year &gt;= 1916" ; Times: 1
+	Query: "skin genus: Gubernatrix sex:male" ; Times: 1
+	Query: "phalacrocorax carbo" ; Times: 1
+	Query: "Cyanolyca nana" ; Times: 7
+	Query: "distance(location,geopoint(25.179036,-110.807516))&lt;15000" ; Times: 1
+	Query: "county:&#34;luzerne&#34; stateprovince:&#34;pennsylvania&#34;" ; Times: 1
+	Query: "pavo cristatus" ; Times: 1
+	Query: "Gypaetus" ; Times: 5
+	Query: "distance(location,geopoint(25.349036,-110.637516))&lt;15000" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:willett year &gt;= 1800 year &lt;= 1911 institutioncode:WFVZ" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oklahoma&#34; year &gt;= 1927 year &lt;= 1927" ; Times: 2
+	Query: "176998" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;oklahoma&#34; year &gt;= 1914 year &lt;= 1914" ; Times: 1
+	Query: "egretta ardesiaca" ; Times: 2
+	Query: "mvz 1279" ; Times: 1
+	Query: "162073" ; Times: 1
+	Query: "Aimophila ruficauda" ; Times: 1
+	Query: "charadrius county:&#34;humboldt&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "euplectes jacksoni" ; Times: 1
+	Query: "oriolus kundoo" ; Times: 1
+	Query: "woodlawn bexar" ; Times: 1
+	Query: "type:specimen (Acanthidops bairdii)" ; Times: 1
+	Query: "&#34;Pachyramphus versicolor&#34;" ; Times: 1
+	Query: "bald eagle UWBM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 56 (out of 507 download events in this period)
+Total number of records downloaded: 6597
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 47
+	Country: Thailand ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-22 ; Times: 4
+	Date: 2016-01-04 ; Times: 2
+	Date: 2016-01-20 ; Times: 1
+	Date: 2016-01-21 ; Times: 2
+	Date: 2016-01-26 ; Times: 4
+	Date: 2016-01-01 ; Times: 10
+	Date: 2016-01-02 ; Times: 9
+	Date: 2016-01-25 ; Times: 9
+	Date: 2016-01-28 ; Times: 4
+	Date: 2016-01-29 ; Times: 2
+	Date: 2016-01-19 ; Times: 1
+	Date: 2016-01-18 ; Times: 1
+	Date: 2016-01-12 ; Times: 1
+	Date: 2016-01-13 ; Times: 1
+	Date: 2016-01-23 ; Times: 1
+	Date: 2016-01-14 ; Times: 2
+	Date: 2016-01-05 ; Times: 1
+	Date: 2016-01-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "ramphastos toco" ; Times: 2
+	Query: "skin genus: Coryphospingus sex:male" ; Times: 1
+	Query: "&#34;Diglossa cyanea&#34;" ; Times: 1
+	Query: "himatione" ; Times: 1
+	Query: "&#34;Coeligena torquata&#34;" ; Times: 1
+	Query: "&#34;Zonotrichia capensis&#34;" ; Times: 1
+	Query: "wilsonia pusilla month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "skin genus: Haplospiza sex:male" ; Times: 1
+	Query: "&#34;Santa Cruz Island&#34; class:Aves stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:haliaeetus year &gt;= 1996 year &lt;= 2015" ; Times: 1
+	Query: "california condor" ; Times: 1
+	Query: "&#34;aves&#34; and &#34;Michoacan&#34;" ; Times: 1
+	Query: "Alberta" ; Times: 1
+	Query: "phalacrocorax atriceps" ; Times: 1
+	Query: "&#34;Contopus fumigatus&#34;" ; Times: 1
+	Query: "type:specimen (crypturellus)" ; Times: 1
+	Query: "skin genus: Mitrospingus sex:male" ; Times: 1
+	Query: "aechmophorus" ; Times: 1
+	Query: "&#34;Pachyramphus versicolor&#34;" ; Times: 1
+	Query: "skin genus: Ramphocelus sex:male" ; Times: 1
+	Query: "Lynx lynx" ; Times: 1
+	Query: "skin genus: Lanio sex:male" ; Times: 1
+	Query: "&#34;Phaethornis syrmatophorus&#34;" ; Times: 1
+	Query: "charadrius alexandrinus" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "&#34;Heliangelus amethysticollis&#34;" ; Times: 1
+	Query: "skin genus: Melanodera sex:male" ; Times: 1
+	Query: "&#34;Myioborus miniatus&#34;" ; Times: 1
+	Query: "skin genus: Sporophila sex:male" ; Times: 1
+	Query: "skin genus: Chlorophanes sex:male" ; Times: 1
+	Query: "&#34;Doryfera ludovicae&#34;" ; Times: 1
+	Query: "Dendrocitta formosae" ; Times: 1
+	Query: "skin genus: Tersina sex:male" ; Times: 1
+	Query: "distance(location,geopoint(32.66250035467835,-119.99542236328125))&lt;87926.45562583183" ; Times: 1
+	Query: "Anisognathus igniventris" ; Times: 1
+	Query: "skin genus: Paroaria sex:male" ; Times: 1
+	Query: "charadrius nivosus" ; Times: 1
+	Query: "distance(location,geopoint(18.187606552494625,-66.58538818359375))&lt;78505" ; Times: 1
+	Query: "&#34;Lophotriccus pileatus&#34;" ; Times: 1
+	Query: "Catamblyrhynchus diadema" ; Times: 1
+	Query: "Hawaii Wilson class:Aves" ; Times: 1
+	Query: "skin genus: Sicalis sex:male" ; Times: 1
+	Query: "skin genus: Iridosornis sex:male" ; Times: 1
+	Query: "&#34;Platyrinchus mystaceus&#34;" ; Times: 1
+	Query: "Coeligena coeligena" ; Times: 1
+	Query: "&#34;False Bay&#34;" ; Times: 1
+	Query: "Adelomyia melanogenys" ; Times: 1
+	Query: "Brachypteryx montana" ; Times: 1
+	Query: "type:specimen locality:Buttes county:&#34;Sutter&#34;" ; Times: 1
+	Query: "&#34;Cyclarhis gujanensis&#34;" ; Times: 1
+	Query: "&#34;Tangara xanthocephala&#34;" ; Times: 1
+	Query: "Treron sieboldii" ; Times: 1
+	Query: "&#34;Myrmotherula schisticolor&#34;" ; Times: 1
+	Query: "&#34;Iridosornis analis&#34;" ; Times: 1
+	Query: "Turnix" ; Times: 1
+
+
+End of report.
