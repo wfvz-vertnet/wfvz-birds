@@ -1,0 +1,222 @@
+Report for Institution Code WFVZ, Resource wfvz_birds
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 154
+Number of records retrieved in searches: 1850
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 11
+	Country: Mexico ; Times: 15
+	Country: Unknown ; Times: 3
+	Country: Costa Rica ; Times: 3
+	Country: United States ; Times: 95
+	Country: Austria ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Puerto Rico ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-07 ; Times: 6
+	Date: 2016-03-02 ; Times: 13
+	Date: 2016-03-12 ; Times: 4
+	Date: 2016-03-03 ; Times: 17
+	Date: 2016-03-08 ; Times: 16
+	Date: 2016-03-09 ; Times: 11
+	Date: 2016-03-06 ; Times: 5
+	Date: 2016-03-14 ; Times: 17
+	Date: 2016-03-04 ; Times: 9
+	Date: 2016-03-05 ; Times: 4
+	Date: 2016-03-11 ; Times: 18
+	Date: 2016-03-10 ; Times: 5
+	Date: 2016-03-13 ; Times: 18
+	Date: 2016-03-01 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Aves country:&#34;mexico&#34; year &gt;= 1700 year &lt;= 1850" ; Times: 1
+	Query: "ceyx erithacus" ; Times: 1
+	Query: "genus:Carpodacus stateprovince:&#34;jalisco&#34; country:&#34;Mexico&#34; mappable:1" ; Times: 1
+	Query: "specificepithet:violaceus genus:cyanocorax country:&#34;colombia&#34;" ; Times: 2
+	Query: "northern bobwhite" ; Times: 2
+	Query: "Falco sparverius (Alaska) month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "95588" ; Times: 1
+	Query: "elf" ; Times: 4
+	Query: "N. McIntyre" ; Times: 1
+	Query: "genus:Carpodacus stateprovince:&#34;oaxaca&#34; country:&#34;Mexico&#34; mappable:1" ; Times: 1
+	Query: "calothorax lucifer mexico" ; Times: 1
+	Query: "crypturellus tataupa" ; Times: 1
+	Query: "distance(location,geopoint(37.02009820136811,15.46875))&lt;38485" ; Times: 1
+	Query: "locality:Tecolote county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "gregg" ; Times: 2
+	Query: "falco severus india" ; Times: 1
+	Query: "Guira guira (adult) (bill)" ; Times: 1
+	Query: "Strix type:specimen country:&#34;guatemala&#34; AND (NOT nigrolineata NOT occidentalis NOT virgata)" ; Times: 1
+	Query: "29992" ; Times: 2
+	Query: "diglossa baritula" ; Times: 5
+	Query: "specificepithet:chrysaetos genus:aquila country:&#34;china&#34;" ; Times: 1
+	Query: "class:Aves county:&#34;Onondaga&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Phoenicoparrus jamesi" ; Times: 1
+	Query: "Strix type:specimen country:&#34;guatemala&#34; AND (NOT nigrolineata NOT occidentalis NOT virgata NOT nigrolineatum NOT virgatum)" ; Times: 1
+	Query: "PB 47" ; Times: 1
+	Query: "Colton Well" ; Times: 1
+	Query: "type:specimen specificepithet:astrild genus:estrilda (clutch OR egg OR eggs)" ; Times: 1
+	Query: "PUFFINUS LHERMINIERI DICHROUS" ; Times: 1
+	Query: "affinis minnesota" ; Times: 1
+	Query: "locality:Ceres stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Caprimulgus tristigma" ; Times: 1
+	Query: "Gymnomyza samoensis" ; Times: 1
+	Query: "genus:Carpodacus stateprovince:&#34;Sonora&#34; country:&#34;Mexico&#34; mappable:1" ; Times: 1
+	Query: "Furnarius rufus (bill)" ; Times: 1
+	Query: "mummy" ; Times: 4
+	Query: "Cliff Swallow" ; Times: 1
+	Query: "vampire" ; Times: 1
+	Query: "monongahela" ; Times: 1
+	Query: "catalognumber:126505" ; Times: 1
+	Query: "eudynamys scolopacea india" ; Times: 1
+	Query: "Thryothorus modestus Brown" ; Times: 1
+	Query: "Diglossa baritula" ; Times: 2
+	Query: "egg type:specimen specificepithet:domesticus genus:Passer (egg)" ; Times: 1
+	Query: "Gymnomyza samoensis (WEIGHT)" ; Times: 1
+	Query: "gray-cheeked thrush" ; Times: 1
+	Query: "Porzana palmeri" ; Times: 1
+	Query: "mvz gymnogyps california" ; Times: 1
+	Query: "genus:Carpodacus stateprovince:&#34;guanajuato&#34; country:&#34;Mexico&#34; mappable:1" ; Times: 1
+	Query: "Valle Azul country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "Colibri thalassinus (bill)" ; Times: 1
+	Query: "vermilion flycatcher" ; Times: 3
+	Query: "locality:San Cayetano" ; Times: 1
+	Query: "type:specimen specificepithet:domesticus genus:passer continent:africa (clutch OR egg OR eggs)" ; Times: 1
+	Query: "witch" ; Times: 3
+	Query: "Yellow Warbler institutioncode:WFVZ" ; Times: 1
+	Query: "type:specimen distance(location,geopoint(45.304772583725104,-62.7099609375))&lt;100000" ; Times: 1
+	Query: "phoenicopterus ruber distance(location,geopoint(25.760319754713887,-80.859375))&lt;100000" ; Times: 1
+	Query: "Gubernatrix cristata" ; Times: 1
+	Query: "county:&#34;Ramsey&#34; stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "Melanerpes chrysauchen institutioncode:WFVZ" ; Times: 1
+	Query: "Falco sparverius (Alaska OR Yukon ) month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "type:specimen recordedby:mccarty" ; Times: 1
+	Query: "blue- winged teal" ; Times: 1
+	Query: "calothorax" ; Times: 1
+	Query: "WILLETT BARBARA ISLAND" ; Times: 1
+	Query: "Accipiter francesii (bill)" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 1
+	Query: "distance(location,geopoint(37.02009820136811,15.46875))&lt;100000" ; Times: 1
+	Query: "ORA WILLETT" ; Times: 4
+	Query: "striata stateprovince:&#34;Manitoba&#34; country:&#34;Canada&#34; (setophaga OR dendroica) month &gt;= 6 month &lt;= 8" ; Times: 2
+	Query: "116352" ; Times: 2
+	Query: "type:specimen specificepithet:domesticus genus:Passer (clutch OR egg OR eggs)" ; Times: 2
+	Query: "Tamazulapan stateprovince:&#34;Oaxaca&#34; mappable:1" ; Times: 1
+	Query: "Gymnogyps californianus (bill)" ; Times: 1
+	Query: "egg type:specimen specificepithet:domesticus genus:Passer" ; Times: 1
+	Query: "tufted titmouse" ; Times: 1
+	Query: "class:aves country:&#34;mexico&#34; year &gt;= 1850 year &lt;= 1900" ; Times: 1
+	Query: "Puffinus auricularis" ; Times: 1
+	Query: "labrador duck" ; Times: 1
+	Query: "veery" ; Times: 1
+	Query: "Vireo gilvus (adult) (bill)" ; Times: 1
+	Query: "parula pitiayumi" ; Times: 1
+	Query: "Cygnus buccinator Alaska" ; Times: 1
+	Query: "class:aves stateprovince:&#34;Sinaloa&#34; country:&#34;mexico&#34; year &gt;= 1700 year &lt;= 1900" ; Times: 1
+	Query: "ectopistes migratorius" ; Times: 3
+	Query: "Otus senegalensis (bill)" ; Times: 1
+	Query: "country:&#34;mexico&#34; year &gt;= 1800 year &lt;= 1850" ; Times: 1
+	Query: "(A.B. Howell)" ; Times: 1
+	Query: "Aechmophorus clarkii" ; Times: 1
+	Query: "Rostrhamus sociabilis" ; Times: 1
+	Query: "marbled murrelet" ; Times: 1
+	Query: "class:aves country:&#34;mexico&#34; year &gt;= 1800 year &lt;= 1850" ; Times: 1
+	Query: "WILLETT CATALINA" ; Times: 2
+	Query: "237 stateprovince:&#34;Puntarenas&#34; country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "class:aves stateprovince:&#34;Sinaloa&#34; country:&#34;mexico&#34; year &gt;= 1876 year &lt;= 1900" ; Times: 1
+	Query: "class:aves catalognumber:11346" ; Times: 2
+	Query: "centropus toulou" ; Times: 1
+	Query: "type:specimen specificepithet:domesticus genus:Passer (egg)" ; Times: 2
+	Query: "killdeer" ; Times: 2
+	Query: "WILLETT ORA" ; Times: 1
+	Query: "Puffinus auricularis auricularis" ; Times: 1
+	Query: "phoenicopterus ruber distance(location,geopoint(25.64152637306577,-79.8046875))&lt;100000" ; Times: 1
+	Query: "cuculus canorus india" ; Times: 1
+	Query: "Common Merganser" ; Times: 1
+	Query: "class:Aves county:&#34;Oswego&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "type:specimen (A.B. Howell) year &gt;= 1905 year &lt;= 1917" ; Times: 1
+	Query: "prinia socialis" ; Times: 1
+	Query: "genus:Carpodacus stateprovince:&#34;san luis potosi&#34; country:&#34;Mexico&#34; mappable:1" ; Times: 1
+	Query: "class:aves catalognumber:11350" ; Times: 1
+	Query: "calothorax pulcher" ; Times: 1
+	Query: "genus:Carpodacus stateprovince:&#34;Sinaloa&#34; country:&#34;Mexico&#34; mappable:1" ; Times: 1
+	Query: "coracina melanoptera" ; Times: 1
+	Query: "persons" ; Times: 1
+	Query: "clamator jacobinus india" ; Times: 1
+	Query: "catalognumber:193823" ; Times: 1
+	Query: "Ardeidae Costa Rica" ; Times: 3
+	Query: "11054" ; Times: 1
+	Query: "Northern bobwhite" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 66 (out of 230 download events in this period)
+Total number of records downloaded: 13094
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Denmark ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 56
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-02 ; Times: 4
+	Date: 2016-03-10 ; Times: 10
+	Date: 2016-03-01 ; Times: 6
+	Date: 2016-03-08 ; Times: 5
+	Date: 2016-03-09 ; Times: 11
+	Date: 2016-03-06 ; Times: 1
+	Date: 2016-03-14 ; Times: 8
+	Date: 2016-03-05 ; Times: 1
+	Date: 2016-03-11 ; Times: 6
+	Date: 2016-03-03 ; Times: 4
+	Date: 2016-03-13 ; Times: 8
+	Date: 2016-03-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1986 year &lt;= 1989" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1941 year &lt;= 1949" ; Times: 1
+	Query: "tissue" ; Times: 39
+	Query: "Psittacidae Psittacula" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1941 year &lt;= 1945" ; Times: 2
+	Query: "chordeiles minor mappable:1" ; Times: 1
+	Query: "killdeer" ; Times: 1
+	Query: "blue- winged teal" ; Times: 1
+	Query: "calothorax" ; Times: 1
+	Query: "Gubernatrix cristata" ; Times: 1
+	Query: "Oriolus xanthonotus" ; Times: 1
+	Query: "myrmecocichla nigra" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Strix varia type:specimen country:&#34;Mexico&#34; (Strix) AND (NOT nigrolineata NOT occidentalis NOT virgata)" ; Times: 1
+	Query: "parula americana" ; Times: 1
+	Query: "passer domesticus type:specimen specificepithet:domesticus genus:Passer" ; Times: 1
+	Query: "Icterus gularis mappable:1" ; Times: 1
+	Query: "Tamazulapan stateprovince:&#34;Oaxaca&#34; mappable:1" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1929 year &lt;= 1930" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1980 year &lt;= 1985" ; Times: 1
+	Query: "protonotaria citrea" ; Times: 1
+	Query: "class:Aves county:&#34;Onondaga&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "parula pitiayumi" ; Times: 1
+	Query: "Cygnus buccinator Alaska" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1938 year &lt;= 1940" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1871 year &lt;= 1900" ; Times: 1
+	Query: "Ardeidae Costa Rica" ; Times: 1
+
+
+End of report.
