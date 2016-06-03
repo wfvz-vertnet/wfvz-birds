@@ -1,0 +1,328 @@
+Report for Institution Code WFVZ, Resource wfvz_birds
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 270
+Number of records retrieved in searches: 5223
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 7
+	Country: Australia ; Times: 2
+	Country: Portugal ; Times: 8
+	Country: Mexico ; Times: 97
+	Country: Unknown ; Times: 6
+	Country: Japan ; Times: 1
+	Country: India ; Times: 3
+	Country: France ; Times: 3
+	Country: United States ; Times: 100
+	Country: Malaysia ; Times: 2
+	Country: China ; Times: 5
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 5
+	Country: Thailand ; Times: 4
+	Country: Germany ; Times: 5
+	Country: Russia ; Times: 14
+	Country: Denmark ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 12
+	Date: 2016-05-18 ; Times: 16
+	Date: 2016-05-17 ; Times: 8
+	Date: 2016-05-16 ; Times: 10
+	Date: 2016-05-15 ; Times: 12
+	Date: 2016-05-14 ; Times: 4
+	Date: 2016-05-13 ; Times: 4
+	Date: 2016-05-12 ; Times: 7
+	Date: 2016-05-11 ; Times: 7
+	Date: 2016-05-10 ; Times: 5
+	Date: 2016-05-31 ; Times: 18
+	Date: 2016-05-30 ; Times: 6
+	Date: 2016-05-08 ; Times: 14
+	Date: 2016-05-09 ; Times: 2
+	Date: 2016-05-02 ; Times: 9
+	Date: 2016-05-03 ; Times: 5
+	Date: 2016-05-04 ; Times: 9
+	Date: 2016-05-05 ; Times: 10
+	Date: 2016-05-06 ; Times: 8
+	Date: 2016-05-07 ; Times: 13
+	Date: 2016-05-26 ; Times: 12
+	Date: 2016-05-27 ; Times: 2
+	Date: 2016-05-24 ; Times: 5
+	Date: 2016-05-25 ; Times: 9
+	Date: 2016-05-22 ; Times: 8
+	Date: 2016-05-23 ; Times: 2
+	Date: 2016-05-20 ; Times: 11
+	Date: 2016-05-21 ; Times: 22
+	Date: 2016-05-28 ; Times: 4
+	Date: 2016-05-29 ; Times: 16
+
+List of queries that retrieved data from the resource: 
+	Query: "lonchura nana" ; Times: 1
+	Query: "otus balli" ; Times: 1
+	Query: "conuropsis carolinensis" ; Times: 1
+	Query: "specificepithet:cyanocephalus stateprovince:&#34;Kansas&#34;" ; Times: 4
+	Query: "64234" ; Times: 1
+	Query: "Aythya marila AND Island" ; Times: 1
+	Query: "Oxyura jamaicensis AND Island" ; Times: 1
+	Query: "Falco sparverius AND Island" ; Times: 1
+	Query: "Ashworth AND Santa Cruz Island" ; Times: 1
+	Query: "catalognumber:178426" ; Times: 1
+	Query: "Gypaetus barbatus" ; Times: 8
+	Query: "phalacrocorax harrisi" ; Times: 1
+	Query: "150944" ; Times: 1
+	Query: "genus:porzana class:aves stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 1900" ; Times: 1
+	Query: "elf" ; Times: 6
+	Query: "Falco sparverius AND Barbara Island" ; Times: 1
+	Query: "lerwa lerwa" ; Times: 2
+	Query: "distance(location,geopoint(31.659036,-110.027516))&lt;15000" ; Times: 1
+	Query: "Eremophila AND Catalina" ; Times: 1
+	Query: "Ocreatus" ; Times: 1
+	Query: "Aix sponsa AND Island" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 4
+	Query: "Pelecanus AND San Miguel Island" ; Times: 1
+	Query: "Falco sparverius AND San Nicolas Island" ; Times: 1
+	Query: "Sturnella neglecta AND Santa Cruz Island" ; Times: 2
+	Query: "catalognumber:53509" ; Times: 1
+	Query: "Dendrocolaptes picumnus" ; Times: 3
+	Query: "Calliphlox mitchellii" ; Times: 1
+	Query: "warbler colorado usa" ; Times: 1
+	Query: "Synthliboramphus antiquus AND Island" ; Times: 1
+	Query: "distance(location,geopoint(29.095036,-109.643516))&lt;15000" ; Times: 1
+	Query: "Bancroft AND Island" ; Times: 1
+	Query: "Pelecanus AND Anacapa AND 1922" ; Times: 1
+	Query: "110018}" ; Times: 1
+	Query: "Pelecanus AND Anacapa AND 1927" ; Times: 1
+	Query: "genus:cistothorus class:aves stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 1900" ; Times: 1
+	Query: "specificepithet:elegans genus:rallus year &gt;= 1934 year &lt;= 1934" ; Times: 1
+	Query: "Fred Truesdale" ; Times: 1
+	Query: "fred truesdale san juan" ; Times: 1
+	Query: "133942" ; Times: 1
+	Query: "Falco AND San Miguel Island" ; Times: 1
+	Query: "genus:gavia class:aves stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 1900" ; Times: 1
+	Query: "Pandion AND San Clemente Island" ; Times: 1
+	Query: "catalognumber:59092" ; Times: 1
+	Query: "fieldfare" ; Times: 3
+	Query: "Fratercula corniculata AND Island NOT Alaska" ; Times: 1
+	Query: "Falco AND Anacapa" ; Times: 1
+	Query: "Pterodroma hypoleuca" ; Times: 1
+	Query: "Ptychoramphus aleuticus AND San Miguel Island" ; Times: 1
+	Query: "Pelecanus AND &#34;Santa Barbara Island&#34;" ; Times: 1
+	Query: "netta rufina" ; Times: 2
+	Query: "Bancroft AND Catalina Island" ; Times: 1
+	Query: "aramus guarauna" ; Times: 2
+	Query: "Owen AND San Miguel Island" ; Times: 1
+	Query: "snakes" ; Times: 1
+	Query: "batrachostomus javensis" ; Times: 1
+	Query: "distance(location,geopoint(27.301036,-112.763516))&lt;15000" ; Times: 1
+	Query: "class:aves stateprovince:&#34;michigan&#34; year &gt;= 1916 year &lt;= 1916" ; Times: 1
+	Query: "Prinia polychroa" ; Times: 4
+	Query: "cm 349" ; Times: 1
+	Query: "Turdoides earlei" ; Times: 2
+	Query: "county:&#34;leon&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Phalacrocorax penicillatus AND Santa Catalina Island" ; Times: 1
+	Query: "specificepithet:LUDOVICIANUS genus:LANIUS class:aves stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 1900" ; Times: 1
+	Query: "Ptychoramphus aleuticus AND Santa Barbara Island" ; Times: 1
+	Query: "distance(location,geopoint(31.659036,-111.127516))&lt;15000" ; Times: 1
+	Query: "Echo Lake" ; Times: 1
+	Query: "Ardea AND Island" ; Times: 1
+	Query: "mummy" ; Times: 6
+	Query: "mvz AND gymnogyps AND california" ; Times: 1
+	Query: "Pionus senilis" ; Times: 1
+	Query: "Ocreatus type:specimen institutioncode:WFVZ" ; Times: 1
+	Query: "W.C. Bradbury AND ISland" ; Times: 1
+	Query: "TROGON MASSENA" ; Times: 2
+	Query: "Eremophila alpestris AND Catalina Island" ; Times: 2
+	Query: "WFVZ AND 21669" ; Times: 1
+	Query: "genus:lanius class:aves stateprovince:&#34;michigan&#34; year &gt;= 1898 year &lt;= 1898" ; Times: 1
+	Query: "Huey AND San Clemente Island" ; Times: 1
+	Query: "catalognumber:95656 OR catalognumber:103274 OR catalognumber:186655 OR catalognumber:186656 OR catalognumber:220658 OR catalognumber:220659 OR catalognumber:220660 OR catalognumber:220661 OR catalognumber:224152 OR catalognumber:224153 OR catalognumber:285575 OR catalognumber:298234 OR catalognumber:301935 OR catalognumber:357942" ; Times: 1
+	Query: "genus:certhia class:aves stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 1900" ; Times: 1
+	Query: "locality:Twin Oaks county:&#34;San Diego&#34;" ; Times: 1
+	Query: "Phalacrocorax penicillatus AND San Miguel" ; Times: 1
+	Query: "Zahn AND Island" ; Times: 1
+	Query: "Aphelocoma insularis" ; Times: 1
+	Query: "witch" ; Times: 4
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "specificepithet:militaris genus:ara" ; Times: 1
+	Query: "honey lake lassen" ; Times: 1
+	Query: "WFVZ 65914" ; Times: 1
+	Query: "campephilus principalis" ; Times: 1
+	Query: "catalognumber:44571" ; Times: 1
+	Query: "black bear" ; Times: 1
+	Query: "205638" ; Times: 1
+	Query: "threskiornis molucca" ; Times: 1
+	Query: "distance(location,geopoint(31.769036,-110.247516))&lt;15000" ; Times: 1
+	Query: "Aves nasutus Kenya" ; Times: 1
+	Query: "Prince Island AND Appleton" ; Times: 1
+	Query: "locality:Twin Oaks" ; Times: 1
+	Query: "mvz gymnogyps california" ; Times: 1
+	Query: "black rail" ; Times: 1
+	Query: "ara militaris" ; Times: 1
+	Query: "Bradbury AND ISland" ; Times: 2
+	Query: "Parabuteo unicinctus" ; Times: 2
+	Query: "Podilymbus podiceps AND Island NOT Canada" ; Times: 1
+	Query: "Eupherusa cyanophrys" ; Times: 1
+	Query: "Halcyon albiventris Kenya" ; Times: 1
+	Query: "Ptychoramphus aleuticus AND Santa Barbara Island NOT Mexico" ; Times: 1
+	Query: "WFVZ 24948" ; Times: 1
+	Query: "San Clemente Island AND Pandion" ; Times: 1
+	Query: "distance(location,geopoint(26.131036,-111.905516))&lt;15000" ; Times: 1
+	Query: "Phalacrocorax penicillatus AND Santa Cruz Island" ; Times: 1
+	Query: "Hylorchilus sumichrasti" ; Times: 1
+	Query: "specificepithet:elegans genus:rallus stateprovince:&#34;michigan&#34; year &gt;= 1901 year &lt;= 1910" ; Times: 1
+	Query: "crinifer" ; Times: 1
+	Query: "glaucidium minutissimum" ; Times: 2
+	Query: "Kenopia" ; Times: 1
+	Query: "Trichastoma" ; Times: 1
+	Query: "Oceanodroma homochroa AND Cruz Island AND 1936" ; Times: 1
+	Query: "Oceanodroma homochroa AND Cruz Island AND 1937" ; Times: 2
+	Query: "lerwa" ; Times: 1
+	Query: "Oceanodroma homochroa AND Cruz Island AND 1938" ; Times: 1
+	Query: "caerulata" ; Times: 1
+	Query: "myioborus ornatus" ; Times: 1
+	Query: "Pandion AND Island" ; Times: 1
+	Query: "Owen AND &#34;Barbara Island&#34;" ; Times: 1
+	Query: "hylorchilus sumichrasti" ; Times: 2
+	Query: "Phalacrocorax penicillatus AND Santa Rosa Island" ; Times: 1
+	Query: "Pelecanus AND Anacapa" ; Times: 2
+	Query: "Sheffler AND San Miguel Island" ; Times: 1
+	Query: "grizzly bear" ; Times: 2
+	Query: "Phalacrocorax penicillatus AND San Nicolas Island" ; Times: 1
+	Query: "distance(location,geopoint(27.223036,-112.919516))&lt;15000" ; Times: 1
+	Query: "Baumgardt AND Island" ; Times: 1
+	Query: "Eremophila alpestris AND San Miguel Island" ; Times: 1
+	Query: "Oceanodroma AND Cruz Island" ; Times: 2
+	Query: "Eremophila alpestris AND San Clemente Island" ; Times: 1
+	Query: "Uria aalge AND &#34;Barbara Island&#34;" ; Times: 1
+	Query: "falco sparverius (british columbia)" ; Times: 1
+	Query: "Fratercula AND Miguel Island" ; Times: 2
+	Query: "Lampornis hemileucus" ; Times: 1
+	Query: "Ardea AND Island AND California" ; Times: 1
+	Query: "Tympanuchus cupido (Canada)" ; Times: 2
+	Query: "catalognumber:66486" ; Times: 1
+	Query: "Oceanodroma homochroa AND Cruz Island AND 1929" ; Times: 1
+	Query: "Oceanodroma homochroa AND Cruz Island AND 1928" ; Times: 1
+	Query: "wrentit" ; Times: 1
+	Query: "Pelecanus AND San Clemente Island" ; Times: 1
+	Query: "Parabuteo unicinctus Mexico" ; Times: 3
+	Query: "187364" ; Times: 1
+	Query: "calliphlox mitchellii" ; Times: 1
+	Query: "Synthliboramphus AND Island" ; Times: 1
+	Query: "cissa chinensis" ; Times: 1
+	Query: "numenius borealis" ; Times: 1
+	Query: "distance(location,geopoint(20.219036,-105.077516))&lt;15000" ; Times: 1
+	Query: "Selasphorus AND San Clemente Island" ; Times: 1
+	Query: "Eremophila alpestris AND Anacapa Island" ; Times: 1
+	Query: "Sturnella neglecta AND San Miguel Island" ; Times: 1
+	Query: "57306" ; Times: 1
+	Query: "distance(location,geopoint(27.145036,-109.331516))&lt;15000" ; Times: 1
+	Query: "catalognumber:46487" ; Times: 1
+	Query: "distance(location,geopoint(27.223036,-108.083516))&lt;15000" ; Times: 1
+	Query: "catalognumber:44144" ; Times: 1
+	Query: "Phalacrocorax penicillatus AND Anacapa" ; Times: 1
+	Query: "32603" ; Times: 1
+	Query: "Mergus serrator AND Island" ; Times: 1
+	Query: "R-67076" ; Times: 1
+	Query: "Callipepla squamata distance(location,geopoint(29.075375179558346,-109.62158203125))&lt;431816.7065638619" ; Times: 1
+	Query: "Lophura bulweri" ; Times: 2
+	Query: "vestitus" ; Times: 1
+	Query: "Athene AND Santa Catalina Island" ; Times: 1
+	Query: "WFVZ 3406" ; Times: 2
+	Query: "Eulidia yarrellii" ; Times: 1
+	Query: "Black-headed Bunting" ; Times: 2
+	Query: "104182" ; Times: 1
+	Query: "specificepithet:ludovicianus genus:Lanius stateprovince:&#34;michigan&#34; year &gt;= 1906 year &lt;= 1906" ; Times: 1
+	Query: "distance(location,geopoint(31.769036,-106.397516))&lt;15000" ; Times: 1
+	Query: "Pelecanus AND Anacapa AND Carriger" ; Times: 1
+	Query: "Witch" ; Times: 1
+	Query: "WFVZ 2680" ; Times: 1
+	Query: "catalognumber:56127" ; Times: 1
+	Query: "francolinus pintadeanus" ; Times: 1
+	Query: "aleuticus AND Cruz Island" ; Times: 1
+	Query: "Pharomachrus mocinno Mexico" ; Times: 1
+	Query: "Asio AND Island" ; Times: 1
+	Query: "Anacapa AND 1949" ; Times: 1
+	Query: "type:specimen specificepithet:DOMESTICUS genus:PASSER country:&#34;South Africa&#34; continent:Africa (CLUTCH)" ; Times: 1
+	Query: "specificepithet:pusilla stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 1900" ; Times: 1
+	Query: "&#34;Santa Cruz Island&#34; AND 1941" ; Times: 1
+	Query: "Eremophila alpestris AND &#34;Santa Barbara Island&#34;" ; Times: 1
+	Query: "Falco AND San Miguel" ; Times: 1
+	Query: "Oceanodroma homochroa AND Cruz Island AND 1913" ; Times: 1
+	Query: "saw whet owl" ; Times: 1
+	Query: "Passer domesticus" ; Times: 2
+	Query: "Brachyramphus AND Anacapa Island" ; Times: 1
+	Query: "Catalina Island AND Pandion" ; Times: 1
+	Query: "albicaudatus" ; Times: 1
+	Query: "Texas Brewster type:specimen genus:vireo class:Aves" ; Times: 1
+	Query: "Anas AND Santa Rosa Island" ; Times: 2
+	Query: "Sturnella neglecta AND Santa Barbara Island" ; Times: 1
+	Query: "Uria aalge AND Miguel Island" ; Times: 1
+	Query: "Phalacrocorax penicillatus AND &#34;Santa Barbara Island&#34;" ; Times: 1
+	Query: "distance(location,geopoint(27.223036,-112.295516))&lt;15000" ; Times: 1
+	Query: "Hedrick AND Island" ; Times: 1
+	Query: "distance(location,geopoint(26.131036,-111.749516))&lt;15000" ; Times: 2
+	Query: "Tympanuchus cupido (Canada) year &gt;= 1800 year &lt;= 1900" ; Times: 1
+	Query: "foxhall" ; Times: 1
+	Query: "white breasted waterhen" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 4
+	Query: "Phalacrocorax penicillatus AND San Clemente Island" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 327 download events in this period)
+Total number of records downloaded: 2948
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 3
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: China ; Times: 7
+	Country: Chile ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 3
+	Date: 2016-05-18 ; Times: 1
+	Date: 2016-05-17 ; Times: 2
+	Date: 2016-05-16 ; Times: 1
+	Date: 2016-05-15 ; Times: 4
+	Date: 2016-05-04 ; Times: 1
+	Date: 2016-05-12 ; Times: 1
+	Date: 2016-05-24 ; Times: 1
+	Date: 2016-05-25 ; Times: 2
+	Date: 2016-05-31 ; Times: 2
+	Date: 2016-05-20 ; Times: 1
+	Date: 2016-05-13 ; Times: 1
+	Date: 2016-05-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Henicorhina country:&#34;Colombia&#34;" ; Times: 1
+	Query: "mongolia" ; Times: 1
+	Query: "Malacopteron" ; Times: 1
+	Query: "Pomatorhinus" ; Times: 1
+	Query: "Peromyscus" ; Times: 1
+	Query: "Yuhina" ; Times: 1
+	Query: "Chamaea" ; Times: 1
+	Query: "Texas Brewster type:specimen class:Aves" ; Times: 1
+	Query: "Pionus senilis" ; Times: 1
+	Query: "Parabuteo unicinctus Mexico" ; Times: 2
+	Query: "distance(location,geopoint(0.6626806178531492,-71.103515625))&lt;936470" ; Times: 1
+	Query: "Timaliidae" ; Times: 1
+	Query: "myioborus melanocephalus" ; Times: 1
+	Query: "vermivora" ; Times: 1
+	Query: "Cinclodes fuscus" ; Times: 1
+	Query: "rhinomyias" ; Times: 1
+	Query: "calypte anna" ; Times: 1
+	Query: "lerwa lerwa" ; Times: 1
+	Query: "class:aves distance(location,geopoint(21.585935114788498,-106.611328125))&lt;29438.373509106972" ; Times: 1
+	Query: "Zosterops" ; Times: 1
+	Query: "netta rufina" ; Times: 1
+
+
+End of report.
