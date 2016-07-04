@@ -1,0 +1,777 @@
+Report for Institution Code WFVZ, Resource wfvz_birds
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 902
+Number of records retrieved in searches: 10790
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 70
+	Country: Brazil ; Times: 30
+	Country: Australia ; Times: 1
+	Country: Chile ; Times: 3
+	Country: Portugal ; Times: 53
+	Country: Mexico ; Times: 99
+	Country: Unknown ; Times: 9
+	Country: India ; Times: 5
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 3
+	Country: United States ; Times: 589
+	Country: Germany ; Times: 6
+	Country: United Kingdom ; Times: 3
+	Country: Colombia ; Times: 4
+	Country: Denmark ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: Russia ; Times: 18
+	Country: Spain ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-25 ; Times: 4
+	Date: 2016-06-24 ; Times: 28
+	Date: 2016-06-23 ; Times: 38
+	Date: 2016-06-22 ; Times: 27
+	Date: 2016-06-21 ; Times: 46
+	Date: 2016-06-20 ; Times: 44
+	Date: 2016-06-05 ; Times: 14
+	Date: 2016-06-04 ; Times: 35
+	Date: 2016-06-07 ; Times: 65
+	Date: 2016-06-06 ; Times: 13
+	Date: 2016-06-01 ; Times: 13
+	Date: 2016-06-03 ; Times: 29
+	Date: 2016-06-02 ; Times: 103
+	Date: 2016-06-09 ; Times: 34
+	Date: 2016-06-08 ; Times: 22
+	Date: 2016-06-18 ; Times: 9
+	Date: 2016-06-19 ; Times: 25
+	Date: 2016-06-16 ; Times: 38
+	Date: 2016-06-17 ; Times: 55
+	Date: 2016-06-14 ; Times: 90
+	Date: 2016-06-15 ; Times: 55
+	Date: 2016-06-12 ; Times: 6
+	Date: 2016-06-13 ; Times: 58
+	Date: 2016-06-10 ; Times: 23
+	Date: 2016-06-11 ; Times: 28
+
+List of queries that retrieved data from the resource: 
+	Query: "14852" ; Times: 1
+	Query: "Melanotis hypoleucus" ; Times: 1
+	Query: "1905 AND Catalina ISland NOT Fish" ; Times: 2
+	Query: "Ready AND Santa Cruz Island" ; Times: 1
+	Query: "WFVZ AND Pemberton" ; Times: 1
+	Query: "catalognumber:54126" ; Times: 1
+	Query: "53562" ; Times: 1
+	Query: "34808" ; Times: 1
+	Query: "Santa Rosa Island AND Eggs AND 1939" ; Times: 1
+	Query: "13164" ; Times: 1
+	Query: "Santa Rosa Island AND Eggs AND 1934" ; Times: 1
+	Query: "DeGroot AND Santa Rosa Island" ; Times: 1
+	Query: "14352" ; Times: 2
+	Query: "Campephilus principalis" ; Times: 2
+	Query: "type:specimen specificepithet:rothschildi genus:Buthraupis sex:male" ; Times: 1
+	Query: "Butorides virescens AND Santa Cruz Island NOT Cuba NOT Ecuador NOT Philippines" ; Times: 1
+	Query: "phaethornis mexicanus" ; Times: 2
+	Query: "98763" ; Times: 1
+	Query: "98762" ; Times: 2
+	Query: "98765" ; Times: 1
+	Query: "Thryothorus rufalbus" ; Times: 2
+	Query: "Haliaeetus AND &#34;Santa Catalina Island&#34;" ; Times: 1
+	Query: "1904 AND Catalina ISland NOT Fishes" ; Times: 2
+	Query: "chaetura andrei" ; Times: 4
+	Query: "Isla Natividad Mexico AND 1930" ; Times: 1
+	Query: "39534" ; Times: 1
+	Query: "26378" ; Times: 1
+	Query: "Margarops fuscatus" ; Times: 1
+	Query: "egg texas 1900" ; Times: 1
+	Query: "Asio flammeus AND San Clemente Island" ; Times: 1
+	Query: "Ptyonoprogne obsoleta" ; Times: 3
+	Query: "nucifraga columbiana" ; Times: 1
+	Query: "querula purpurata" ; Times: 6
+	Query: "francolinus natalensis" ; Times: 3
+	Query: "11139" ; Times: 7
+	Query: "Terpsiphone" ; Times: 2
+	Query: "francolinus ahantensis" ; Times: 2
+	Query: "73821" ; Times: 1
+	Query: "cracidae mitu mitu" ; Times: 2
+	Query: "francolinus francolinus" ; Times: 2
+	Query: "type:specimen specificepithet:xanthogramma genus:Melanodera sex:male" ; Times: 1
+	Query: "aimophila ruficeps canescens" ; Times: 2
+	Query: "specificepithet:ludovicianus genus:lanius stateprovince:&#34;michigan&#34; year &gt;= 1908 year &lt;= 1908" ; Times: 2
+	Query: "Oceanodroma homochroa Santa Cruz 1968" ; Times: 1
+	Query: "Oceanodroma homochroa Santa Cruz 1969" ; Times: 1
+	Query: "Snyder AND San Miguel Island" ; Times: 1
+	Query: "Santa Cruz Island AND eggs AND 1885" ; Times: 1
+	Query: "Santa Cruz Island AND eggs AND 1931" ; Times: 1
+	Query: "witch" ; Times: 6
+	Query: "Badger AND Cruz ISland" ; Times: 1
+	Query: "Oceanodroma homochroa Santa Cruz 12099" ; Times: 1
+	Query: "Phalaenoptilus nuttallii stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "Oceanodroma homochroa Santa Cruz 143996" ; Times: 1
+	Query: "208320" ; Times: 1
+	Query: "Santa Cruz Island AND eggs AND 1905" ; Times: 1
+	Query: "Cooper AND Island" ; Times: 1
+	Query: "crax globulosa" ; Times: 1
+	Query: "Melanitta AND Santa Cruz" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:andrews c.l. AND (NOT mvz)" ; Times: 1
+	Query: "125408" ; Times: 3
+	Query: "Estrilda astrild 1" ; Times: 4
+	Query: "Isla Natividad Mexico" ; Times: 2
+	Query: "locality:laurel county:&#34;mono&#34;" ; Times: 1
+	Query: "specificepithet:ludovicianus genus:lanius stateprovince:&#34;michigan&#34; year &gt;= 1891 year &lt;= 1891" ; Times: 1
+	Query: "Catalina AND Pemberton" ; Times: 1
+	Query: "119164" ; Times: 1
+	Query: "119165" ; Times: 1
+	Query: "&#34;Walter Miller&#34;" ; Times: 1
+	Query: "ammodramus bairdii" ; Times: 1
+	Query: "type:specimen catalognumber:1062" ; Times: 1
+	Query: "1929 AND Anacapa Island" ; Times: 1
+	Query: "Accipiter cooperii AND Island" ; Times: 1
+	Query: "amazona ochrocephala" ; Times: 1
+	Query: "Cinclocerthia ruficauda" ; Times: 1
+	Query: "Penang Hill" ; Times: 1
+	Query: "61247" ; Times: 1
+	Query: "pavo cristatus" ; Times: 1
+	Query: "61092" ; Times: 1
+	Query: "Breninger AND 1896" ; Times: 1
+	Query: "Pandion AND Santa Catalina Island" ; Times: 1
+	Query: "Haliaeetus AND Santa Barbara Island" ; Times: 2
+	Query: "Drepanididae type:specimen" ; Times: 10
+	Query: "DeGroot AND Anacapa Island" ; Times: 1
+	Query: "catalognumber:8894" ; Times: 1
+	Query: "Ptychoramphus aleuticus AND San Miguel Island" ; Times: 1
+	Query: "Lunda cirrhata British Columbia" ; Times: 1
+	Query: "Elanus AND Island" ; Times: 1
+	Query: "WFVZ AND 2002" ; Times: 1
+	Query: "Santa Cruz Island AND 1938 NOT Fish NOT ICH" ; Times: 1
+	Query: "Snyder AND Prince Island" ; Times: 1
+	Query: "Pachyramphus albogriseus" ; Times: 3
+	Query: "american redstart" ; Times: 1
+	Query: "grallaricula flavirostris" ; Times: 1
+	Query: "calandrella acutirostris" ; Times: 1
+	Query: "99609" ; Times: 1
+	Query: "29961" ; Times: 2
+	Query: "Miller year &gt;= 1890 year &lt;= 1905 institutioncode:WFVZ" ; Times: 1
+	Query: "manorina melanotis" ; Times: 1
+	Query: "lagopus stateprovince:&#34;Wyoming&#34;" ; Times: 5
+	Query: "Egretta AND Island AND California" ; Times: 1
+	Query: "Pelecanus AND Anacapa Island NOT Anderson NOT Kiff" ; Times: 2
+	Query: "county:&#34;Hampton&#34;" ; Times: 1
+	Query: "Gavia AND Santa Rosa Island" ; Times: 1
+	Query: "Butorides virescens AND &#34;Santa Cruz Island&#34; NOT Cuba NOT Ecuador NOT Philippines" ; Times: 1
+	Query: "van fleet" ; Times: 1
+	Query: "Toxostoma ocellatum" ; Times: 1
+	Query: "micromonacha lanceolata" ; Times: 1
+	Query: "Dendroica magnolia stateprovince:&#34;Saskatchewan&#34; month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Ptychoramphus aleuticus AND &#34;Santa Barbara Island&#34;" ; Times: 1
+	Query: "Walter Miller" ; Times: 2
+	Query: "Leiothrix lutea 1" ; Times: 4
+	Query: "brittany byrd" ; Times: 7
+	Query: "67447" ; Times: 1
+	Query: "specificepithet:ludovicianus genus:lanius stateprovince:&#34;michigan&#34; year &gt;= 1904 year &lt;= 1904" ; Times: 1
+	Query: "103398" ; Times: 1
+	Query: "county:&#34;King George&#34; stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "Mimus patagonicus" ; Times: 1
+	Query: "Penelope purpurascens purpurascens" ; Times: 1
+	Query: "118956" ; Times: 1
+	Query: "cypseloides cryptus class:aves" ; Times: 1
+	Query: "Louisiana Waterthrush type:specimen" ; Times: 1
+	Query: "Toxostoma lecontei" ; Times: 1
+	Query: "type:specimen specificepithet:bairdii genus:Acanthidops sex:male" ; Times: 1
+	Query: "francolinus bicalcaratus" ; Times: 2
+	Query: "WFVZ AND 2002 AND Pemberton" ; Times: 1
+	Query: "25087" ; Times: 1
+	Query: "Threskiornis aethiopicus 1" ; Times: 1
+	Query: "Ready AND Island" ; Times: 2
+	Query: "Oceanodroma homochroa 96011" ; Times: 1
+	Query: "tufts nova scotia 1917" ; Times: 1
+	Query: "Doryfera ludovicae" ; Times: 1
+	Query: "109843" ; Times: 1
+	Query: "amazilia yucatanensis" ; Times: 1
+	Query: "Santa Cruz Island AND eggs AND 1929" ; Times: 1
+	Query: "Santa Cruz Island AND eggs AND 1928" ; Times: 2
+	Query: "11714" ; Times: 2
+	Query: "Oceanodroma homochroa Santa Cruz 1928" ; Times: 3
+	Query: "Oceanodroma homochroa Santa Cruz 1929" ; Times: 2
+	Query: "Santa Cruz Island AND eggs AND 1927" ; Times: 2
+	Query: "Santa Cruz Island AND eggs AND 1926" ; Times: 1
+	Query: "Santa Cruz Island AND eggs AND 1921" ; Times: 1
+	Query: "Santa Cruz Island AND eggs AND 1920" ; Times: 1
+	Query: "Santa Cruz Island AND eggs AND 1922" ; Times: 1
+	Query: "Oceanodroma homochroa Santa Cruz 1955" ; Times: 1
+	Query: "gbifdatasetid:8be43f9b-52e7-47d4-be3e-dbcc066d70ab" ; Times: 1
+	Query: "genus:certhia year &gt;= 1907 year &lt;= 1907" ; Times: 1
+	Query: "WFVZ 2002" ; Times: 1
+	Query: "49731" ; Times: 1
+	Query: "specificepithet:ludovicianus genus:lanius stateprovince:&#34;michigan&#34; year &gt;= 1901 year &lt;= 1901" ; Times: 1
+	Query: "Catalina AND Pemberton NOT Mexico" ; Times: 1
+	Query: "selasphorus flammula" ; Times: 1
+	Query: "Melanitta AND ISland" ; Times: 1
+	Query: "99393" ; Times: 1
+	Query: "Haliaeetus AND Santa Rosa Island" ; Times: 2
+	Query: "buteo rufinus" ; Times: 1
+	Query: "Abbott AND ISland" ; Times: 1
+	Query: "104912" ; Times: 1
+	Query: "oxpecker" ; Times: 6
+	Query: "224153" ; Times: 1
+	Query: "129246" ; Times: 1
+	Query: "specificepithet:ludovicianus genus:lanius stateprovince:&#34;michigan&#34; year &gt;= 1900 year &lt;= 1900" ; Times: 1
+	Query: "Molothrus ater stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "35018" ; Times: 2
+	Query: "Snyder AND Prince Island NOT Canada NOT ALaska" ; Times: 1
+	Query: "locality:Rock Creek county:&#34;Mono&#34;" ; Times: 1
+	Query: "county:&#34;Wheeler&#34; stateprovince:&#34;Texas&#34;" ; Times: 3
+	Query: "Phylloscopus sindianus" ; Times: 1
+	Query: "class:aves stateprovince:&#34;illinois&#34; recordedby:grant" ; Times: 1
+	Query: "38682" ; Times: 1
+	Query: "96908" ; Times: 1
+	Query: "Phaethon aethereus AND Island" ; Times: 2
+	Query: "Lonchura punctulata 1" ; Times: 5
+	Query: "Haliaeetus AND Santa Catalina Island" ; Times: 2
+	Query: "98764" ; Times: 1
+	Query: "Puffinus creatopus AND Santa Cruz ISland" ; Times: 1
+	Query: "r.a. erickson" ; Times: 2
+	Query: "Euplectes afer 1" ; Times: 3
+	Query: "Strix occidentalis lucida" ; Times: 1
+	Query: "Ptychoramphus aleuticus AND San Clemente Island" ; Times: 2
+	Query: "Santa Rosa Island AND Eggs AND 1928" ; Times: 1
+	Query: "Pelecanus AND Anacapa Island" ; Times: 2
+	Query: "Santa Rosa Island AND Eggs AND 1920" ; Times: 1
+	Query: "Phasianus colchicus 1" ; Times: 2
+	Query: "Santa Rosa Island AND Eggs AND 1927" ; Times: 1
+	Query: "snakes" ; Times: 1
+	Query: "R 175527" ; Times: 1
+	Query: "Dendroica magnolia month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "tucan" ; Times: 2
+	Query: "145108" ; Times: 1
+	Query: "Selasphorus country:&#34;Panama&#34; institutioncode:WFVZ" ; Times: 1
+	Query: "98774" ; Times: 1
+	Query: "Oceanodroma melania AND Island" ; Times: 1
+	Query: "montifringilla adamsi" ; Times: 2
+	Query: "Garza 1" ; Times: 1
+	Query: "DeGroot AND Santa Cruz Island" ; Times: 1
+	Query: "131078" ; Times: 1
+	Query: "Fratercula cirrhata British Columbia" ; Times: 2
+	Query: "56134" ; Times: 1
+	Query: "14299" ; Times: 1
+	Query: "pseudoscops clamator" ; Times: 1
+	Query: "Puffinus griseus AND Santa Cruz Island" ; Times: 1
+	Query: "46494" ; Times: 1
+	Query: "Lanius ludovicianus AND &#34;Santa Cruz Island&#34;" ; Times: 1
+	Query: "59041" ; Times: 2
+	Query: "Mimus longicaudatus" ; Times: 1
+	Query: "Jesse W. Miller year &gt;= 1890 year &lt;= 1905 institutioncode:WFVZ" ; Times: 2
+	Query: "Oxyura jamaicensis 1" ; Times: 2
+	Query: "Stevens AND 1939" ; Times: 1
+	Query: "Serinus mozambicus 1" ; Times: 2
+	Query: "141630" ; Times: 1
+	Query: "Snyder AND Santa Barbara Island NOT Cruz" ; Times: 1
+	Query: "Aratinga acuticaudata 1" ; Times: 4
+	Query: "Butorides virescens AND Santa Cruz Island" ; Times: 1
+	Query: "Harrison AND Haliaeetus" ; Times: 1
+	Query: "specificepithet:ludovicianus genus:lanius stateprovince:&#34;michigan&#34; year &gt;= 1899 year &lt;= 1899" ; Times: 1
+	Query: "Asio flammeus AND Island AND California" ; Times: 1
+	Query: "Oceanodroma homochroa Santa Cruz 1913" ; Times: 2
+	Query: "Oceanodroma homochroa Santa Cruz 1912" ; Times: 2
+	Query: "Pachycephala cinerea" ; Times: 1
+	Query: "LSU 27287" ; Times: 1
+	Query: "208317" ; Times: 1
+	Query: "Lepidoptera" ; Times: 1
+	Query: "Francolinus pintadeanus" ; Times: 3
+	Query: "208318" ; Times: 1
+	Query: "Oceanodroma homochroa Santa Cruz 30319" ; Times: 2
+	Query: "80106" ; Times: 1
+	Query: "Hornung AND Island" ; Times: 2
+	Query: "Pelican AND Anacapa" ; Times: 2
+	Query: "francolinus hildebrandti" ; Times: 1
+	Query: "Butorides virescens AND Santa Cruz Island NOT Ecuador" ; Times: 1
+	Query: "141529" ; Times: 1
+	Query: "Isla Natividad Mexico AND 1897" ; Times: 1
+	Query: "catalognumber:7690" ; Times: 1
+	Query: "harpagus bidentatus" ; Times: 1
+	Query: "county:&#34;wayne&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Passerina caerulea AND Island" ; Times: 1
+	Query: "oceanites oceanicus" ; Times: 3
+	Query: "genus:lanius stateprovince:&#34;michigan&#34; year &gt;= 1898 year &lt;= 1898" ; Times: 1
+	Query: "specificepithet:ludovicianus genus:lanius stateprovince:&#34;michigan&#34; year &gt;= 1909 year &lt;= 1909" ; Times: 4
+	Query: "172508" ; Times: 1
+	Query: "francolinus gularis" ; Times: 3
+	Query: "Melanotrochilus fuscus" ; Times: 2
+	Query: "Melanotis caerulescens" ; Times: 1
+	Query: "niltava grandis" ; Times: 1
+	Query: "Melanoptila glabrirostris" ; Times: 1
+	Query: "catalognumber:109343" ; Times: 1
+	Query: "Icterus galbula Chihuahua" ; Times: 1
+	Query: "Vidua macroura 1" ; Times: 2
+	Query: "Snyder AND Santa Barbara Island NOT Cruz NOT Miguel" ; Times: 1
+	Query: "buteo rufinus cirtensis" ; Times: 1
+	Query: "Breninger AND Aphelocoma" ; Times: 1
+	Query: "Strix occidentalis" ; Times: 2
+	Query: "Pelecanus AND San Clemente Island" ; Times: 1
+	Query: "225762" ; Times: 2
+	Query: "102893" ; Times: 1
+	Query: "francolinus RUFOPICTUS" ; Times: 1
+	Query: "great gray owl" ; Times: 1
+	Query: "167471" ; Times: 1
+	Query: "WFVZ-37485" ; Times: 1
+	Query: "Canterbury AND Anacapa Island" ; Times: 4
+	Query: "WFVZ 52459" ; Times: 2
+	Query: "162089" ; Times: 1
+	Query: "catalognumber:72923" ; Times: 1
+	Query: "catalognumber:59500" ; Times: 1
+	Query: "Poicephalus senegalus 1" ; Times: 2
+	Query: "toxostoma lecontei arenicola" ; Times: 3
+	Query: "specificepithet:familiaris genus:certhia year &gt;= 1907 year &lt;= 1907" ; Times: 1
+	Query: "Cecropia" ; Times: 1
+	Query: "ortalis vetula" ; Times: 1
+	Query: "Haliaeetus AND ISland" ; Times: 1
+	Query: "112237" ; Times: 1
+	Query: "egg iceland 1883" ; Times: 1
+	Query: "41594" ; Times: 1
+	Query: "150223" ; Times: 1
+	Query: "DeGroot AND San Miguel Island" ; Times: 1
+	Query: "Mimus triurus" ; Times: 1
+	Query: "Oceanodroma homochroa Stevens" ; Times: 1
+	Query: "16754" ; Times: 2
+	Query: "Oceanodroma homochroa 204501" ; Times: 1
+	Query: "124151" ; Times: 1
+	Query: "Toxostoma curvirostre" ; Times: 1
+	Query: "29872" ; Times: 1
+	Query: "Aegypius monachus" ; Times: 2
+	Query: "Toxostoma longirostre" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 5
+	Query: "Psittacula krameri 1" ; Times: 2
+	Query: "genus:Salpornis" ; Times: 1
+	Query: "distance(location,geopoint(32.63725474449211,-115.15113830566406))&lt;5114.7334921463025" ; Times: 1
+	Query: "Cooper AND Catalina" ; Times: 1
+	Query: "127778" ; Times: 1
+	Query: "WFVZ AND Nokes AND Pelecanus" ; Times: 1
+	Query: "dragonflies" ; Times: 1
+	Query: "57529" ; Times: 1
+	Query: "30753" ; Times: 1
+	Query: "catalognumber:144961" ; Times: 1
+	Query: "77997" ; Times: 1
+	Query: "Dawson AND Santa Cruz ISland" ; Times: 1
+	Query: "francolinus swainsonii" ; Times: 6
+	Query: "Santa Cruz Island AND eggs AND 1932" ; Times: 1
+	Query: "Santa Cruz Island AND eggs AND 1930" ; Times: 1
+	Query: "Nothura minor" ; Times: 1
+	Query: "Santa Cruz Island AND eggs AND 1936" ; Times: 1
+	Query: "Santa Cruz Island AND eggs AND 1937" ; Times: 1
+	Query: "Santa Cruz Island AND eggs AND 1935" ; Times: 1
+	Query: "Oceanodroma homochroa Santa Cruz 54273" ; Times: 1
+	Query: "francolinus squamatus" ; Times: 2
+	Query: "Santa Cruz Island AND eggs AND 1938" ; Times: 1
+	Query: "Santa Cruz Island AND eggs AND 1939" ; Times: 1
+	Query: "goura" ; Times: 1
+	Query: "Santa Cruz Island AND eggs AND 1891" ; Times: 1
+	Query: "Contopus sordidulus Alberta" ; Times: 2
+	Query: "46539" ; Times: 1
+	Query: "Phalacrocorax pelagicus AND Santa Cruz" ; Times: 1
+	Query: "Oceanodroma homochroa Santa Cruz 1936" ; Times: 2
+	Query: "Carpenter AND San Clemente Island" ; Times: 1
+	Query: "distance(location,geopoint(35.95577654056531,-117.8997802734375))&lt;1156" ; Times: 1
+	Query: "Oceanodroma homochroa Santa Cruz 1940" ; Times: 2
+	Query: "Oceanodroma homochroa Santa Cruz 1941" ; Times: 2
+	Query: "Colibri thalassinus" ; Times: 1
+	Query: "152658" ; Times: 1
+	Query: "Pelecanus AND Santa Cruz Island NOT Ecuador" ; Times: 1
+	Query: "magnolia warbler" ; Times: 2
+	Query: "Bubo virginianus AND Island AND California" ; Times: 1
+	Query: "Toxostoma redivivum" ; Times: 1
+	Query: "Lanius ludovicianus AND &#34;Santa Rosa Island&#34;" ; Times: 1
+	Query: "127250" ; Times: 2
+	Query: "7017" ; Times: 1
+	Query: "Estrilda melpoda 1" ; Times: 3
+	Query: "141802" ; Times: 1
+	Query: "Gambel AND Island" ; Times: 1
+	Query: "128775" ; Times: 1
+	Query: "128774" ; Times: 1
+	Query: "128776" ; Times: 1
+	Query: "49990" ; Times: 1
+	Query: "Amazona xantholora" ; Times: 1
+	Query: "75167" ; Times: 1
+	Query: "strix occidentalis lucida" ; Times: 1
+	Query: "grus americana" ; Times: 1
+	Query: "county:&#34;Hampton&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "locality:laurel lakes county:&#34;mono&#34;" ; Times: 2
+	Query: "hammondii county:&#34;Mono&#34;" ; Times: 1
+	Query: "Selasphorus institutioncode:WFVZ" ; Times: 1
+	Query: "8442" ; Times: 2
+	Query: "specificepithet:penelope" ; Times: 1
+	Query: "Gavia immer AND Island" ; Times: 1
+	Query: "211571" ; Times: 1
+	Query: "county:&#34;Santa Clara&#34; stateprovince:&#34;California&#34; (&#34;Scrub Jay&#34; OR &#34;Aphelocoma californica&#34;) mappable:1" ; Times: 1
+	Query: "Haliaeetus AND Anacapa Island" ; Times: 1
+	Query: "mvz AND gymnogyps AND california" ; Times: 6
+	Query: "WFVZ 185945" ; Times: 1
+	Query: "Breninger AND PSM" ; Times: 1
+	Query: "oreophasis derbianus" ; Times: 1
+	Query: "WFVZ AND Pemberton AND Harrison" ; Times: 1
+	Query: "Fulmarus glacialis AND Santa Cruz ISland" ; Times: 2
+	Query: "type:specimen genus:Phoenicopterus stateprovince:&#34;florida&#34; year &gt;= 1850 year &lt;= 1900" ; Times: 1
+	Query: "columba livia" ; Times: 1
+	Query: "WFVZ AND Pemberton AND Haliaeetus" ; Times: 1
+	Query: "Isla Natividad Mexico AND 1919" ; Times: 1
+	Query: "Oceanodroma homochroa Santa Cruz 64273" ; Times: 4
+	Query: "54714" ; Times: 1
+	Query: "mvz gymnogyps california" ; Times: 6
+	Query: "r. a. erickson" ; Times: 1
+	Query: "Nyctibius jamaicensis" ; Times: 3
+	Query: "Gavia immer AND California" ; Times: 1
+	Query: "Buteo jamaicensis AND Santa Barbara Island" ; Times: 1
+	Query: "Lanius ludovicianus AND Santa BArbara Island" ; Times: 1
+	Query: "118669" ; Times: 1
+	Query: "211792" ; Times: 1
+	Query: "canada goose" ; Times: 1
+	Query: "137030" ; Times: 1
+	Query: "Oceanodroma homochroa Santa Cruz" ; Times: 14
+	Query: "catalognumber:184713" ; Times: 1
+	Query: "Meadows AND Island NOT British" ; Times: 1
+	Query: "11899" ; Times: 1
+	Query: "94314" ; Times: 1
+	Query: "Hornung AND Santa Cruz Island" ; Times: 2
+	Query: "catalognumber:35344" ; Times: 2
+	Query: "Opisthoprora euryptera" ; Times: 1
+	Query: "francolinus capensis" ; Times: 1
+	Query: "county:&#34;Santa Clara&#34; stateprovince:&#34;California&#34; (&#34;Western Bluebird&#34; OR &#34;Sialia mexicana&#34;) mappable:1" ; Times: 1
+	Query: "Oreoscoptes montanus" ; Times: 1
+	Query: "Gymnogyps californianus mappable:1" ; Times: 1
+	Query: "Oxyura AND Santa Cruz" ; Times: 1
+	Query: "Huey AND Island" ; Times: 1
+	Query: "Oceanodroma homochroa Santa Cruz 1992" ; Times: 1
+	Query: "Pelecanus AND Santa Cruz Island" ; Times: 1
+	Query: "Santa Cruz Island AND eggs AND 1878" ; Times: 2
+	Query: "Stephens AND Catalina" ; Times: 1
+	Query: "Oceanodroma homochroa Santa Cruz 96008" ; Times: 1
+	Query: "1905 AND Catalina ISland NOT Fishes" ; Times: 1
+	Query: "haliaeetus vocifer" ; Times: 2
+	Query: "Oceanodroma homochroa Santa Cruz 96009" ; Times: 1
+	Query: "distance(location,geopoint(35.95577654056531,-117.8997802734375))&lt;1898.7866059064374" ; Times: 1
+	Query: "catalognumber:161331" ; Times: 1
+	Query: "ortalis vetula type:specimen year &gt;= 1970 year &lt;= 2016" ; Times: 1
+	Query: "fregata ariel" ; Times: 1
+	Query: "Thraupis atripennis" ; Times: 1
+	Query: "Isla Natividad Mexico AND 1940" ; Times: 1
+	Query: "WFVZ AND Haliaeetus AND Harrison" ; Times: 1
+	Query: "72923" ; Times: 1
+	Query: "francolinus adspersus" ; Times: 2
+	Query: "Acridotheres cristatellus 1" ; Times: 3
+	Query: "Oceanodroma homochroa Santa Cruz 96010" ; Times: 1
+	Query: "Santa Cruz Island AND eggs AND 1906" ; Times: 1
+	Query: "139591" ; Times: 1
+	Query: "Santa Cruz Island AND eggs AND 1904" ; Times: 1
+	Query: "1905 AND Catalina ISland NOT Fishe" ; Times: 1
+	Query: "philadelphia vireo" ; Times: 2
+	Query: "106011" ; Times: 3
+	Query: "150922" ; Times: 1
+	Query: "164118" ; Times: 1
+	Query: "a.w. anthony" ; Times: 4
+	Query: "Toxostoma cinereum" ; Times: 1
+	Query: "Mimus graysoni" ; Times: 1
+	Query: "27097" ; Times: 1
+	Query: "7777" ; Times: 1
+	Query: "169051" ; Times: 1
+	Query: "Badger AND Anacapa AND WFVZ" ; Times: 1
+	Query: "50388" ; Times: 1
+	Query: "Agriocharis ocellata" ; Times: 1
+	Query: "108985" ; Times: 1
+	Query: "Florisuga fuscus" ; Times: 11
+	Query: "Montifringilla nivalis" ; Times: 2
+	Query: "14557" ; Times: 1
+	Query: "San Martin Island AND Mexico NOT LVB NOT Burt NOT Willett NOT LAmb NOT Tevis" ; Times: 1
+	Query: "34959" ; Times: 2
+	Query: "sowers h.s." ; Times: 2
+	Query: "county:&#34;Santa Clara&#34; stateprovince:&#34;California&#34; (&#34;White-breasted Nuthatch&#34; OR &#34;Sitta carolinensis&#34;) mappable:1" ; Times: 1
+	Query: "45816" ; Times: 1
+	Query: "type:specimen specificepithet:montana genus:Buthraupis sex:male" ; Times: 1
+	Query: "Conium maculatum" ; Times: 1
+	Query: "Peyton AND Anacapa" ; Times: 1
+	Query: "Ploceus melanocephalus 1" ; Times: 2
+	Query: "anas cyanoptera" ; Times: 2
+	Query: "E. cayennensis" ; Times: 1
+	Query: "Rallus limicola AND Island" ; Times: 1
+	Query: "Haliaeetus AND DeGroot NOT Cherry" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:andrews" ; Times: 1
+	Query: "157870" ; Times: 1
+	Query: "phalaenoptilus nuttallii stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "Anhima cornuta" ; Times: 1
+	Query: "petrochelidon fulva" ; Times: 1
+	Query: "magnolia warbler egg" ; Times: 1
+	Query: "Mimus gilvus" ; Times: 1
+	Query: "rodent" ; Times: 1
+	Query: "61180" ; Times: 1
+	Query: "Paloma" ; Times: 1
+	Query: "Ashworth AND Santa Cruz Island" ; Times: 1
+	Query: "Santa Cruz Island AND eggs AND 1918" ; Times: 1
+	Query: "Snyder AND Santa Barbara Island" ; Times: 1
+	Query: "Santa Cruz Island AND eggs AND 1919" ; Times: 1
+	Query: "catalognumber:178448" ; Times: 1
+	Query: "locality:Chutihuara country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "elf" ; Times: 8
+	Query: "parabuteo unicinctus" ; Times: 2
+	Query: "lanius ludovicianus baja california" ; Times: 3
+	Query: "Fratercula arctica" ; Times: 1
+	Query: "Toxostoma bendirei" ; Times: 1
+	Query: "147216" ; Times: 1
+	Query: "Andalusia" ; Times: 2
+	Query: "Amandava amandava 1" ; Times: 3
+	Query: "Campylopterus curvipennis" ; Times: 1
+	Query: "Pelecanus AND San Miguel Island" ; Times: 1
+	Query: "type:specimen specificepithet:erythrophrys genus:Poospiza sex:male" ; Times: 1
+	Query: "catalognumber:178445" ; Times: 1
+	Query: "Amandava subflava 1" ; Times: 3
+	Query: "tufts nova scotia" ; Times: 1
+	Query: "egg 1920 ca" ; Times: 1
+	Query: "catalognumber:178449" ; Times: 1
+	Query: "Buteo jamaicensis AND Santa Rosa Island" ; Times: 1
+	Query: "Santa Cruz Island AND eggs AND 1947" ; Times: 1
+	Query: "flamingo" ; Times: 1
+	Query: "Santa Cruz Island AND 1938" ; Times: 1
+	Query: "Santa Cruz Island AND eggs AND 1941" ; Times: 1
+	Query: "Santa Cruz Island AND eggs AND 1940" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 9
+	Query: "Cairina moschata 1" ; Times: 3
+	Query: "WFVZ 81721" ; Times: 1
+	Query: "1905 AND Catalina ISland NOT Fish NOT Velero" ; Times: 1
+	Query: "Branta AND California AND Island" ; Times: 1
+	Query: "Calocitta colliei" ; Times: 1
+	Query: "selasphorus sasin" ; Times: 1
+	Query: "Peyton AND Anacapa AND Haliaeetus" ; Times: 1
+	Query: "Oceanodroma homochroa Santa Cruz 1938" ; Times: 3
+	Query: "Oceanodroma homochroa Santa Cruz 1973" ; Times: 1
+	Query: "111499" ; Times: 3
+	Query: "Oceanodroma homochroa Santa Cruz 1971" ; Times: 1
+	Query: "Oceanodroma homochroa Santa Cruz 1970" ; Times: 2
+	Query: "Meadows AND Catalina Island" ; Times: 1
+	Query: "Springs AND Island NOT Mexico" ; Times: 1
+	Query: "Oceanodroma homochroa Santa Cruz 1975" ; Times: 1
+	Query: "Oceanodroma homochroa Santa Cruz 1974" ; Times: 1
+	Query: "Sporopipes squamifrons" ; Times: 1
+	Query: "Buteo jamaicensis AND San Clemente Island" ; Times: 1
+	Query: "R.161282" ; Times: 1
+	Query: "egg siberia" ; Times: 1
+	Query: "DeGroot AND San CLemente Island" ; Times: 1
+	Query: "Bubo virginianus AND Island" ; Times: 1
+	Query: "Mimus saturninus" ; Times: 1
+	Query: "Toxostoma rufum" ; Times: 1
+	Query: "glaucidium brodiei" ; Times: 1
+	Query: "86655" ; Times: 1
+	Query: "specificepithet:ludovicianus genus:lanius stateprovince:&#34;michigan&#34; year &gt;= 1906 year &lt;= 1906" ; Times: 1
+	Query: "Ramphocinclus brachyurus" ; Times: 1
+	Query: "Ashworth AND San Clemente Island" ; Times: 1
+	Query: "mummy" ; Times: 5
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:andrews c.l. AND (NOT cas NOT mvz)" ; Times: 1
+	Query: "San Miguel Island AND Egg AND 1897" ; Times: 1
+	Query: "1904 AND Catalina ISland NOT Velero" ; Times: 1
+	Query: "Haliaeetus AND DeGroot" ; Times: 1
+	Query: "Ptychoramphus aleuticus AND Santa Cruz Island" ; Times: 1
+	Query: "Ploceus cucullatus 1" ; Times: 2
+	Query: "Haliaeetus AND Santa Cruz Island" ; Times: 1
+	Query: "88727" ; Times: 1
+	Query: "Haliaeetus AND &#34;San Miguel Island&#34;" ; Times: 1
+	Query: "Snyder AND Santa Catalina Island" ; Times: 1
+	Query: "WFVZ AND Nokes AND Pelecanus NOT Mexico" ; Times: 1
+	Query: "acorn woodpecker" ; Times: 4
+	Query: "Haliaeetus AND Ashworth" ; Times: 1
+	Query: "97086" ; Times: 1
+	Query: "Harrison AND Haliaeetus AND Anacapa Island" ; Times: 1
+	Query: "Haliaeetus AND San Clemente Island" ; Times: 1
+	Query: "richard a. erickson" ; Times: 1
+	Query: "Asio stygius" ; Times: 2
+	Query: "ortalis vetula type:specimen" ; Times: 1
+	Query: "uwbm red-tailed hawk" ; Times: 1
+	Query: "cheney e s" ; Times: 1
+	Query: "francolinus icterorhynchus" ; Times: 1
+	Query: "35723" ; Times: 1
+	Query: "Allenia fusca" ; Times: 1
+	Query: "Canterbury AND Santa Cruz Island" ; Times: 1
+	Query: "Cooper AND Cruz NOT Arizona" ; Times: 1
+	Query: "Oceanodroma homochroa Santa Cruz 1972" ; Times: 1
+	Query: "dendroica magnolia type:specimen country:&#34;canada&#34; year &gt;= 1950 year &lt;= 2016" ; Times: 1
+	Query: "Santa Cruz Island AND eggs AND 1897" ; Times: 1
+	Query: "Baumgardt AND ISland" ; Times: 1
+	Query: "type:specimen genus:Phoenicopterus year &gt;= 1850 year &lt;= 1900" ; Times: 1
+	Query: "ptilopachus petrosus" ; Times: 1
+	Query: "laterallus jamaicensis United States" ; Times: 2
+	Query: "53440" ; Times: 1
+	Query: "buteo regalis uwbm" ; Times: 1
+	Query: "vultur gryphus" ; Times: 6
+	Query: "98759" ; Times: 1
+	Query: "Appleton AND Island" ; Times: 1
+	Query: "160399" ; Times: 3
+	Query: "34844" ; Times: 1
+	Query: "73277" ; Times: 1
+	Query: "98754" ; Times: 2
+	Query: "Icterus auratus" ; Times: 2
+	Query: "Haliaeetus AND San Miguel Island" ; Times: 2
+	Query: "cypseloides class:aves" ; Times: 2
+	Query: "agriocharis ocellata" ; Times: 4
+	Query: "Pelecanus AND Anacapa Island NOT Anderson" ; Times: 1
+	Query: "64135" ; Times: 1
+	Query: "egg gowland" ; Times: 1
+	Query: "123899" ; Times: 1
+	Query: "Oceanodroma homochroa egg" ; Times: 2
+	Query: "laterallus" ; Times: 2
+	Query: "aves mcz" ; Times: 1
+	Query: "Circus cyaneus AND Island AND California" ; Times: 2
+	Query: "Meadows AND Island NOT British NOT Singapore" ; Times: 1
+	Query: "106853" ; Times: 3
+	Query: "Buteo nitidus" ; Times: 1
+	Query: "WFVZ 61974" ; Times: 1
+	Query: "Rostrhamus sociabilis" ; Times: 1
+	Query: "specificepithet:ludovicianus genus:lanius stateprovince:&#34;michigan&#34; year &gt;= 1897 year &lt;= 1897" ; Times: 2
+	Query: "WFVZ AND Nokes AND Pelecanus AND Island" ; Times: 1
+	Query: "catalognumber:45180" ; Times: 1
+	Query: "Breninger" ; Times: 1
+	Query: "specificepithet:virgata stateprovince:&#34;alaska&#34; year &lt;= 1926 month &lt;= 1926" ; Times: 1
+	Query: "Snyder AND Santa Barbara Island NOT Cruz NOT Miguel NOT Prince" ; Times: 1
+	Query: "38590" ; Times: 1
+	Query: "Columba livia" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:andrews c.l." ; Times: 2
+	Query: "genus:lanius stateprovince:&#34;michigan&#34; year &gt;= 1897 year &lt;= 1897" ; Times: 2
+	Query: "59028" ; Times: 1
+	Query: "Tangara fastuosa" ; Times: 2
+	Query: "Francolinus nahani" ; Times: 1
+	Query: "catalognumber:16754" ; Times: 1
+	Query: "Phalacrocorax pelagicus r AND Santa Cruz" ; Times: 1
+	Query: "59026" ; Times: 1
+	Query: "Oceanodroma homochroa Santa Cruz 1937" ; Times: 3
+	Query: "Mimus thenca" ; Times: 1
+	Query: "Snyder AND Santa Cruz Island" ; Times: 1
+	Query: "Santa Cruz Island AND eggs AND 1912" ; Times: 1
+	Query: "Santa Cruz Island AND eggs AND 1913" ; Times: 1
+	Query: "Santa Cruz Island AND eggs AND 1914" ; Times: 1
+	Query: "Santa Cruz Island AND eggs AND 1915" ; Times: 1
+	Query: "Santa Cruz Island AND eggs AND 1916" ; Times: 1
+	Query: "Santa Cruz Island AND eggs AND 1917" ; Times: 1
+	Query: "Butorides virescens AND Santa Cruz Island NOT Ecuador NOT Philippines" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "34780" ; Times: 1
+	Query: "Meadows AND Island NOT ALaska" ; Times: 1
+	Query: "Fulica americana AND Island" ; Times: 1
+	Query: "Circus cyaneus AND Island" ; Times: 1
+	Query: "8555" ; Times: 1
+	Query: "ara macao" ; Times: 6
+	Query: "Sonora mono" ; Times: 2
+	Query: "county:&#34;Santa Clara&#34; stateprovince:&#34;California&#34; (&#34;California quail &#34; OR &#34;Callipepla californica&#34;) mappable:1" ; Times: 1
+	Query: "77593" ; Times: 1
+	Query: "monasa morphoeus year &gt;= 1980" ; Times: 1
+	Query: "Santa Rosa Island AND Eggs AND 1949" ; Times: 1
+	Query: "Snyder AND Prince Island NOT Canada" ; Times: 1
+	Query: "crax rubra" ; Times: 2
+	Query: "Snyder AND Anacapa Island" ; Times: 1
+	Query: "Fulica americana AND California AND Island" ; Times: 3
+	Query: "Catalina Island AND 1896" ; Times: 2
+	Query: "Catalina Island AND 1895" ; Times: 1
+	Query: "Catalina Island AND 1893" ; Times: 1
+	Query: "specificepithet:ludovicianus genus:lanius stateprovince:&#34;michigan&#34; year &gt;= 1894 year &lt;= 1894" ; Times: 1
+	Query: "Haliaeetus AND Anacapa" ; Times: 1
+	Query: "Anodorhynchus hyacinthinus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 75 (out of 1052 download events in this period)
+Total number of records downloaded: 8168
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 11
+	Country: Canada ; Times: 1
+	Country: Czech Republic ; Times: 1
+	Country: Mexico ; Times: 37
+	Country: Denmark ; Times: 1
+	Country: India ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 15
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 3
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-20 ; Times: 7
+	Date: 2016-06-15 ; Times: 8
+	Date: 2016-06-09 ; Times: 2
+	Date: 2016-06-08 ; Times: 6
+	Date: 2016-06-21 ; Times: 4
+	Date: 2016-06-19 ; Times: 2
+	Date: 2016-06-05 ; Times: 4
+	Date: 2016-06-04 ; Times: 2
+	Date: 2016-06-14 ; Times: 6
+	Date: 2016-06-06 ; Times: 2
+	Date: 2016-06-01 ; Times: 2
+	Date: 2016-06-13 ; Times: 5
+	Date: 2016-06-10 ; Times: 1
+	Date: 2016-06-02 ; Times: 6
+	Date: 2016-06-16 ; Times: 9
+	Date: 2016-06-12 ; Times: 2
+	Date: 2016-06-17 ; Times: 1
+	Date: 2016-06-23 ; Times: 2
+	Date: 2016-06-11 ; Times: 2
+	Date: 2016-06-07 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "uwbm red-tailed hawk" ; Times: 1
+	Query: "Pharomachrus antisianus" ; Times: 1
+	Query: "Sporophila lineola" ; Times: 1
+	Query: "Anhima cornuta" ; Times: 1
+	Query: "Tangara fastuosa" ; Times: 1
+	Query: "grus americana" ; Times: 3
+	Query: "aegolius Acadicus" ; Times: 1
+	Query: "ara macao" ; Times: 4
+	Query: "iguana iguana" ; Times: 1
+	Query: "Tangara seledon" ; Times: 1
+	Query: "county:&#34;Santa Clara&#34; stateprovince:&#34;California&#34; (&#34;Western Bluebird&#34; OR &#34;Sialia mexicana&#34;) mappable:1" ; Times: 1
+	Query: "Aptenodytes forsteri" ; Times: 3
+	Query: "Columba livia" ; Times: 1
+	Query: "iguana" ; Times: 1
+	Query: "Gujarat Aves" ; Times: 1
+	Query: "Nothura minor" ; Times: 1
+	Query: "county:&#34;Santa Clara&#34; stateprovince:&#34;California&#34; (&#34;Scrub Jay&#34; OR &#34;Aphelocoma californica&#34;) mappable:1" ; Times: 1
+	Query: "Iguana iguana AND (NOT California NOT Fiji NOT Florida NOT Arizona NOT Nevada NOT Sinaloa )" ; Times: 1
+	Query: "goura" ; Times: 2
+	Query: "lanius ludovicianus baja california" ; Times: 2
+	Query: "Icterus auratus" ; Times: 1
+	Query: "norte de santander" ; Times: 1
+	Query: "cottonwood springs county:&#34;Riverside&#34;" ; Times: 1
+	Query: "Carpodacus pulcherrimus" ; Times: 1
+	Query: "aegolius funereus" ; Times: 2
+	Query: "Thraupis palmarum" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 3
+	Query: "columba livia" ; Times: 1
+	Query: "Meleagris" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "brittany byrd" ; Times: 1
+	Query: "Wilsonia citrina" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 2
+	Query: "Thraupis atripennis" ; Times: 1
+	Query: "Melanotrochilus fuscus" ; Times: 2
+	Query: "aegolius acadicus" ; Times: 1
+	Query: "Calocitta colliei" ; Times: 1
+	Query: "Aegypius monachus" ; Times: 1
+	Query: "trogon elegans" ; Times: 1
+	Query: "county:&#34;Santa Clara&#34; stateprovince:&#34;California&#34; (&#34;coyote&#34; OR &#34;Canis latrans&#34;) mappable:1" ; Times: 1
+	Query: "Jesse W. Miller year &gt;= 1890 year &lt;= 1905 institutioncode:WFVZ" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "Syria" ; Times: 1
+	Query: "Meleagris ocellata" ; Times: 1
+	Query: "magnolia warbler" ; Times: 1
+	Query: "county:&#34;Santa Clara&#34; stateprovince:&#34;California&#34; (&#34;White-breasted Nuthatch&#34; OR &#34;Sitta carolinensis&#34;) mappable:1" ; Times: 1
+	Query: "agriocharis ocellata" ; Times: 1
+	Query: "Oriolus chinensis" ; Times: 1
+	Query: "kyrgyzstan" ; Times: 1
+	Query: "Criniger flaveolus" ; Times: 1
+	Query: "laterallus" ; Times: 1
+	Query: "Pachyramphus albogriseus" ; Times: 1
+	Query: "niltava grandis" ; Times: 1
+	Query: "amazilia yucatanensis" ; Times: 1
+	Query: "type:specimen class:Aves stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "E. pectoralis" ; Times: 1
+	Query: "myiopsitta monachus" ; Times: 1
+	Query: "E. cayennensis" ; Times: 1
+	Query: "Anodorhynchus hyacinthinus" ; Times: 1
+	Query: "county:&#34;Santa Clara&#34; stateprovince:&#34;California&#34; (&#34;California quail &#34; OR &#34;Callipepla californica&#34;) mappable:1" ; Times: 1
+
+
+End of report.
