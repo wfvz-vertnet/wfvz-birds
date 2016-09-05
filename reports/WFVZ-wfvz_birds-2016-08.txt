@@ -1,0 +1,411 @@
+Report for Institution Code WFVZ, Resource wfvz_birds
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 488
+Number of records retrieved in searches: 5364
+Number of different countries where searches have been originated: 21
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 39
+	Country: Canada ; Times: 11
+	Country: Romania ; Times: 2
+	Country: Netherlands ; Times: 2
+	Country: Colombia ; Times: 4
+	Country: Mexico ; Times: 26
+	Country: Russia ; Times: 4
+	Country: Unknown ; Times: 20
+	Country: India ; Times: 2
+	Country: France ; Times: 6
+	Country: United Kingdom ; Times: 6
+	Country: Austria ; Times: 1
+	Country: Australia ; Times: 4
+	Country: Germany ; Times: 14
+	Country: Chile ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: Switzerland ; Times: 4
+	Country: New Zealand ; Times: 2
+	Country: United States ; Times: 336
+	Country: South Korea ; Times: 1
+	Country: Ukraine ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 15
+	Date: 2016-08-11 ; Times: 17
+	Date: 2016-08-12 ; Times: 45
+	Date: 2016-08-13 ; Times: 10
+	Date: 2016-08-14 ; Times: 44
+	Date: 2016-08-15 ; Times: 24
+	Date: 2016-08-16 ; Times: 31
+	Date: 2016-08-17 ; Times: 13
+	Date: 2016-08-18 ; Times: 24
+	Date: 2016-08-19 ; Times: 18
+	Date: 2016-08-30 ; Times: 34
+	Date: 2016-08-31 ; Times: 33
+	Date: 2016-08-29 ; Times: 19
+	Date: 2016-08-28 ; Times: 20
+	Date: 2016-08-25 ; Times: 28
+	Date: 2016-08-24 ; Times: 13
+	Date: 2016-08-27 ; Times: 21
+	Date: 2016-08-26 ; Times: 30
+	Date: 2016-08-21 ; Times: 3
+	Date: 2016-08-20 ; Times: 8
+	Date: 2016-08-23 ; Times: 19
+	Date: 2016-08-22 ; Times: 17
+	Date: 2016-08-09 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Empidonax trailii" ; Times: 1
+	Query: "34126" ; Times: 1
+	Query: "Myophonus" ; Times: 2
+	Query: "pigeon lake" ; Times: 1
+	Query: "specificepithet:calliope stateprovince:&#34;california&#34;" ; Times: 5
+	Query: "specificepithet:verticalis genus:Tyrannus stateprovince:&#34;Kansas&#34; year &gt;= 1800 year &lt;= 1920" ; Times: 1
+	Query: "amazilia chionopectus" ; Times: 1
+	Query: "phylloscopus occipitalis" ; Times: 1
+	Query: "catalognumber:114007" ; Times: 1
+	Query: "Southwestern Flycatcher" ; Times: 1
+	Query: "Catharus fuscescens salicicola month &gt;= 6 month &lt;= 7" ; Times: 2
+	Query: "Aepyornis" ; Times: 2
+	Query: "Vireo bellii pusillus" ; Times: 1
+	Query: "64030" ; Times: 1
+	Query: "catalognumber:115634" ; Times: 1
+	Query: "90-171" ; Times: 2
+	Query: "Bin" ; Times: 1
+	Query: "133833" ; Times: 1
+	Query: "sternula antillarum" ; Times: 2
+	Query: "granatellus venustus" ; Times: 3
+	Query: "elf" ; Times: 5
+	Query: "fuligula 1907" ; Times: 1
+	Query: "colinus virginianus floridanus type:specimen year &gt;= 1961 year &lt;= 1990" ; Times: 2
+	Query: "54750" ; Times: 1
+	Query: "Littlejohn AND Island" ; Times: 1
+	Query: "Granite Mountain" ; Times: 1
+	Query: "108905" ; Times: 1
+	Query: "type:specimen specificepithet:pretrei genus:Phaethornis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "celata anchorage" ; Times: 1
+	Query: "gracula religiosa" ; Times: 1
+	Query: "falco rufigularis" ; Times: 4
+	Query: "chlorostilbon alice" ; Times: 4
+	Query: "Podicipedidae dominicus" ; Times: 2
+	Query: "class:aves stateprovince:&#34;New Mexico&#34; year &gt;= 1885 year &lt;= 1885 month &gt;= 5 month &lt;= 5" ; Times: 1
+	Query: "Ortalis vetula type:specimen country:&#34;Costa Rica&#34;" ; Times: 5
+	Query: "Black bear" ; Times: 13
+	Query: "class:Aves county:&#34;runnels&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Ketupa" ; Times: 1
+	Query: "phaethornis mexicanus" ; Times: 5
+	Query: "type:specimen genus:guira class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "sterna dougallii" ; Times: 3
+	Query: "specificepithet:caerulea genus:Passerina stateprovince:&#34;Kansas&#34; year &gt;= 1800 year &lt;= 1940" ; Times: 1
+	Query: "macray" ; Times: 1
+	Query: "gypohierax" ; Times: 1
+	Query: "year &gt;= 1700 year &lt;= 1840" ; Times: 1
+	Query: "clamator coromandus india" ; Times: 3
+	Query: "Littlejohn AND WFVZ 92420" ; Times: 1
+	Query: "pitta brachyura" ; Times: 5
+	Query: "Platylophus galericulatus" ; Times: 3
+	Query: "class:aves county:&#34;greenwood&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "colinus virginianus floridanus type:specimen year &gt;= 1920 year &lt;= 1960" ; Times: 1
+	Query: "WFVZ EGGS 11329" ; Times: 1
+	Query: "&#34;chrysoparia&#34; month &gt;= 9 month &lt;= 12" ; Times: 1
+	Query: "chrysoparia" ; Times: 13
+	Query: "W. Wood 1923" ; Times: 1
+	Query: "Merops revoilii" ; Times: 1
+	Query: "Chlorospingus country:&#34;Mexico&#34;" ; Times: 3
+	Query: "genus:Cotinga mappable:1" ; Times: 2
+	Query: "catalognumber:25201" ; Times: 1
+	Query: "VERSICOLOR stateprovince:&#34;Rhode Island&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:notatus class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "genus:struthio" ; Times: 1
+	Query: "type:specimen specificepithet:jamaicensis genus:laterallus AND (california)" ; Times: 1
+	Query: "type:specimen specificepithet:jamaicensis genus:laterallus AND (not California)" ; Times: 1
+	Query: "trochilidae FMNH" ; Times: 8
+	Query: "egg seal island maine" ; Times: 1
+	Query: "Catalina AND Carpodacus NOT Arizona" ; Times: 1
+	Query: "phylloscopus occipitalis india" ; Times: 2
+	Query: "phylloscopus borealis north america" ; Times: 1
+	Query: "Seaside Sparrow Texas type:specimen" ; Times: 1
+	Query: "egg cumberland england" ; Times: 1
+	Query: "Long-tailed Jaeger type:specimen" ; Times: 1
+	Query: "meleagris gallopavo nayarit country:&#34;mexico&#34;" ; Times: 1
+	Query: "217907" ; Times: 3
+	Query: "chaetocercus heliodor" ; Times: 10
+	Query: "Island AND Piranga olivacea" ; Times: 1
+	Query: "Eremopterix leucotis year &gt;= 1958 year &lt;= 1958" ; Times: 1
+	Query: "meleagris gallopavo country:&#34;mexico&#34;" ; Times: 1
+	Query: "pitta brachyura india" ; Times: 1
+	Query: "mummy" ; Times: 6
+	Query: "egg trinidad" ; Times: 1
+	Query: "mvz AND gymnogyps AND california" ; Times: 1
+	Query: "Ficedula sapphira" ; Times: 2
+	Query: "class:Aves continent:North america (Campephilus)" ; Times: 2
+	Query: "96656" ; Times: 1
+	Query: "chaetocercus jourdanii" ; Times: 5
+	Query: "kane county utah" ; Times: 1
+	Query: "ritson england" ; Times: 2
+	Query: "type:specimen specificepithet:jamaicensis genus:laterallus" ; Times: 2
+	Query: "52883" ; Times: 1
+	Query: "specificepithet:ruficollis class:aves stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:fanny genus:myrtis" ; Times: 1
+	Query: "crypsirina" ; Times: 1
+	Query: "brune" ; Times: 1
+	Query: "type:specimen specificepithet:ani genus:CROTOPHAGA class:Aves country:&#34;Brazil&#34;" ; Times: 4
+	Query: "catalognumber:116487" ; Times: 1
+	Query: "type:specimen genus:Florisuga class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "harpactes whiteheadi" ; Times: 13
+	Query: "type:specimen specificepithet:MAJOR genus:CROTOPHAGA class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "dendroica magnolia country:&#34;Canada&#34; month &gt;= 6 month &lt;= 8" ; Times: 4
+	Query: "specificepithet:verticalis genus:Tyrannus stateprovince:&#34;Kansas&#34; year &gt;= 1800 year &lt;= 1930" ; Times: 2
+	Query: "colinus virginianus floridanus type:specimen year &gt;= 1880 year &lt;= 1900" ; Times: 1
+	Query: "catalognumber:119809" ; Times: 1
+	Query: "phylloscopus collybita india" ; Times: 1
+	Query: "type:specimen specificepithet:scintilla genus:Selasphorus" ; Times: 1
+	Query: "witch" ; Times: 2
+	Query: "eupherusa poliocerca" ; Times: 16
+	Query: "nest date California january" ; Times: 1
+	Query: "american woodcock" ; Times: 1
+	Query: "Selasphorus institutioncode:WFVZ mappable:1" ; Times: 2
+	Query: "garrulax delesserti" ; Times: 1
+	Query: "Clarke Aves Australia year &gt;= 1880 year &lt;= 1935" ; Times: 1
+	Query: "Wood 1923" ; Times: 1
+	Query: "zavattariornis" ; Times: 1
+	Query: "county:&#34;Palm Beach&#34; stateprovince:&#34;Florida&#34;" ; Times: 3
+	Query: "lizards" ; Times: 1
+	Query: "type:specimen specificepithet:macroura genus:eupetomena class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:notatus genus:Chlorostilbon class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "164650" ; Times: 1
+	Query: "type:specimen specificepithet:collaris genus:Trogon class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "San CLemente Island AND 1905 NOT Fish" ; Times: 1
+	Query: "mvz gymnogyps california" ; Times: 3
+	Query: "type:specimen genus:Hylocharis class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "Clarke Aves year &gt;= 1880 year &lt;= 1935" ; Times: 1
+	Query: "Clark Mountain" ; Times: 2
+	Query: "Hummingbirds" ; Times: 1
+	Query: "tonala gardner cyanolyca pumilo" ; Times: 1
+	Query: "specificepithet:caerulea genus:Passerina stateprovince:&#34;Kansas&#34; year &gt;= 1800 year &lt;= 1920" ; Times: 1
+	Query: "&#34;vermivora pinus&#34; stateprovince:&#34;virginia&#34;" ; Times: 2
+	Query: "bird shape" ; Times: 1
+	Query: "21820" ; Times: 1
+	Query: "type:specimen genus:apteryx" ; Times: 2
+	Query: "cotinga cotinga type:specimen" ; Times: 1
+	Query: "Common nighthawk" ; Times: 3
+	Query: "egg brandenburg germany" ; Times: 1
+	Query: "SAn Benito AND Carpodacus" ; Times: 1
+	Query: "ROM 32261" ; Times: 2
+	Query: "myrmia micrura" ; Times: 25
+	Query: "tonala gardner" ; Times: 1
+	Query: "Catharus fuscater Colombia" ; Times: 1
+	Query: "occidentalis lucida" ; Times: 1
+	Query: "type:specimen genus:ramphodon class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen genus:opisthocomus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "calothorax" ; Times: 1
+	Query: "Farallon AND 1895" ; Times: 1
+	Query: "Farallon AND 1894" ; Times: 1
+	Query: "ara militaris country:&#34;mexico&#34;" ; Times: 1
+	Query: "ara militaris stateprovince:&#34;oaxaca&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "serronea" ; Times: 1
+	Query: "ptilogonys otofuscus" ; Times: 3
+	Query: "Falco peregrinus Vermont" ; Times: 1
+	Query: "chlorostilbon russatus" ; Times: 2
+	Query: "type:specimen genus:Leucochloris class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "bar-headed goose" ; Times: 3
+	Query: "&#34;golden-winged warbler&#34; stateprovince:&#34;virginia&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:glaucopis genus:Thalurania class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Ano Nuevo" ; Times: 1
+	Query: "cardinalis nest" ; Times: 1
+	Query: "Corvus corax utah" ; Times: 2
+	Query: "Racoon" ; Times: 1
+	Query: "95656" ; Times: 1
+	Query: "Western Kingbird Missouri type:specimen" ; Times: 1
+	Query: "Santa Rosa Island AND Carpodacus" ; Times: 1
+	Query: "72619" ; Times: 1
+	Query: "&#34;vermivora chrysoptera&#34; stateprovince:&#34;virginia&#34;" ; Times: 2
+	Query: "class:aves stateprovince:&#34;New Mexico&#34; year &gt;= 1885 year &lt;= 1885" ; Times: 2
+	Query: "CArolinae" ; Times: 1
+	Query: "type:specimen specificepithet:fuscus genus:Florisuga class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "egg 1890" ; Times: 1
+	Query: "type:specimen genus:Calothorax" ; Times: 1
+	Query: "atthis ellioti" ; Times: 1
+	Query: "type:specimen genus:Opisthocomus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "clamator coromandus" ; Times: 4
+	Query: "bottanensis" ; Times: 2
+	Query: "114007" ; Times: 1
+	Query: "veery" ; Times: 1
+	Query: "Dakota 1882" ; Times: 1
+	Query: "Catharus aurantiirostris aenopennis" ; Times: 4
+	Query: "calothorax pulcher" ; Times: 1
+	Query: "common tern" ; Times: 1
+	Query: "Cistothorus palustris country:&#34;Mexico&#34;" ; Times: 1
+	Query: "parus major &amp; hasmass:1" ; Times: 1
+	Query: "type:specimen specificepithet:inda genus:chloroceryle class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "cypseloides niger" ; Times: 3
+	Query: "catalognumber:120426" ; Times: 1
+	Query: "macRay" ; Times: 1
+	Query: "country:&#34;Mexico&#34; catalognumber:1726" ; Times: 1
+	Query: "specificepithet:albicapillus genus:spreo" ; Times: 1
+	Query: "Littlejohn AND Mexico" ; Times: 1
+	Query: "phodilus badius" ; Times: 1
+	Query: "Rollandia rolland chilensis" ; Times: 1
+	Query: "macaw" ; Times: 1
+	Query: "atenas costa rica" ; Times: 1
+	Query: "71290" ; Times: 1
+	Query: "Seaside Sparrow Texas" ; Times: 1
+	Query: "44536" ; Times: 1
+	Query: "catalognumber:41513" ; Times: 1
+	Query: "type:specimen genus:clytolaema class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Atelornis pittoides" ; Times: 1
+	Query: "aimophila ruficauda" ; Times: 1
+	Query: "Clay Dakota 1882" ; Times: 1
+	Query: "Thamnistes" ; Times: 2
+	Query: "arctic tern" ; Times: 1
+	Query: "county:&#34;kern&#34; recordedby:Bloeker" ; Times: 2
+	Query: "type:specimen specificepithet:cyanus genus:hylocharis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "pinaroloxias" ; Times: 1
+	Query: "Santa Rosa Island AND Carpodacus NOT SBMNH" ; Times: 1
+	Query: "Passerina versicolor type:specimen country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "type:specimen genus:Chlorostilbon class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "institutioncode:wfvz Poicephalus" ; Times: 2
+	Query: "colinus virginianus floridanus type:specimen year &gt;= 1880 year &lt;= 1920" ; Times: 1
+	Query: "169695" ; Times: 1
+	Query: "Phegornis" ; Times: 1
+	Query: "Podiceps brachyrhynchus" ; Times: 1
+	Query: "passenger pigeon" ; Times: 9
+	Query: "type:specimen genus:Chrysolampis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "county:&#34;Montgomery&#34; stateprovince:&#34;Tennessee&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Grizzly bear" ; Times: 2
+	Query: "egg mississippi" ; Times: 1
+	Query: "laysan albatross" ; Times: 2
+	Query: "Catalina AND Carpodacus" ; Times: 1
+	Query: "egg holland" ; Times: 1
+	Query: "200271" ; Times: 1
+	Query: "type:specimen specificepithet:aureoventris genus:Chlorostilbon class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "ROM 71030" ; Times: 2
+	Query: "phylloscopus magnirostris india" ; Times: 1
+	Query: "Anser brachyrhynchus" ; Times: 2
+	Query: "institutioncode:wfvz" ; Times: 3
+	Query: "type:specimen specificepithet:eurynome genus:Phaethornis class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "catalognumber:1726" ; Times: 1
+	Query: "13787" ; Times: 1
+	Query: "Cypseloides" ; Times: 5
+	Query: "type:specimen specificepithet:chrysura genus:hylocharis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "loggerhead shrike" ; Times: 2
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "egg lake manitoba" ; Times: 1
+	Query: "colinus virginianus floridanus type:specimen year &gt;= 1880 year &lt;= 1949" ; Times: 1
+	Query: "Dendroica kirtlandii type:specimen" ; Times: 1
+	Query: "turdus eunomus india" ; Times: 1
+	Query: "92074" ; Times: 1
+	Query: "Catharus minimus month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Calandrella stateprovince:&#34;Himachal&#34;" ; Times: 1
+	Query: "type:specimen genus:eupetomena class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "zoothera wardii" ; Times: 3
+	Query: "aves country:&#34;Benin&#34;" ; Times: 1
+	Query: "Southwest Willow Flycatcher" ; Times: 1
+	Query: "genus:goura" ; Times: 1
+	Query: "175126" ; Times: 1
+	Query: "class:Aves continent:North america (Ivory)" ; Times: 1
+	Query: "county:&#34;dekalb&#34; stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "ara militaris stateprovince:&#34;chiapas&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "egg orkney islands" ; Times: 1
+	Query: "&#34;dendroica cerulea&#34; stateprovince:&#34;virginia&#34;" ; Times: 1
+	Query: "preparations:C" ; Times: 5
+	Query: "ASIO OTUS cHIHUAHUA" ; Times: 1
+	Query: "institutioncode:wfvz Psittacidae" ; Times: 3
+	Query: "genus:Otus stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Melanerpes aurifrons stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Mergus albellus" ; Times: 2
+	Query: "Amaurornis" ; Times: 1
+	Query: "clamator jacobinus india" ; Times: 1
+	Query: "Calandrella country:&#34;India&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 61 (out of 924 download events in this period)
+Total number of records downloaded: 13433
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 20
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 28
+	Country: Colombia ; Times: 4
+	Country: Switzerland ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-11 ; Times: 4
+	Date: 2016-08-12 ; Times: 1
+	Date: 2016-08-13 ; Times: 1
+	Date: 2016-08-29 ; Times: 4
+	Date: 2016-08-15 ; Times: 1
+	Date: 2016-08-16 ; Times: 7
+	Date: 2016-08-25 ; Times: 2
+	Date: 2016-08-19 ; Times: 2
+	Date: 2016-08-27 ; Times: 1
+	Date: 2016-08-26 ; Times: 13
+	Date: 2016-08-23 ; Times: 3
+	Date: 2016-08-31 ; Times: 6
+	Date: 2016-08-18 ; Times: 2
+	Date: 2016-08-30 ; Times: 5
+	Date: 2016-08-24 ; Times: 1
+	Date: 2016-08-14 ; Times: 1
+	Date: 2016-08-22 ; Times: 6
+	Date: 2016-08-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Mecca" ; Times: 1
+	Query: "gavia" ; Times: 1
+	Query: "Clark Mountain" ; Times: 2
+	Query: "Empidonax flaviventris year &gt;= 1980" ; Times: 1
+	Query: "stateprovince:&#34;West Virginia&#34;" ; Times: 1
+	Query: "Guanajuato" ; Times: 6
+	Query: "chrysoparia" ; Times: 1
+	Query: "cotinga cotinga type:specimen" ; Times: 1
+	Query: "aimophila ruficauda" ; Times: 1
+	Query: "chlorospingus" ; Times: 2
+	Query: "Vireo bellii pusillus" ; Times: 1
+	Query: "Catharus fuscater mappable:1" ; Times: 1
+	Query: "Colombia Aves Boyaca" ; Times: 1
+	Query: "guanajuato" ; Times: 3
+	Query: "Phegornis" ; Times: 1
+	Query: "White-crowned Sparrow" ; Times: 1
+	Query: "colinus virginianus floridanus type:specimen year &gt;= 1961 year &lt;= 1990" ; Times: 1
+	Query: "Sphyrapicus varius year &gt;= 1980" ; Times: 1
+	Query: "colinus virginianus floridanus type:specimen year &gt;= 1880 year &lt;= 1920" ; Times: 1
+	Query: "Granite Mountain" ; Times: 1
+	Query: "Colombia Aves Santander" ; Times: 1
+	Query: "lanius ludovicianus" ; Times: 1
+	Query: "Quail Spring" ; Times: 1
+	Query: "Empidonax minimus year &gt;= 1980" ; Times: 1
+	Query: "pinaroloxias" ; Times: 1
+	Query: "Cypseloides" ; Times: 1
+	Query: "Myophonus" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "type:specimen specificepithet:jamaicensis genus:laterallus" ; Times: 1
+	Query: "Clark county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "stateprovince:&#34;choco&#34;" ; Times: 1
+	Query: "Callipepla californica" ; Times: 1
+	Query: "invertebrate" ; Times: 1
+	Query: "SALTATOR COERULESCENS" ; Times: 1
+	Query: "Calandrella country:&#34;India&#34;" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "cistothorus platensis" ; Times: 1
+	Query: "eudyptes" ; Times: 1
+	Query: "Polioptila californica californica" ; Times: 1
+	Query: "Colombia Aves" ; Times: 1
+	Query: "Mexico" ; Times: 1
+	Query: "colinus virginianus floridanus type:specimen year &gt;= 1920 year &lt;= 1960" ; Times: 1
+	Query: "Agelaius tricolor" ; Times: 1
+	Query: "GUANAJUATO" ; Times: 4
+	Query: "specificepithet:domesticus genus:passer" ; Times: 1
+	Query: "genus:Cotinga mappable:1" ; Times: 1
+	Query: "genus:Otus stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Apodidae" ; Times: 1
+	Query: "falco rufigularis" ; Times: 1
+
+
+End of report.
