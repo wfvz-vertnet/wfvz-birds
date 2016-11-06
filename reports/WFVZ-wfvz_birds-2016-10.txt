@@ -1,0 +1,69 @@
+Report for Institution Code WFVZ, Resource wfvz_birds
+Usage stats for October 2016, generated on 2016/11/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 32
+Number of records retrieved in searches: 2753
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Portugal ; Times: 14
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 6
+	Country: India ; Times: 1
+	Country: United States ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-10-15 ; Times: 1
+	Date: 2016-10-24 ; Times: 2
+	Date: 2016-10-26 ; Times: 1
+	Date: 2016-10-14 ; Times: 7
+	Date: 2016-10-28 ; Times: 1
+	Date: 2016-10-07 ; Times: 1
+	Date: 2016-10-05 ; Times: 2
+	Date: 2016-10-11 ; Times: 1
+	Date: 2016-10-03 ; Times: 14
+	Date: 2016-10-13 ; Times: 1
+	Date: 2016-10-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Numida meleagris 1" ; Times: 1
+	Query: "Pulsatrix melanota " ; Times: 1
+	Query: "Aratinga holochlora 1" ; Times: 1
+	Query: "Thryothorus euophrys " ; Times: 1
+	Query: "Estrilda astrild 1" ; Times: 1
+	Query: " specificepithet:tristis genus:Acridotheres" ; Times: 1
+	Query: "Pandion haliaetus mappable:1" ; Times: 6
+	Query: "Dendrocygna autumnalis 1" ; Times: 1
+	Query: "Uraeginthus bengalus 1" ; Times: 1
+	Query: "Anser cygnoides 1" ; Times: 1
+	Query: "Anas poecilorhyncha 1" ; Times: 1
+	Query: "Colinus virginianus 1" ; Times: 1
+	Query: "mummy" ; Times: 1
+	Query: "mvz AND gymnogyps AND california" ; Times: 2
+	Query: "Poephila guttata 1" ; Times: 1
+	Query: "mvz gymnogyps california" ; Times: 2
+	Query: "Megastictus margaritatus" ; Times: 1
+	Query: "Anas americana 1" ; Times: 1
+	Query: "Euplectes afer 1" ; Times: 1
+	Query: "Aquila rapax 1" ; Times: 1
+	Query: "Cairina moschata 1" ; Times: 1
+	Query: "Psittacula krameri 1" ; Times: 1
+	Query: "witch" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 203 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
