@@ -1,0 +1,243 @@
+Report for Institution Code WFVZ, Resource wfvz_birds
+Usage stats for November 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 221
+Number of records retrieved in searches: 2293
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 15
+	Country: United States ; Times: 190
+	Country: Israel ; Times: 3
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Nepal ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: United Kingdom ; Times: 4
+	Country: China ; Times: 3
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-28 ; Times: 43
+	Date: 2017-11-29 ; Times: 22
+	Date: 2017-11-26 ; Times: 6
+	Date: 2017-11-27 ; Times: 38
+	Date: 2017-11-24 ; Times: 12
+	Date: 2017-11-25 ; Times: 72
+	Date: 2017-11-30 ; Times: 28
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Sphyrapicus class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1894" ; Times: 1
+	Query: "genus:Progne class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1889" ; Times: 1
+	Query: "genus:Salpinctes class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1888" ; Times: 1
+	Query: "black swamp creek" ; Times: 1
+	Query: "108105" ; Times: 3
+	Query: "rubripes minnesota" ; Times: 3
+	Query: "specificepithet:nigricans genus:Sayornis class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1908" ; Times: 1
+	Query: "specificepithet:gilvus genus:Vireo class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1889" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sitta class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1893" ; Times: 1
+	Query: "genus:Geococcyx class:Aves county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 1769 year &lt;= 1892" ; Times: 1
+	Query: "63090" ; Times: 2
+	Query: "specificepithet:formicivorus class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1890" ; Times: 1
+	Query: "genus:Ammodramus county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 2017" ; Times: 1
+	Query: "elf" ; Times: 3
+	Query: "genus:Salpinctes class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1913" ; Times: 1
+	Query: "13083" ; Times: 1
+	Query: "Chondestes grammacus minnesota" ; Times: 1
+	Query: "vntype:specimen genus:Corythaeola continent:Africa year &gt;= 1960 year &lt;= 2017 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Ptilonorhynchus WFVZ" ; Times: 1
+	Query: "mangrove vireo sex:male" ; Times: 4
+	Query: "Aechmophorus minnesota institutioncode:WFVZ" ; Times: 1
+	Query: "specificepithet:corax genus:Corvus class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1894" ; Times: 1
+	Query: "gallinago hardwickii" ; Times: 1
+	Query: "specificepithet:lecontei genus:Toxostoma class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 2017" ; Times: 1
+	Query: "Snowy Owl" ; Times: 2
+	Query: "Falco sparverius tropicalis" ; Times: 1
+	Query: "genus:Contopus class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1893" ; Times: 1
+	Query: "specificepithet:lincolnii class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1890" ; Times: 1
+	Query: "Scelorchilus albicollis" ; Times: 2
+	Query: "specificepithet:atrogularis class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1893" ; Times: 1
+	Query: "coelestis order:Passeriformes" ; Times: 1
+	Query: "Falco sparverius paulus vntype:specimen" ; Times: 1
+	Query: "genus:Phainopepla class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1915" ; Times: 1
+	Query: "Falco sparverius peninsularis" ; Times: 1
+	Query: "egg greenland" ; Times: 2
+	Query: "specificepithet:iliaca class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1888" ; Times: 1
+	Query: "specificepithet:galbula genus:Icterus class:Aves county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 1769" ; Times: 1
+	Query: "vntype:specimen genus:Corythaeola continent:Africa basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:cedrorum genus:Bombycilla class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1890" ; Times: 1
+	Query: "genus:Archilochus class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1895" ; Times: 1
+	Query: "snakes" ; Times: 1
+	Query: "genus:Riparia class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1914" ; Times: 1
+	Query: "genus:Icteria class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1885" ; Times: 1
+	Query: "country:&#34;canada&#34; recordedby:forge" ; Times: 9
+	Query: "Thick-billed Vireo" ; Times: 1
+	Query: "parnell" ; Times: 1
+	Query: "specificepithet:ruber genus:Sphyrapicus class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1904" ; Times: 1
+	Query: "genus:Euphagus class:Aves county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 1769 year &lt;= 1883" ; Times: 1
+	Query: "halcyon smyrnensis" ; Times: 3
+	Query: "Janette Havens 15 celata" ; Times: 1
+	Query: "mvz AND gymnogyps AND california" ; Times: 3
+	Query: "specificepithet:vociferans genus:Tyrannus class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1890" ; Times: 1
+	Query: "alvarez del toro miguel" ; Times: 2
+	Query: "indigotica" ; Times: 1
+	Query: "catalognumber:88314" ; Times: 2
+	Query: "genus:Otus class:Aves stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:cinctus genus:parus class:aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:curvirostre genus:Toxostoma class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 2017" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:Corvus class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1900" ; Times: 1
+	Query: "haliaeetus greenland eggs" ; Times: 1
+	Query: "WFVZ 28661" ; Times: 1
+	Query: "genus:Cotinga" ; Times: 1
+	Query: "class:AVES county:&#34;Monroe&#34; stateprovince:&#34;Florida&#34; year &gt;= 1870 year &lt;= 1900" ; Times: 5
+	Query: "Dacnis venusta venusta" ; Times: 2
+	Query: "class:Aves county:&#34;San Diego&#34; year &gt;= 1884 year &lt;= 1884 month &gt;= 4 month &lt;= 4" ; Times: 1
+	Query: "Diglossa indigotica" ; Times: 2
+	Query: "april payne" ; Times: 2
+	Query: "witch" ; Times: 2
+	Query: "specificepithet:gallus genus:Gallus" ; Times: 1
+	Query: "12642" ; Times: 1
+	Query: "grisescens specificepithet:viridis genus:Tersina" ; Times: 1
+	Query: "sandhill crane" ; Times: 1
+	Query: "albatrus" ; Times: 1
+	Query: "specificepithet:indigotica genus:Diglossa basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Sericulus WFVZ" ; Times: 1
+	Query: "genus:Asio class:Aves county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 1769 year &lt;= 1893" ; Times: 1
+	Query: "Podiceps grisegena minnesota" ; Times: 1
+	Query: "specificepithet:passerina class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1916" ; Times: 1
+	Query: "gray vireo sex:male" ; Times: 8
+	Query: "specificepithet:oberholseri genus:Empidonax class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 2017" ; Times: 1
+	Query: "class:aves recordedby:mummery" ; Times: 7
+	Query: "specificepithet:saya genus:Sayornis class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1890" ; Times: 1
+	Query: "92095" ; Times: 1
+	Query: "specificepithet:trichas class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1894" ; Times: 1
+	Query: "genus:Athene class:Aves county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 1769 year &lt;= 1892" ; Times: 1
+	Query: "specificepithet:nigricans genus:Sayornis class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1884" ; Times: 1
+	Query: "red kite" ; Times: 1
+	Query: "specificepithet:pubescens class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 2017" ; Times: 1
+	Query: "genus:Cistothorus class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1918" ; Times: 1
+	Query: "35377" ; Times: 1
+	Query: "specificepithet:venusta venusta genus:Dacnis hastissue:0" ; Times: 1
+	Query: "45176" ; Times: 1
+	Query: "circus Minnesota" ; Times: 2
+	Query: "specificepithet:pygmaea genus:Sitta class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1936" ; Times: 1
+	Query: "specificepithet:sasin genus:Selasphorus class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1940" ; Times: 1
+	Query: "genus:Passer class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1920" ; Times: 1
+	Query: "specificepithet:solitarius genus:Vireo class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 2017" ; Times: 1
+	Query: "specificepithet:indigotica genus:Diglossa class:Aves" ; Times: 1
+	Query: "genus:erythrura basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Hirundo class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1914" ; Times: 1
+	Query: "genus:Cyanocitta class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1915" ; Times: 1
+	Query: "class:AVES county:&#34;Monroe&#34; stateprovince:&#34;Florida&#34; recordedby:Atkins year &gt;= 1870 year &lt;= 1900" ; Times: 1
+	Query: "surnia ulula minnesota" ; Times: 1
+	Query: "genus:Megascops OR Otus stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "specificepithet:borealis genus:numenius" ; Times: 1
+	Query: "genus:Campylorhynchus class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1895" ; Times: 1
+	Query: "specificepithet:savannarum county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 2017" ; Times: 2
+	Query: "specificepithet:macroura class:Aves county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 1769 year &lt;= 1916" ; Times: 1
+	Query: "specificepithet:tristis class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1904" ; Times: 1
+	Query: "Haliaeetus albicilla greenland" ; Times: 2
+	Query: "class:AVES stateprovince:&#34;Florida&#34; recordedby:Atkins year &gt;= 1870 year &lt;= 1900" ; Times: 1
+	Query: "specificepithet:costae genus:Calypte class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1893" ; Times: 1
+	Query: "genus:Myiarchus class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1893" ; Times: 1
+	Query: "genus:Tyto class:Aves county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 1769 year &lt;= 1905" ; Times: 1
+	Query: "genus:Euphagus class:Aves county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 1769 year &lt;= 1896" ; Times: 1
+	Query: "county:&#34;Henderson&#34; stateprovince:&#34;texas&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "specificepithet:virens class:Aves county:&#34;San Diego&#34; year &gt;= 1769" ; Times: 1
+	Query: "specificepithet:caerulea genus:Polioptila class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1908" ; Times: 1
+	Query: "genus:Cinclus class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 2017" ; Times: 1
+	Query: "genus:Sturnella class:Aves county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 1769 year &lt;= 1880" ; Times: 1
+	Query: "Diglossa cyanea WFVZ 1966" ; Times: 1
+	Query: "specificepithet:melanura genus:Polioptila class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1891" ; Times: 1
+	Query: "specificepithet:Cirrhata genus:fratercula year &gt;= 1960 year &lt;= 1980" ; Times: 3
+	Query: "genus:Turdus class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1914" ; Times: 1
+	Query: "Parnell" ; Times: 1
+	Query: "specificepithet:passerina genus:Columbina class:Aves county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 1769 year &lt;= 1915" ; Times: 1
+	Query: "specificepithet:bellii genus:Vireo class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1918" ; Times: 1
+	Query: "specificepithet:grammacus class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1893" ; Times: 1
+	Query: "Brown-capped Vireo" ; Times: 1
+	Query: "47996" ; Times: 1
+	Query: "specificepithet:redivivum genus:Toxostoma class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1895" ; Times: 1
+	Query: "recordedby:J. C. Thompson" ; Times: 1
+	Query: "Cacomantis merulinus vntype:specimen" ; Times: 1
+	Query: "specificepithet:belli genus:Amphispiza class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1889" ; Times: 1
+	Query: "specificepithet:dorsale genus:Toxostoma class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 2017" ; Times: 1
+	Query: "specificepithet:mexicana genus:Sialia class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1890" ; Times: 1
+	Query: "specificepithet:corax genus:Corvus class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1919" ; Times: 1
+	Query: "Black-vented Shearwater" ; Times: 1
+	Query: "genus:Riparia class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 2017" ; Times: 1
+	Query: "genus:Eremophila class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1889" ; Times: 1
+	Query: "chas adams" ; Times: 1
+	Query: "Tersina viridis grisescens" ; Times: 3
+	Query: "genus:Regulus class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1889" ; Times: 1
+	Query: "genus:Lanius class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1890" ; Times: 1
+	Query: "genus:Cinclus stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "Dacnis venusta" ; Times: 1
+	Query: "142160" ; Times: 1
+	Query: "Cacomantis sonneratii vntype:specimen" ; Times: 1
+	Query: "Malurus WFVZ" ; Times: 2
+	Query: "WFVZ 28661 Diglossa" ; Times: 1
+	Query: "family:Aepyornithidae" ; Times: 1
+	Query: "Aechmophorus minnesota" ; Times: 2
+	Query: "genus:Eremophila class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1881" ; Times: 1
+	Query: "specificepithet:gramineus class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1893" ; Times: 1
+	Query: "Sandhill Crane" ; Times: 1
+	Query: "Bucerotidae" ; Times: 1
+	Query: "Mergus merganser minnesota" ; Times: 1
+	Query: "specificepithet:tristis class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1887" ; Times: 1
+	Query: "specificepithet:rustica class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1914" ; Times: 1
+	Query: "WFVZ Diglossa albilatera Cauca" ; Times: 1
+	Query: "genus:Bubo class:Aves county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 1769 year &lt;= 1893" ; Times: 1
+	Query: "egretta dimorpha" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 28 (out of 1101 download events in this period)
+Total number of records downloaded: 727
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Brazil ; Times: 11
+	Country: Israel ; Times: 2
+	Country: United Kingdom ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-26 ; Times: 11
+	Date: 2017-11-27 ; Times: 9
+	Date: 2017-11-24 ; Times: 1
+	Date: 2017-11-30 ; Times: 5
+	Date: 2017-11-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Cinclodes excelsior" ; Times: 1
+	Query: "greenland aves" ; Times: 1
+	Query: "specificepithet:carbonaria genus:Diglossa country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Conirostrum cinereum" ; Times: 1
+	Query: "halcyon smyrnensis" ; Times: 2
+	Query: "Cinnycerthia unirufa" ; Times: 2
+	Query: "Eriocnemis luciani" ; Times: 1
+	Query: "Iridosornis rufivertex" ; Times: 1
+	Query: "Coeligena lutetiae" ; Times: 1
+	Query: "genus:Cinclus stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "indigotica" ; Times: 1
+	Query: "surnia ulula minnesota" ; Times: 1
+	Query: "genus:Piprites" ; Times: 1
+	Query: "Ptilonorhynchus WFVZ" ; Times: 1
+	Query: "Malurus WFVZ" ; Times: 1
+	Query: "specificepithet:cinctus genus:parus class:aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Melanopareia" ; Times: 1
+	Query: "Falco sparverius tropicalis" ; Times: 1
+	Query: "Grallaria quitensis" ; Times: 1
+	Query: "Anisognathus igniventris" ; Times: 1
+	Query: "Falco sparverius paulus vntype:specimen" ; Times: 1
+	Query: "genus:Terenura" ; Times: 1
+	Query: "Sericulus WFVZ" ; Times: 1
+	Query: "Falco sparverius peninsularis" ; Times: 1
+	Query: "Myioborus melanocephalus" ; Times: 1
+	Query: "Atlapetes pallidinucha" ; Times: 1
+
+
+End of report.
