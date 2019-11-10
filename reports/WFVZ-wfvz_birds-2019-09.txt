@@ -1,0 +1,610 @@
+Report for Institution Code WFVZ, Resource wfvz_birds
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 776
+Number of records retrieved in searches: 50451
+Number of different countries where searches have been originated: 28
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 21
+	Country: Canada ; Times: 14
+	Country: Unknown ; Times: 27
+	Country: Panama ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 13
+	Country: Peru ; Times: 1
+	Country: Argentina ; Times: 22
+	Country: Norway ; Times: 10
+	Country: Ecuador ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Cuba ; Times: 15
+	Country: Germany ; Times: 23
+	Country: Hong Kong ; Times: 1
+	Country: Spain ; Times: 2
+	Country: Netherlands ; Times: 3
+	Country: Denmark ; Times: 12
+	Country: United States ; Times: 542
+	Country: Sweden ; Times: 8
+	Country: Vietnam ; Times: 1
+	Country: New Zealand ; Times: 8
+	Country: Guadeloupe ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 19
+	Country: India ; Times: 6
+	Country: United Kingdom ; Times: 16
+	Country: Colombia ; Times: 4
+	Country: Paraguay ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 5
+	Date: 2019-09-15 ; Times: 3
+	Date: 2019-09-16 ; Times: 26
+	Date: 2019-09-17 ; Times: 12
+	Date: 2019-09-10 ; Times: 33
+	Date: 2019-09-11 ; Times: 17
+	Date: 2019-09-12 ; Times: 11
+	Date: 2019-09-13 ; Times: 20
+	Date: 2019-09-18 ; Times: 28
+	Date: 2019-09-19 ; Times: 47
+	Date: 2019-09-30 ; Times: 9
+	Date: 2019-09-09 ; Times: 19
+	Date: 2019-09-08 ; Times: 2
+	Date: 2019-09-03 ; Times: 40
+	Date: 2019-09-02 ; Times: 5
+	Date: 2019-09-01 ; Times: 11
+	Date: 2019-09-07 ; Times: 21
+	Date: 2019-09-06 ; Times: 190
+	Date: 2019-09-05 ; Times: 29
+	Date: 2019-09-04 ; Times: 77
+	Date: 2019-09-21 ; Times: 5
+	Date: 2019-09-20 ; Times: 14
+	Date: 2019-09-23 ; Times: 24
+	Date: 2019-09-22 ; Times: 15
+	Date: 2019-09-25 ; Times: 23
+	Date: 2019-09-24 ; Times: 28
+	Date: 2019-09-27 ; Times: 16
+	Date: 2019-09-26 ; Times: 24
+	Date: 2019-09-29 ; Times: 13
+	Date: 2019-09-28 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:88985" ; Times: 1
+	Query: "genus:limosa haemastica" ; Times: 1
+	Query: "black-throated blue warbler" ; Times: 1
+	Query: "crete" ; Times: 1
+	Query: "turkish" ; Times: 1
+	Query: "lsumz" ; Times: 3
+	Query: "Rhinoplax vigil" ; Times: 1
+	Query: "LSUMZ" ; Times: 1
+	Query: "Ara macao" ; Times: 2
+	Query: "Campephilus principalis" ; Times: 2
+	Query: "sparkling violetear" ; Times: 3
+	Query: "43180" ; Times: 1
+	Query: "country:&#34;Angola&#34; preparations:eggs" ; Times: 1
+	Query: "specificepithet:cooperii genus:accipiter stateprovince:&#34;kentucky&#34;" ; Times: 1
+	Query: "Cossypha polioptera vntype:specimen sex:female" ; Times: 1
+	Query: "143747" ; Times: 1
+	Query: "family:Spheniscidae sex:Female (Egg OR Ova OR Ovum OR Oviduct OR Ovary)" ; Times: 1
+	Query: "143742" ; Times: 1
+	Query: "Nothocrax urumutum" ; Times: 1
+	Query: "elegans Trogon Female" ; Times: 1
+	Query: "genus:Pygoscelis sex:Female (Ova OR Ovum OR Egg OR Ovary OR Oviduct)" ; Times: 2
+	Query: "genus:Anhinga sex:Female (Egg OR Ova OR Ovum OR Ovary OR Oviduct)" ; Times: 1
+	Query: "187142" ; Times: 3
+	Query: "Ficedula sapphira vntype:specimen" ; Times: 2
+	Query: "lsumz Aves" ; Times: 1
+	Query: "124678" ; Times: 1
+	Query: "tricolored blackbird" ; Times: 1
+	Query: "Anacapa AND 1953 NOT Marine NOT Ich" ; Times: 1
+	Query: "Ceryle AND Barbara" ; Times: 1
+	Query: "palustris warren" ; Times: 2
+	Query: "specificepithet:sonnerati genus:Chloropsis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Lophostrix cristata" ; Times: 1
+	Query: "genus:picumnus institutioncode:WFVZ" ; Times: 1
+	Query: "Nothocrax urumutum NOT (skin OR skel OR sound OR skeleton OR chick OR egg)" ; Times: 1
+	Query: "country:&#34;Liberia&#34; preparations:eggs" ; Times: 2
+	Query: "class:aves country:&#34;russia&#34; year &gt;= 1906 year &lt;= 1906" ; Times: 1
+	Query: "vntype:specimen class:aves locality:machakos (Kyongo) year &gt;= 1964 year &lt;= 1990" ; Times: 1
+	Query: "Los Cabos" ; Times: 1
+	Query: "vntype:specimen class:aves locality:machakos year &gt;= 1964 year &lt;= 1990" ; Times: 2
+	Query: "&#34;1700&#34; &#34;humboldt&#34;" ; Times: 1
+	Query: "ammodramus humeralis 1474" ; Times: 1
+	Query: "specificepithet:lecontei genus:Toxostoma country:&#34;Mexico&#34;" ; Times: 1
+	Query: "41235" ; Times: 1
+	Query: "Cathartes aura mappable:1" ; Times: 1
+	Query: "porzana flaviventer" ; Times: 3
+	Query: "Buceros rhinoceros" ; Times: 3
+	Query: "genus:Buteogallus AND (skin) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "145256" ; Times: 1
+	Query: "arctic tern" ; Times: 2
+	Query: "genus:Larus country:&#34;mongolia&#34;" ; Times: 3
+	Query: "beluga" ; Times: 2
+	Query: "diomedea sanfordi" ; Times: 2
+	Query: "class:Aves catalognumber:84886" ; Times: 1
+	Query: "specificepithet:leucogrammica genus:Ptilocichla basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Cossypha cyanocampter vntype:specimen sex:female" ; Times: 1
+	Query: "lagopus mutus vntype:specimen stateprovince:&#34;newfoundland&#34; AND (NOT buteo)" ; Times: 2
+	Query: "32960" ; Times: 1
+	Query: "Bird skins" ; Times: 1
+	Query: "Aphelocoma californica San Luis Obispo" ; Times: 1
+	Query: "specificepithet:chloris genus:Halcyon year &gt;= 1940" ; Times: 1
+	Query: "laterallus fasciatus" ; Times: 1
+	Query: "21870" ; Times: 1
+	Query: "alcyon AND Island AND California NOT Rhode NOT York NOT Canada NOT Alaska" ; Times: 1
+	Query: "specificepithet:torquatus genus:Atlapetes country:&#34;Costa Rica&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "myiozetetes granadensis" ; Times: 1
+	Query: "zosterops everetti" ; Times: 2
+	Query: "Thryomanes bewickii nesophilus" ; Times: 2
+	Query: "Anacapa AND 1954 NOT Marine NOT Ich NOT Fish" ; Times: 1
+	Query: "genus:Buteogallus NOT (skin egg)" ; Times: 1
+	Query: "Doryfera ludovicae" ; Times: 1
+	Query: "amazilia yucatanensis" ; Times: 3
+	Query: "painted bunting" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Vaupes&#34; country:&#34;Colombia&#34;" ; Times: 2
+	Query: "lanius grinnelli" ; Times: 1
+	Query: "27957" ; Times: 2
+	Query: "Eutoxeres aquila" ; Times: 1
+	Query: "micrus specificepithet:griseus genus:vireo" ; Times: 1
+	Query: "gypaetus france" ; Times: 1
+	Query: "Laterallus fasciatus vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Aphelocoma California. Lake County" ; Times: 1
+	Query: "Perisoreus canadensis alberta clyde" ; Times: 1
+	Query: "Icterus mesomelas salvinii" ; Times: 1
+	Query: "country:&#34;Peru&#34; preparations:eggs" ; Times: 4
+	Query: "Uropsila leucogastra pacifica" ; Times: 1
+	Query: "aquila adalberti" ; Times: 1
+	Query: "genus:gymnogyps" ; Times: 1
+	Query: "specimen 187142" ; Times: 1
+	Query: "Muscicapa cassini vntype:specimen" ; Times: 1
+	Query: "parus cyanus" ; Times: 1
+	Query: "Aphelocoma coerulescens coerulescens" ; Times: 46
+	Query: "115807" ; Times: 1
+	Query: "1282 Catharus" ; Times: 1
+	Query: "Ramphocoris clotbey" ; Times: 1
+	Query: "45335" ; Times: 1
+	Query: "specificepithet:Chrysoptera genus:Vermivora stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "ruby-throated hummingbird" ; Times: 1
+	Query: "Sharks" ; Times: 2
+	Query: "snakes" ; Times: 1
+	Query: "specificepithet:californianus genus:gymnogyps" ; Times: 2
+	Query: "ptarmigan newfoundland" ; Times: 1
+	Query: "Pionus senilis" ; Times: 1
+	Query: "Heliodoxa schreibersii" ; Times: 1
+	Query: "Ficedula superciliaris" ; Times: 1
+	Query: "Myophonus blighi vntype:specimen" ; Times: 1
+	Query: "spotted owl" ; Times: 2
+	Query: "palumbus Columba" ; Times: 3
+	Query: "Centrocercus urophasianus" ; Times: 10
+	Query: "Lamb AND Podiceps" ; Times: 1
+	Query: "hemicircus concretus" ; Times: 1
+	Query: "alcyon AND Island AND California NOT York" ; Times: 1
+	Query: "huatulco" ; Times: 1
+	Query: "genus:salpornis" ; Times: 2
+	Query: "newfoundland vntype:specimen (lagopus mutus)" ; Times: 1
+	Query: "Lepidoptera" ; Times: 2
+	Query: "laterallus leucopyrrhus vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "gray fox" ; Times: 26
+	Query: "Ludlow tibet" ; Times: 1
+	Query: "Ummz 176890" ; Times: 1
+	Query: "weka" ; Times: 1
+	Query: "Chlorostilbon bracei" ; Times: 4
+	Query: "giant kingbird" ; Times: 2
+	Query: "country:&#34;Ghana&#34; preparations:eggs" ; Times: 1
+	Query: "Serinus canaria canaria" ; Times: 1
+	Query: "Green kingfisher" ; Times: 1
+	Query: "45812" ; Times: 1
+	Query: "oceanites oceanicus" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 30
+	Query: "Aphelocoma californica Ventura County" ; Times: 1
+	Query: "otus nudipes" ; Times: 1
+	Query: "specificepithet:pulverulentus genus:Mulleripicus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "tacubaya" ; Times: 1
+	Query: "country:&#34;canada&#34; recordedby:beasley" ; Times: 3
+	Query: "Junco hyemalis stateprovince:&#34;Pennsylvania&#34; month &gt;= 5 month &lt;= 8" ; Times: 1
+	Query: "Vireo belli" ; Times: 1
+	Query: "specificepithet:corvina genus:Terpsiphone" ; Times: 5
+	Query: "218147" ; Times: 1
+	Query: "tonameca" ; Times: 1
+	Query: "Phaethornis pretrei" ; Times: 1
+	Query: "specificepithet:ararauna genus:Ara year &gt;= 1970 hassex:1" ; Times: 1
+	Query: "kiwi" ; Times: 1
+	Query: "genus:picumnus country:&#34;Argentina&#34; institutioncode:WFVZ" ; Times: 2
+	Query: "Grizzly bear" ; Times: 1
+	Query: "14150" ; Times: 1
+	Query: "Laterallus leucopyrrhus" ; Times: 4
+	Query: "locality:Aptos county:&#34;Santa Cruz&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "vntype:specimen stateprovince:&#34;Newfoundland&#34; (lagopus) AND (not buteo)" ; Times: 1
+	Query: "amazilia boucardi" ; Times: 1
+	Query: "butterfly" ; Times: 1
+	Query: "Melanotrochilus fuscus" ; Times: 1
+	Query: "Myrmecocichla aethiops vntype:specimen" ; Times: 1
+	Query: "specificepithet:livia genus:Columba year &lt;= 2000" ; Times: 1
+	Query: "Tangara guttata" ; Times: 1
+	Query: "catalognumber:20459" ; Times: 1
+	Query: "Henicorhina leucosticta" ; Times: 1
+	Query: "alcyon AND Island AND California NOT York NOT Canada NOT Alaska" ; Times: 1
+	Query: "212029" ; Times: 1
+	Query: "Tyrannus cubensis" ; Times: 11
+	Query: "67501" ; Times: 1
+	Query: "45583" ; Times: 1
+	Query: "Anacapa AND 1951" ; Times: 1
+	Query: "Lophornis magnifica" ; Times: 1
+	Query: "Calidris canutus" ; Times: 20
+	Query: "Nycticorax caledonicus caledonicus" ; Times: 1
+	Query: "Amaurospiza relicta" ; Times: 1
+	Query: "catalognumber:67286" ; Times: 1
+	Query: "laterallus ruber vntype:specimen" ; Times: 1
+	Query: "69308" ; Times: 1
+	Query: "genus:CALLONETTA country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Gopher Snake" ; Times: 1
+	Query: "vntype:specimen specificepithet:californianus genus:gymnogyps" ; Times: 3
+	Query: "alcyon AND Island" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; distance(location,geopoint(35.40058605939291,-101.37433816395258))&lt;34620.46525113693" ; Times: 1
+	Query: "specificepithet:bulweri genus:Lophura basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "black swift" ; Times: 1
+	Query: "Cossypha polioptera vntype:specimen" ; Times: 1
+	Query: "217271" ; Times: 1
+	Query: "141412" ; Times: 1
+	Query: "anhimidae" ; Times: 1
+	Query: "country:&#34;Sierra&#34; preparations:eggs" ; Times: 1
+	Query: "Nothocrax urumutum NOT (skin OR skel OR skeleton OR chick OR egg)" ; Times: 1
+	Query: "136325" ; Times: 1
+	Query: "72764" ; Times: 1
+	Query: "locality:Balboa Park" ; Times: 1
+	Query: "138118" ; Times: 1
+	Query: "138119" ; Times: 1
+	Query: "Nyctiphrynus mcleodii" ; Times: 1
+	Query: "mvz AND gymnogyps AND california" ; Times: 2
+	Query: "specificepithet:atricapillus class:aves year &gt;= 1906 year &lt;= 1906" ; Times: 1
+	Query: "Lissotis notophila" ; Times: 1
+	Query: "84733" ; Times: 1
+	Query: "Anacapa AND 1953 NOT Marine" ; Times: 1
+	Query: "Myrmecocichla aethiops vntype:specimen sex:female" ; Times: 1
+	Query: "ramphocinclus brachyurus" ; Times: 3
+	Query: "Ficedula dumetoria" ; Times: 3
+	Query: "family:Phasianidae order:Galliformes stateprovince:&#34;Newfoundland&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "Anacapa AND 1951 NOT Marine" ; Times: 1
+	Query: "Ceryle AND Cruz" ; Times: 1
+	Query: "pelecanoides urinatrix kerguelen" ; Times: 1
+	Query: "catalognumber:105366" ; Times: 1
+	Query: "specificepithet:glandarius class:aves year &gt;= 1906 year &lt;= 1906" ; Times: 1
+	Query: "laterallus melanophaius vntype:specimen" ; Times: 1
+	Query: "campephilus principalis" ; Times: 1
+	Query: "&#34;White-crowned pigeon&#34;" ; Times: 1
+	Query: "47798" ; Times: 1
+	Query: "spix aves" ; Times: 1
+	Query: "kingi" ; Times: 1
+	Query: "genus:Zosterops continent:North America" ; Times: 1
+	Query: "Heliodoxa rubinoides" ; Times: 1
+	Query: "catalognumber:84886" ; Times: 1
+	Query: "purple finch" ; Times: 1
+	Query: "catalognumber:5481" ; Times: 1
+	Query: "Klais guimeti" ; Times: 1
+	Query: "Eremophila alpestris" ; Times: 12
+	Query: "Aphelocoma coerulescens" ; Times: 73
+	Query: "67424" ; Times: 1
+	Query: "Encelia farinosa" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;newfoundland&#34; (lagopus mutus) AND (NOT buteo)" ; Times: 2
+	Query: "Corvus brachyrhynchos colorado" ; Times: 1
+	Query: "191385" ; Times: 1
+	Query: "country:&#34;French Polynesia&#34; preparations:eggs" ; Times: 1
+	Query: "Campylopterus hyperythrus" ; Times: 1
+	Query: "vireo bellii san diego" ; Times: 1
+	Query: "collared dove" ; Times: 1
+	Query: "Ara ararauna" ; Times: 1
+	Query: "Cygnus buccinator" ; Times: 3
+	Query: "Aphelocoma utah county" ; Times: 1
+	Query: "Amazilia chionopectus" ; Times: 1
+	Query: "Verditer Flycatcher" ; Times: 1
+	Query: "Anacapa AND 1952 NOT Marine" ; Times: 1
+	Query: "Subantarctic Diving-Petrel" ; Times: 4
+	Query: "vntype:specimen stateprovince:&#34;Newfoundland&#34; (lagopus) AND (Not buteo OR vulpes)" ; Times: 1
+	Query: "locality:big lake county:&#34;shasta&#34;" ; Times: 1
+	Query: "Leucippus chlorocercus" ; Times: 1
+	Query: "Phoenicurus moussieri" ; Times: 6
+	Query: "Pittasoma country:&#34;Costa rica&#34;" ; Times: 2
+	Query: "Caprimulgus enarratus" ; Times: 4
+	Query: "chestnut-sided warbler" ; Times: 1
+	Query: "Pelecanus philippensis" ; Times: 1
+	Query: "75277" ; Times: 1
+	Query: "longicauda warren" ; Times: 1
+	Query: "specificepithet:albonotatus genus:Buteo stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Saxicola leucura vntype:specimen" ; Times: 1
+	Query: "sayornis quiescens" ; Times: 1
+	Query: "accipiter cooperii stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "genus:Lagopus family:Phasianidae order:Galliformes stateprovince:&#34;Newfoundland&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "Pelecanus occidentalis californicus" ; Times: 1
+	Query: "&#34;Nyc&#34; vntype:specimen specificepithet:chalybea genus:Progne year &gt;= 1952 year &lt;= 1953 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "velox williamson" ; Times: 3
+	Query: "laterallus leucopyrrhus" ; Times: 3
+	Query: "70455" ; Times: 1
+	Query: "170432" ; Times: 1
+	Query: "Casuarius casuarius" ; Times: 2
+	Query: "genus:Pelecanus sex:Female (Egg OR Ova OR Ovum OR Ovary OR Oviduct)" ; Times: 1
+	Query: "overington" ; Times: 2
+	Query: "Thryomanes bewickii catalinae" ; Times: 1
+	Query: "Anacapa AND 1957 NOT Marine NOT Ich NOT Fish" ; Times: 1
+	Query: "Ictinia mississippiensis" ; Times: 1
+	Query: "187549" ; Times: 1
+	Query: "Empidonax traillii" ; Times: 24
+	Query: "California condor" ; Times: 1
+	Query: "11963" ; Times: 1
+	Query: "catalognumber:5841" ; Times: 1
+	Query: "Aves Pyrenees" ; Times: 4
+	Query: "open bay" ; Times: 1
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "country:&#34;Colombia&#34; (myiozetetes granadensis)" ; Times: 1
+	Query: "Myophonus glaucinus" ; Times: 1
+	Query: "Cinclodes nigrofumosus" ; Times: 2
+	Query: "Anacapa AND 1956 NOT Marine NOT Ich NOT Fish" ; Times: 1
+	Query: "Lions" ; Times: 2
+	Query: "Condors" ; Times: 1
+	Query: "specificepithet:erythrophthalma genus:Lophura basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Clytolaema rubricauda" ; Times: 1
+	Query: "114704" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "AG county:&#34;los angeles&#34;" ; Times: 1
+	Query: "41149" ; Times: 1
+	Query: "Pseudonestor xanthophrys" ; Times: 1
+	Query: "genus:anser country:&#34;mongolia&#34;" ; Times: 4
+	Query: "locality:vicente stateprovince:&#34;baja california&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "alcyon AND Island AND California NOT York NOT Canada" ; Times: 1
+	Query: "Ictinia mississippiensis distance(location,geopoint(33.80220134903146,-98.21587224960564))&lt;100000" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Newfoundland&#34; (lagopus mutus) AND (NOT buteo)" ; Times: 3
+	Query: "genus:Buteogallus NOT (skin)" ; Times: 1
+	Query: "specificepithet:virescens genus:Butorides class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 5
+	Query: "145583" ; Times: 1
+	Query: "145585" ; Times: 1
+	Query: "specificepithet:principalis genus:campephilus basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "145589" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Newfoundland&#34; (Lagopus) AND (NOT Buteo)" ; Times: 1
+	Query: "country:&#34;Indonesia&#34; preparations:eggs" ; Times: 1
+	Query: "42180" ; Times: 1
+	Query: "Anacapa AND 1955 NOT Marine NOT Ich NOT Fish" ; Times: 1
+	Query: "country:&#34;Cameroon&#34; preparations:eggs" ; Times: 1
+	Query: "135738" ; Times: 1
+	Query: "sibirica Iris" ; Times: 2
+	Query: "recordedby:hatch year &gt;= 1910 year &lt;= 1930" ; Times: 1
+	Query: "136319" ; Times: 1
+	Query: "country:&#34;Nigeria&#34; preparations:eggs" ; Times: 1
+	Query: "Pyrilia pyrilia" ; Times: 1
+	Query: "racoon" ; Times: 1
+	Query: "pelecanoides kerguelen" ; Times: 2
+	Query: "black bear" ; Times: 1
+	Query: "salpornis spilonotus" ; Times: 1
+	Query: "specificepithet:capellei genus:Treron basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "15722" ; Times: 1
+	Query: "32980" ; Times: 1
+	Query: "Anacapa AND 1954 NOT Marine NOT Ich" ; Times: 1
+	Query: "upland sandpiper" ; Times: 2
+	Query: "ara macao" ; Times: 1
+	Query: "genus:Lagopus stateprovince:&#34;Newfoundland&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "Aphelocoma New Mexico Grant County" ; Times: 1
+	Query: "107488" ; Times: 1
+	Query: "Apteryx" ; Times: 7
+	Query: "vntype:specimen stateprovince:&#34;Newfoundland&#34; (Lagopus) AND (Buteo)" ; Times: 1
+	Query: "harpia harpyja" ; Times: 1
+	Query: "aquila pyrenees" ; Times: 1
+	Query: "class:aves stateprovince:&#34;scotland&#34; recordedby:ormond year &gt;= 1890 year &lt;= 1905" ; Times: 1
+	Query: "tufted titmouse" ; Times: 1
+	Query: "lagopus mutus newfoundland" ; Times: 1
+	Query: "labrador duck" ; Times: 3
+	Query: "county:&#34;Wilbarger&#34;" ; Times: 1
+	Query: "fire-throated hummingbird" ; Times: 1
+	Query: "specificepithet:zeylanicus genus:Pycnonotus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Schistes geoffroyi" ; Times: 2
+	Query: "Fregata magnificens" ; Times: 1
+	Query: "cypseloides niger" ; Times: 1
+	Query: "catalognumber:90926" ; Times: 1
+	Query: "country:&#34;Colombia&#34; preparations:eggs" ; Times: 5
+	Query: "sharp tailed grouse" ; Times: 1
+	Query: "Prinia rufescens" ; Times: 2
+	Query: "Heliangelus viola" ; Times: 2
+	Query: "cardinalis affinis" ; Times: 3
+	Query: "melanodera xanthogramma" ; Times: 1
+	Query: "141501" ; Times: 1
+	Query: "Metallura theresiae" ; Times: 1
+	Query: "laterallus albigularis vntype:specimen" ; Times: 1
+	Query: "Aphelocoma californica Santa Clara County" ; Times: 1
+	Query: "county:&#34;zapotlan&#34; stateprovince:&#34;Jalisco&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "Nothocrax urumutum NOT (skin OR skel OR skeleton OR chick)" ; Times: 1
+	Query: "alcyon AND Island AND California" ; Times: 1
+	Query: "class:aves stateprovince:&#34;scotland&#34; recordedby:ormond" ; Times: 1
+	Query: "genus:Buteogallus AND (skin)" ; Times: 1
+	Query: "specificepithet:tristis genus:Meiglyptes basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:principalis genus:Campephilus" ; Times: 1
+	Query: "52606" ; Times: 1
+	Query: "Heliodoxa aurescens" ; Times: 1
+	Query: "laterallus albigularis" ; Times: 1
+	Query: "37768" ; Times: 2
+	Query: "Apteryx australis" ; Times: 2
+	Query: "specificepithet:euryzona genus:Alcedo basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Anodorhynchus hyacinthinus" ; Times: 7
+	Query: "Coccyzus americanus americanus" ; Times: 54
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 158 (out of 1073 download events in this period)
+Total number of records downloaded: 8783
+Number of different countries: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 38
+	Country: Canada ; Times: 2
+	Country: Peru ; Times: 1
+	Country: Singapore ; Times: 2
+	Country: Unknown ; Times: 29
+	Country: Mexico ; Times: 8
+	Country: Cuba ; Times: 3
+	Country: Costa Rica ; Times: 1
+	Country: United States ; Times: 50
+	Country: Sweden ; Times: 1
+	Country: Rwanda ; Times: 1
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 8
+	Country: Switzerland ; Times: 2
+	Country: Argentina ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-16 ; Times: 7
+	Date: 2019-09-17 ; Times: 3
+	Date: 2019-09-10 ; Times: 44
+	Date: 2019-09-11 ; Times: 19
+	Date: 2019-09-13 ; Times: 2
+	Date: 2019-09-18 ; Times: 4
+	Date: 2019-09-19 ; Times: 24
+	Date: 2019-09-30 ; Times: 2
+	Date: 2019-09-09 ; Times: 9
+	Date: 2019-09-03 ; Times: 2
+	Date: 2019-09-02 ; Times: 3
+	Date: 2019-09-07 ; Times: 1
+	Date: 2019-09-06 ; Times: 1
+	Date: 2019-09-05 ; Times: 5
+	Date: 2019-09-04 ; Times: 1
+	Date: 2019-09-21 ; Times: 6
+	Date: 2019-09-20 ; Times: 1
+	Date: 2019-09-23 ; Times: 2
+	Date: 2019-09-22 ; Times: 1
+	Date: 2019-09-24 ; Times: 11
+	Date: 2019-09-27 ; Times: 5
+	Date: 2019-09-26 ; Times: 3
+	Date: 2019-09-29 ; Times: 1
+	Date: 2019-09-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "Glaucis hirsuta" ; Times: 1
+	Query: "Streptopelia decaocto" ; Times: 1
+	Query: "pelecanoides" ; Times: 1
+	Query: "black-throated blue warbler" ; Times: 1
+	Query: "Lophornis magnifica" ; Times: 1
+	Query: "strix occidentalis" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 1
+	Query: "class:aves stateprovince:&#34;scotland&#34; year &gt;= 1890 year &lt;= 1905" ; Times: 2
+	Query: "Atlapetes latinuchus" ; Times: 1
+	Query: "Laterallus fasciatus vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Clytolaema rubricauda" ; Times: 1
+	Query: "Phaethornis eurynome" ; Times: 1
+	Query: "chihuahua" ; Times: 2
+	Query: "Phaethornis syrmatophorus" ; Times: 1
+	Query: "Eupetomena macroura" ; Times: 1
+	Query: "Eutoxeres aquila" ; Times: 1
+	Query: "Chlorostilbon aureoventris" ; Times: 1
+	Query: "Uropsila leucogastra pacifica" ; Times: 1
+	Query: "laterallus ruber vntype:specimen" ; Times: 1
+	Query: "order:psittaciformes haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Haplophaedia aureliae" ; Times: 1
+	Query: "Coeligena iris" ; Times: 1
+	Query: "Hylocharis chrysura" ; Times: 1
+	Query: "Chrysolampis mosquitus" ; Times: 1
+	Query: "anas georgica" ; Times: 1
+	Query: "Chlorostilbon mellisugus" ; Times: 2
+	Query: "ants" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Newfoundland&#34; (lagopus) AND (NOT buteo)" ; Times: 11
+	Query: "Mixtepec" ; Times: 1
+	Query: "Cyanocorax affinis" ; Times: 1
+	Query: "Coeligena torquata" ; Times: 1
+	Query: "specificepithet:icterus genus:Icterus" ; Times: 2
+	Query: "Phaethornis ruber" ; Times: 2
+	Query: "Pterodroma vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Iridosornis analis" ; Times: 1
+	Query: "specificepithet:principalis genus:campephilus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Lafresnaya lafresnayi" ; Times: 1
+	Query: "nucifraga columbiana" ; Times: 2
+	Query: "Amazilia franciae" ; Times: 1
+	Query: "Lesbia" ; Times: 1
+	Query: "Metallura theresiae" ; Times: 1
+	Query: "Aglaeactis cupripennis" ; Times: 1
+	Query: "pitta" ; Times: 1
+	Query: "Chlorostilbon notatus" ; Times: 1
+	Query: "Amazilia chionogaster" ; Times: 2
+	Query: "Colibri coruscans" ; Times: 1
+	Query: "Tangara labradorides" ; Times: 1
+	Query: "Ramphodon naevius" ; Times: 1
+	Query: "Thalurania glaucopis" ; Times: 1
+	Query: "Heliodoxa schreibersii" ; Times: 1
+	Query: "Chrysuronia oenone" ; Times: 1
+	Query: "lagopus newfoundland vntype:specimen" ; Times: 1
+	Query: "Turdus nudigenis" ; Times: 1
+	Query: "porzana flaviventer" ; Times: 1
+	Query: "laterallus melanophaius vntype:specimen" ; Times: 1
+	Query: "Campylopterus hyperythrus" ; Times: 1
+	Query: "Charadrius mongolus" ; Times: 2
+	Query: "Chlorospingus canigularis" ; Times: 1
+	Query: "class:aves stateprovince:&#34;kilimanjaro&#34; country:&#34;tanzania&#34;" ; Times: 1
+	Query: "Juchatengo" ; Times: 1
+	Query: "muscisaxicola hasmass:1" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Newfoundland&#34; (lagopus) AND (NOT Buteo)" ; Times: 1
+	Query: "Anthracothorax nigricollis" ; Times: 1
+	Query: "huatulco" ; Times: 1
+	Query: "Hylocharis cyanus" ; Times: 1
+	Query: "Heliodoxa rubinoides" ; Times: 1
+	Query: "laterallus leucopyrrhus vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen class:aves locality:machakos year &gt;= 1964 year &lt;= 1990" ; Times: 1
+	Query: "ptarmigan newfoundland" ; Times: 1
+	Query: "genus:Lagopus stateprovince:&#34;Newfoundland&#34; country:&#34;Canada&#34;" ; Times: 2
+	Query: "Coeligena violifer" ; Times: 1
+	Query: "specificepithet:lecontei genus:Toxostoma country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Amazilia viridigaster" ; Times: 1
+	Query: "Heliodoxa leadbeateri" ; Times: 1
+	Query: "Anairetes reguloides" ; Times: 1
+	Query: "Amazilia tobaci" ; Times: 1
+	Query: "Boissonneaua matthewsii" ; Times: 1
+	Query: "family:cracidae" ; Times: 1
+	Query: "class:aves stateprovince:&#34;scotland&#34; year &gt;= 1905 year &lt;= 1915" ; Times: 1
+	Query: "celebensis" ; Times: 1
+	Query: "amazilia boucardi" ; Times: 1
+	Query: "Melanotrochilus fuscus" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;newfoundland&#34; (lagopus) AND (NOT buteo NOT Alopex NOT Vulpes)" ; Times: 3
+	Query: "genus:Larus country:&#34;mongolia&#34;" ; Times: 1
+	Query: "Schistes geoffroyi" ; Times: 1
+	Query: "Ara macao" ; Times: 2
+	Query: "Adelomyia melanogenys" ; Times: 1
+	Query: "lachao" ; Times: 1
+	Query: "canorus" ; Times: 1
+	Query: "Amazilia chionopectus" ; Times: 1
+	Query: "Basileuterus tristriatus" ; Times: 1
+	Query: "tonameca" ; Times: 1
+	Query: "Phaethornis pretrei" ; Times: 1
+	Query: "Leucippus chlorocercus" ; Times: 1
+	Query: "Metallura tyrianthina" ; Times: 1
+	Query: "Zonotrichia capensis" ; Times: 1
+	Query: "Chlorestes notatus" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Myioborus ornatus" ; Times: 1
+	Query: "Ensifera ensifera" ; Times: 1
+	Query: "Heliangelus viola" ; Times: 1
+	Query: "Eriocnemis luciani" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Newfoundland&#34; (Lagopus) AND (NOT Buteo)" ; Times: 3
+	Query: "class:Aves country:&#34;Kenya&#34; recordedby:charles" ; Times: 1
+	Query: "laterallus albigularis vntype:specimen" ; Times: 1
+	Query: "anas flavirostris" ; Times: 2
+	Query: "Heliomaster furcifer" ; Times: 1
+	Query: "order:passeriformes haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Newfoundland&#34; (lagopus) AND (not buteo)" ; Times: 1
+	Query: "Lesbia nuna" ; Times: 1
+	Query: "pachyptila" ; Times: 1
+	Query: "Campylopterus largipennis" ; Times: 1
+	Query: "Heliangelus amethysticollis" ; Times: 1
+	Query: "Myrtis fanny" ; Times: 1
+	Query: "Coeligena coeligena" ; Times: 1
+	Query: "Heliomaster longirostris" ; Times: 1
+	Query: "Heliodoxa aurescens" ; Times: 1
+	Query: "Heliothryx aurita" ; Times: 1
+	Query: "Tyrannus cubensis" ; Times: 3
+	Query: "Calliphlox amethystina" ; Times: 1
+	Query: "Stephanoxis lalandi" ; Times: 1
+	Query: "Myioborus miniatus" ; Times: 1
+	Query: "Doryfera ludovicae" ; Times: 1
+	Query: "Myioborus melanocephalus" ; Times: 2
+	Query: "Ocreatus underwoodii" ; Times: 1
+	Query: "Leucochloris albicollis" ; Times: 1
+	Query: "Henicorhina leucosticta" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Vaupes&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Thalurania furcata" ; Times: 1
+
+
+End of report.
