@@ -1,0 +1,868 @@
+Report for Institution Code WFVZ, Resource wfvz_birds
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1597
+Number of records retrieved in searches: 52366
+Number of different countries where searches have been originated: 27
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 38
+	Country: Turkey ; Times: 4
+	Country: Italy ; Times: 1
+	Country: Unknown ; Times: 16
+	Country: France ; Times: 6
+	Country: Peru ; Times: 26
+	Country: Argentina ; Times: 2
+	Country: Ecuador ; Times: 3
+	Country: Australia ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: Germany ; Times: 17
+	Country: Chile ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Thailand ; Times: 44
+	Country: Hong Kong ; Times: 1
+	Country: Netherlands ; Times: 8
+	Country: Denmark ; Times: 18
+	Country: Philippines ; Times: 1
+	Country: United States ; Times: 1268
+	Country: Sweden ; Times: 2
+	Country: Brazil ; Times: 33
+	Country: Mexico ; Times: 57
+	Country: India ; Times: 16
+	Country: United Kingdom ; Times: 15
+	Country: Austria ; Times: 2
+	Country: Colombia ; Times: 13
+	Country: Cyprus ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-19 ; Times: 96
+	Date: 2019-11-18 ; Times: 62
+	Date: 2019-11-30 ; Times: 3
+	Date: 2019-11-15 ; Times: 151
+	Date: 2019-11-14 ; Times: 110
+	Date: 2019-11-17 ; Times: 31
+	Date: 2019-11-16 ; Times: 162
+	Date: 2019-11-11 ; Times: 56
+	Date: 2019-11-10 ; Times: 36
+	Date: 2019-11-13 ; Times: 34
+	Date: 2019-11-12 ; Times: 32
+	Date: 2019-11-08 ; Times: 146
+	Date: 2019-11-09 ; Times: 73
+	Date: 2019-11-06 ; Times: 116
+	Date: 2019-11-07 ; Times: 191
+	Date: 2019-11-20 ; Times: 52
+	Date: 2019-11-21 ; Times: 18
+	Date: 2019-11-22 ; Times: 24
+	Date: 2019-11-23 ; Times: 2
+	Date: 2019-11-24 ; Times: 5
+	Date: 2019-11-25 ; Times: 16
+	Date: 2019-11-26 ; Times: 14
+	Date: 2019-11-27 ; Times: 17
+	Date: 2019-11-28 ; Times: 9
+	Date: 2019-11-29 ; Times: 14
+	Date: 2019-11-04 ; Times: 52
+	Date: 2019-11-05 ; Times: 29
+	Date: 2019-11-02 ; Times: 15
+	Date: 2019-11-03 ; Times: 5
+	Date: 2019-11-01 ; Times: 26
+
+List of queries that retrieved data from the resource: 
+	Query: "Charadrius melodus 2009" ; Times: 4
+	Query: "Oceanodroma leucorhoa AND Coronados AND Howell AND 1910" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND Bancroft" ; Times: 1
+	Query: "Pandion haliaetus haliaetus hasmass:1" ; Times: 1
+	Query: "Charadrius melodus 2003" ; Times: 4
+	Query: "Strix occidentalis lucida 2016" ; Times: 3
+	Query: "catalognumber:10930 institutioncode:WFVZ" ; Times: 2
+	Query: "Aquila chrysaetos year &gt; 1990" ; Times: 1
+	Query: "Vireo bellii pusillus" ; Times: 1
+	Query: "53648" ; Times: 1
+	Query: "Rissa tridactyla egg" ; Times: 1
+	Query: "junco vulcani" ; Times: 1
+	Query: "specificepithet:alba genus:Tyto (stomach)" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "18819" ; Times: 1
+	Query: "Buteo platypterus mexico" ; Times: 1
+	Query: "Asio otus otus hasmass:1" ; Times: 1
+	Query: "specificepithet:flammeus genus:Asio hasmass:1 haslength:1" ; Times: 1
+	Query: "class:aves country:&#34;taiwan&#34; continent:asia recordedby:fennell" ; Times: 1
+	Query: "Crossin AND Coronados" ; Times: 3
+	Query: "country:india large-billed leaf warbler" ; Times: 1
+	Query: "Himantopus himantopus himantopus hasmass:1" ; Times: 1
+	Query: "Vireo bellii pusillus 2010" ; Times: 3
+	Query: "Vireo bellii pusillus 2011" ; Times: 3
+	Query: "Vireo bellii pusillus 2013" ; Times: 3
+	Query: "Vireo bellii pusillus 2014" ; Times: 3
+	Query: "Vireo bellii pusillus 2015" ; Times: 3
+	Query: "Vireo bellii pusillus 2016" ; Times: 3
+	Query: "Polioptila californica californica 2007" ; Times: 4
+	Query: "Sitta pygmaea pinos" ; Times: 1
+	Query: "Mycteria americana 1973" ; Times: 4
+	Query: "Mycteria americana 1972" ; Times: 4
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1913 AND Dickey NOT Howell NOT Rossem NOT Stephens" ; Times: 1
+	Query: "ummz aves 162101" ; Times: 1
+	Query: "catalognumber:73145" ; Times: 1
+	Query: "Strix occidentalis caurina 1981" ; Times: 3
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1913 NOT Rossem" ; Times: 1
+	Query: "Sitta pusilla vntype:specimen year &gt;= 1985" ; Times: 1
+	Query: "locality:new hanover" ; Times: 1
+	Query: "specificepithet:phasianellus family:Cuculidae" ; Times: 1
+	Query: "154655" ; Times: 1
+	Query: "catalognumber:74838" ; Times: 1
+	Query: "cossypha polioptera" ; Times: 1
+	Query: "Heterospizias meridionalis hasmass:1" ; Times: 1
+	Query: "genus:Rallus stateprovince:&#34;Arizona&#34;" ; Times: 3
+	Query: "175910" ; Times: 1
+	Query: "Oceanodroma homochroa AND Farallon AND Winthars NOT Rowley NOT Gifford NOT Wheeler NOT Painton NOT Mailliard NOT Osgood NOT Craig NOT Emerson NOT Barlow" ; Times: 1
+	Query: "specificepithet:conirostris genus:Arremonops country:&#34;Colombia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Edward von Siebold Dingle" ; Times: 1
+	Query: "specificepithet:levaillantii genus:francolinus country:&#34;kenya&#34;" ; Times: 2
+	Query: "Phylloscopus borealis borealis hasmass:1" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1920 AND Field" ; Times: 1
+	Query: "&#34;James Bond&#34;" ; Times: 1
+	Query: "Heliangelus mavors vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Falco sparverius vntype:specimen country:&#34;Cuba&#34;" ; Times: 2
+	Query: "Falco sparverius vntype:specimen stateprovince:&#34;Washington&#34;" ; Times: 3
+	Query: "vntype:specimen specificepithet:Kirtlandii genus:dendroica country:&#34;United States&#34;" ; Times: 1
+	Query: "W. T. Everett" ; Times: 1
+	Query: "Oceanodroma homochroa AND Farallon AND Ray NOT Carriger NOT Fair NOT Anthony NOT HRT NOT Beeman NOT Taylor NOT Winthars NOT Rowley NOT Gifford NOT Wheeler NOT Painton NOT Mailliard NOT Osgood NOT Craig NOT Emerson NOT Barlow" ; Times: 1
+	Query: "yellow-vented bulbul" ; Times: 1
+	Query: "166631" ; Times: 1
+	Query: "Sternula antillarum browni 1990" ; Times: 3
+	Query: "Lampornis castaneoventris" ; Times: 1
+	Query: "large-billed leaf warbler" ; Times: 1
+	Query: "Brachyramphus marmoratus 1992" ; Times: 5
+	Query: "western yellow bat" ; Times: 1
+	Query: "genus:Rallus county:&#34;Riverside&#34;" ; Times: 1
+	Query: "64191" ; Times: 1
+	Query: "bensoni vntype:specimen class:aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:vicinior genus:Vireo country:&#34;Mexico&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:carbonaria genus:Diglossa country:&#34;Colombia&#34;" ; Times: 1
+	Query: "class:Aves (139478)" ; Times: 1
+	Query: "86668" ; Times: 1
+	Query: "seaside sparrow" ; Times: 1
+	Query: "Oceanodroma homochroa AND Farallon NOT Stager NOT Ray NOT Carriger NOT Fair NOT Anthony NOT HRT NOT Beeman NOT Taylor NOT Winthars NOT Rowley NOT Gifford NOT Wheeler NOT Painton NOT Mailliard NOT Osgood NOT Craig NOT Emerson NOT Barlow" ; Times: 1
+	Query: "Ninor 1920" ; Times: 1
+	Query: "vntype:specimen specificepithet:gunningi class:aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Coccyzus americanus 1979" ; Times: 4
+	Query: "&#34;James Bond&#34; Aves eggs" ; Times: 1
+	Query: "95833" ; Times: 1
+	Query: "Coccyzus americanus 1977" ; Times: 4
+	Query: "95836" ; Times: 1
+	Query: "specificepithet:californianus genus:Gymnogyps" ; Times: 4
+	Query: "Olive-sided Flycatcher" ; Times: 2
+	Query: "catalognumber:58180" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1920 NOT Field" ; Times: 1
+	Query: "raza island" ; Times: 1
+	Query: "catalognumber:101610" ; Times: 1
+	Query: "Oceanodroma homochroa AND Farallon NOT Winthars NOT Rowley NOT Gifford NOT Wheeler NOT Painton NOT Mailliard NOT Osgood NOT Craig NOT Emerson NOT Barlow" ; Times: 1
+	Query: "Oceanodroma homochroa AND Farallon NOT Fair NOT Anthony NOT HRT NOT Beeman NOT Taylor NOT Winthars NOT Rowley NOT Gifford NOT Wheeler NOT Painton NOT Mailliard NOT Osgood NOT Craig NOT Emerson NOT Barlow" ; Times: 1
+	Query: "Vireo bellii pusillus 1998" ; Times: 3
+	Query: "flammulated owl" ; Times: 2
+	Query: "Molothrus ater obscurus mappable:1" ; Times: 1
+	Query: "Vireo bellii pusillus 1990" ; Times: 3
+	Query: "61702" ; Times: 1
+	Query: "Polyborus plancus hasmass:1" ; Times: 1
+	Query: "61707" ; Times: 2
+	Query: "Molothrus ater obscurus stateprovince:california county:San Diego" ; Times: 20
+	Query: "Lanius cristatus cristatus hasmass:1" ; Times: 1
+	Query: "35676" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1913 NOT Rossem NOT Huey NOT Stephens" ; Times: 1
+	Query: "institutioncode:ccber OR chas genus:bubo" ; Times: 1
+	Query: "Aphelocoma coerulescens 1995" ; Times: 6
+	Query: "10565" ; Times: 1
+	Query: "Egretta garzetta garzetta hasmass:1" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Benitos NOT Garth" ; Times: 2
+	Query: "arctic tern" ; Times: 5
+	Query: "53454" ; Times: 1
+	Query: "154612" ; Times: 1
+	Query: "Threskiornis aethiopicus aethiopicus hasmass:1" ; Times: 1
+	Query: "207571" ; Times: 1
+	Query: "apus horus vntype:specimen" ; Times: 1
+	Query: "catalognumber:73145 month&gt;=6 month&lt;=8" ; Times: 1
+	Query: "Coccyzus americanus 2014" ; Times: 4
+	Query: "Coccyzus americanus 2015" ; Times: 3
+	Query: "Coccyzus americanus 2013" ; Times: 3
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1913 AND Stephens" ; Times: 2
+	Query: "class:aves catalognumber:12069" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1910 NOT Osburn" ; Times: 1
+	Query: "Aphelocoma coerulescens 1999" ; Times: 6
+	Query: "Aphelocoma coerulescens 1998" ; Times: 6
+	Query: "52292" ; Times: 1
+	Query: "Aphelocoma coerulescens 1993" ; Times: 6
+	Query: "Aphelocoma coerulescens 1992" ; Times: 6
+	Query: "Aphelocoma coerulescens 1990" ; Times: 6
+	Query: "Aphelocoma coerulescens 1996" ; Times: 6
+	Query: "Oceanites oceanicus exasperatus" ; Times: 1
+	Query: "Aphelocoma coerulescens 1994" ; Times: 6
+	Query: "catalognumber:143263" ; Times: 1
+	Query: "sephanoides sephaniodes" ; Times: 1
+	Query: "vntype:specimen specificepithet:cyanoptera genus:tangara class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:cenchroides genus:Falco" ; Times: 4
+	Query: "vntype:specimen specificepithet:gularis genus:accipiter basisofrecord:PreservedSpecimen" ; Times: 4
+	Query: "86599" ; Times: 1
+	Query: "93361" ; Times: 1
+	Query: "Chordeiles acutipennis year &gt; 1990" ; Times: 1
+	Query: "86593" ; Times: 1
+	Query: "Nycticorax nycticorax nycticorax hasmass:1" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1931" ; Times: 1
+	Query: "recordedby:robjent" ; Times: 1
+	Query: "genus:muscicapa class:aves country:&#34;taiwan&#34; continent:asia recordedby:fennell" ; Times: 1
+	Query: "Lonchura malacca" ; Times: 1
+	Query: "class:Aves county:&#34;Kings&#34; stateprovince:&#34;California&#34; year &gt;= 1850 year &lt;= 1960 institutioncode:WFVZ" ; Times: 1
+	Query: "Spizella pusilla" ; Times: 1
+	Query: "pavo cristatus" ; Times: 2
+	Query: "class:aves catalognumber:73145 month&gt;=6 month&lt;=8" ; Times: 1
+	Query: "iowa Vireo griseus" ; Times: 1
+	Query: "Charadrius melodus 1972" ; Times: 4
+	Query: "1920 khasi hills" ; Times: 2
+	Query: "stateprovince:&#34;pennsylvania&#34; recordedby:J cole" ; Times: 1
+	Query: "10565 Mexico" ; Times: 1
+	Query: "Calliope calliope calliope hasmass:1" ; Times: 1
+	Query: "burmese" ; Times: 1
+	Query: "catalognumber:204984" ; Times: 1
+	Query: "207567" ; Times: 1
+	Query: "Grizzly Bear 2016" ; Times: 1
+	Query: "52778" ; Times: 1
+	Query: "genus:Rallus county:&#34;Imperial&#34;" ; Times: 1
+	Query: "specificepithet:deiroleucus genus:Falco" ; Times: 1
+	Query: "vireo griseus iowa" ; Times: 1
+	Query: "Molothrus ater obscurus stateprovince:California county:San Diego" ; Times: 124
+	Query: "Rynchops albicollis class:aves continent:asia" ; Times: 1
+	Query: "genus:certhia stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "haematopus unicolor" ; Times: 3
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1913 AND Rossem" ; Times: 2
+	Query: "120005" ; Times: 1
+	Query: "107130 UWBM" ; Times: 2
+	Query: "&#34;James Bond&#34; Aves" ; Times: 1
+	Query: "Sternula antillarum browni 2014" ; Times: 3
+	Query: "Sternula antillarum browni 2015" ; Times: 3
+	Query: "Sternula antillarum browni 2016" ; Times: 3
+	Query: "Anas platyrhynchos 1915" ; Times: 2
+	Query: "catalognumber:20605 institutioncode:WFVZ" ; Times: 1
+	Query: "west bloomfield" ; Times: 1
+	Query: "cooper center" ; Times: 1
+	Query: "catalognumber:6942" ; Times: 1
+	Query: "53498" ; Times: 1
+	Query: "ROM 5096" ; Times: 2
+	Query: "India bird class:aves country:&#34;India&#34; preparations:skin institutioncode:WFVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Sitta pygmaea san mateo" ; Times: 1
+	Query: "Psaltriparus minimus Ventura County" ; Times: 1
+	Query: "pterodroma phaeopygia galapagos" ; Times: 1
+	Query: "vntype:specimen specificepithet:episcopus class:Aves country:&#34;Brazil&#34;" ; Times: 4
+	Query: "Oceanodroma homochroa AND Farallon AND Taylor NOT Winthars NOT Rowley NOT Gifford NOT Wheeler NOT Painton NOT Mailliard NOT Osgood NOT Craig NOT Emerson NOT Barlow" ; Times: 1
+	Query: "Charadrius melodus 1996" ; Times: 4
+	Query: "class:aves recordedby:browning" ; Times: 2
+	Query: "Aleutian tern" ; Times: 5
+	Query: "wingspan genus:Aeronautes" ; Times: 3
+	Query: "Judson AND Island" ; Times: 1
+	Query: "specificepithet:formicivorus genus:Melanerpes year &gt;= 1980 year &lt;= 2019" ; Times: 1
+	Query: "snakes" ; Times: 1
+	Query: "Aphelocoma coerulescens 2014" ; Times: 12
+	Query: "Ploceus taeniopterus taeniopterus hasmass:1" ; Times: 1
+	Query: "Judson AND Island NOT Terminal" ; Times: 1
+	Query: "county:&#34;brevard&#34; recordedby:weber" ; Times: 1
+	Query: "Vireo bellii pusillus 2007" ; Times: 3
+	Query: "specificepithet:falcatus genus:Campylopterus" ; Times: 1
+	Query: "Rynchops albicollis" ; Times: 1
+	Query: "specificepithet:megapodius genus:pteroptochos" ; Times: 6
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1914 NOT Huey NOT Stephens" ; Times: 1
+	Query: "Rheidae" ; Times: 1
+	Query: "Brachyramphus marmoratus 2008" ; Times: 5
+	Query: "class:aves locality:newport news" ; Times: 1
+	Query: "Horus swift vntype:specimen" ; Times: 1
+	Query: "Vireo bellii pusillus 2009" ; Times: 3
+	Query: "Vireo bellii pusillus 2008" ; Times: 3
+	Query: "Coccyzus americanus 1997" ; Times: 4
+	Query: "Coccyzus americanus 1995" ; Times: 4
+	Query: "Coccyzus americanus 1990" ; Times: 4
+	Query: "vntype:specimen specificepithet:Kirtlandii country:&#34;United States&#34;" ; Times: 1
+	Query: "Brachyramphus marmoratus 2001" ; Times: 5
+	Query: "Calidris canutus rufa 2015" ; Times: 5
+	Query: "154662" ; Times: 1
+	Query: "vntype:specimen genus:Falco preparations:eggs institutioncode:WFVZ basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Oceanodroma homochroa AND Farallon NOT Ray NOT Carriger NOT Fair NOT Anthony NOT HRT NOT Beeman NOT Taylor NOT Winthars NOT Rowley NOT Gifford NOT Wheeler NOT Painton NOT Mailliard NOT Osgood NOT Craig NOT Emerson NOT Barlow" ; Times: 2
+	Query: "Charadrius melodus 2015" ; Times: 4
+	Query: "iowa White-eyed Vireo" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1914 NOT Huey" ; Times: 1
+	Query: "sandfly" ; Times: 1
+	Query: "county:&#34;Hamilton&#34; stateprovince:&#34;Indiana&#34;" ; Times: 1
+	Query: "Ichthyaetus ichthyaetus hasmass:1" ; Times: 1
+	Query: "Oceanodroma homochroa AND Farallon NOT Denburgh NOT Stager NOT Ray NOT Carriger NOT Fair NOT Anthony NOT HRT NOT Beeman NOT Taylor NOT Winthars NOT Rowley NOT Gifford NOT Wheeler NOT Painton NOT Mailliard NOT Osgood NOT Craig NOT Emerson NOT Barlow" ; Times: 1
+	Query: "vntype:specimen specificepithet:sparverius genus:Falco preparations:eggs institutioncode:WFVZ basisofrecord:PreservedSpecimen" ; Times: 5
+	Query: "Oceanodroma homochroa AND Farallon AND HRT NOT Beeman NOT Taylor NOT Winthars NOT Rowley NOT Gifford NOT Wheeler NOT Painton NOT Mailliard NOT Osgood NOT Craig NOT Emerson NOT Barlow" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1914 AND Huey" ; Times: 2
+	Query: "164712" ; Times: 1
+	Query: "specificepithet:newtoni genus:Falco" ; Times: 1
+	Query: "Coccyzus americanus 2008" ; Times: 4
+	Query: "Sylvia mystacea" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1913 AND Dickey" ; Times: 3
+	Query: "Sharp-tailed grouse" ; Times: 4
+	Query: "Gallinago gallinago gallinago hasmass:1" ; Times: 1
+	Query: "belgium 691" ; Times: 1
+	Query: "institutioncode:WFVZ" ; Times: 1
+	Query: "20532" ; Times: 2
+	Query: "Certhiaxis cinnamomea hasmass:1" ; Times: 1
+	Query: "60015" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1913 AND Rossem NOT Huey NOT Stephens" ; Times: 3
+	Query: "Aphelocoma coerulescens 1974" ; Times: 7
+	Query: "Aphelocoma coerulescens 1976" ; Times: 6
+	Query: "Aphelocoma coerulescens 1973" ; Times: 6
+	Query: "Aphelocoma coerulescens 1972" ; Times: 6
+	Query: "wingspan genus:Camptostoma" ; Times: 1
+	Query: "Aphelocoma coerulescens 1979" ; Times: 6
+	Query: "Aphelocoma coerulescens 1978" ; Times: 6
+	Query: "Heliangelus mavors vntype:specimen" ; Times: 1
+	Query: "panterpe insignis" ; Times: 2
+	Query: "specificepithet:vicinior genus:Vireo stateprovince:&#34;Baja California&#34;" ; Times: 1
+	Query: "Aves Jammu" ; Times: 2
+	Query: "Oceanodroma leucorhoa AND Coronados AND Howell" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1913 NOT Dickey NOT Rossem NOT Huey NOT Stephens" ; Times: 4
+	Query: "Uraeginthus bengalus bengalus hasmass:1" ; Times: 1
+	Query: "Ptilopachus petrosus" ; Times: 7
+	Query: "161009" ; Times: 1
+	Query: "turdoides emini" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1913 AND Van Rossem" ; Times: 1
+	Query: "xenopsaris albinucha" ; Times: 1
+	Query: "(streptoprocne) institutioncode:WFVZ" ; Times: 2
+	Query: "specificepithet:rupicoloides genus:Falco" ; Times: 1
+	Query: "oreotrochilus leucopleurus" ; Times: 1
+	Query: "Strix occidentalis" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Guadalupe AND 1968 NOT Crossin AND Huber" ; Times: 1
+	Query: "class:aves catalognumber:25303 year:2000 month:7 day:9" ; Times: 6
+	Query: "aves howard 1900" ; Times: 1
+	Query: "Vireo bellii pusillus 1982" ; Times: 3
+	Query: "Coccyzus americanus 2009" ; Times: 4
+	Query: "geothlypis modesta" ; Times: 1
+	Query: "53464" ; Times: 2
+	Query: "scytalopus fuscus" ; Times: 1
+	Query: "Parula nigrilora" ; Times: 1
+	Query: "53460" ; Times: 2
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1920 NOT Field NOT Stephens" ; Times: 1
+	Query: "Cecropis abyssinica hasmass:1" ; Times: 1
+	Query: "MZFC 357" ; Times: 1
+	Query: "16051" ; Times: 1
+	Query: "Coccyzus americanus 2004" ; Times: 4
+	Query: "16053" ; Times: 1
+	Query: "Coccyzus americanus 2006" ; Times: 4
+	Query: "catalognumber:203485" ; Times: 1
+	Query: "Anas platyrhynchos USNM" ; Times: 2
+	Query: "Oceanodroma homochroa AND Farallon AND Barlow" ; Times: 2
+	Query: "country:india Phylloscopus magnirostris" ; Times: 3
+	Query: "bird body size" ; Times: 1
+	Query: "vireo vicinior" ; Times: 1
+	Query: "catalognumber:35676" ; Times: 1
+	Query: "Fulica atra atra hasmass:1" ; Times: 1
+	Query: "class:aves recordedby:beasley" ; Times: 1
+	Query: "Phoenicurus auroreus auroreus hasmass:1" ; Times: 1
+	Query: "class:aves catalognumber:12072" ; Times: 1
+	Query: "class:aves catalognumber:12071" ; Times: 3
+	Query: "class:aves catalognumber:12070" ; Times: 2
+	Query: "Molothrus ater obscurus mappable:1 county:San Diego" ; Times: 6
+	Query: "Pharomachrus mocinno" ; Times: 6
+	Query: "Molothrus ater obscurus stateprovince:california county:san diego" ; Times: 2
+	Query: "Strix occidentalis caurina 2015" ; Times: 3
+	Query: "Strix occidentalis caurina 2016" ; Times: 3
+	Query: "Acrocephalus orientalis hasmass:1" ; Times: 1
+	Query: "Sitta pygmaea ventura egg" ; Times: 1
+	Query: "Aphelocoma coerulescens 1984" ; Times: 6
+	Query: "specificepithet:polioptera genus:cossypha basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "tristis jewetti" ; Times: 1
+	Query: "Calliope calliope hasmass:1" ; Times: 1
+	Query: "iowa alnorum" ; Times: 1
+	Query: "Chlidonias hybrida hybrida hasmass:1" ; Times: 1
+	Query: "horus swift" ; Times: 1
+	Query: "Cecropis striolata striolata hasmass:1" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1908" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1909" ; Times: 1
+	Query: "Platalea ajaja" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1902" ; Times: 2
+	Query: "153578" ; Times: 1
+	Query: "Brachyramphus marmoratus 1990" ; Times: 5
+	Query: "locality:millers stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "class:aves catalognumber:25303 year:2000 month:7" ; Times: 3
+	Query: "Frank B. Armstrong" ; Times: 4
+	Query: "Fulmarus glacialis year &gt; 1990" ; Times: 1
+	Query: "specificepithet:albigularis genus:Laterallus" ; Times: 1
+	Query: "specificepithet:pusilla genus:Sitta year &gt;= 1980" ; Times: 1
+	Query: "Calamospiza melanocorys iowa" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1924 NOT Bancroft" ; Times: 2
+	Query: "Rostratula benghalensis benghalensis hasmass:1" ; Times: 1
+	Query: "Myioborus torquatus" ; Times: 1
+	Query: "Molothrus ater obscurus county:San Diego" ; Times: 2
+	Query: "56084" ; Times: 1
+	Query: "pelagodroma marina kermadec" ; Times: 1
+	Query: "31201" ; Times: 1
+	Query: "whooping crane" ; Times: 10
+	Query: "20605" ; Times: 1
+	Query: "Psaltriparus minimus Los angeles mvz" ; Times: 1
+	Query: "yellow rail" ; Times: 4
+	Query: "Upupa epops epops hasmass:1" ; Times: 1
+	Query: "molasses" ; Times: 1
+	Query: "Motacilla cinerea cinerea hasmass:1" ; Times: 1
+	Query: "wood stork" ; Times: 1
+	Query: "Anas crecca crecca hasmass:1" ; Times: 1
+	Query: "genus:Rhynochetos" ; Times: 1
+	Query: "warbling vireo nevada" ; Times: 1
+	Query: "Coturnicops noveboracensis" ; Times: 12
+	Query: "Polioptila californica californica 2010" ; Times: 4
+	Query: "Spizella breweri" ; Times: 1
+	Query: "wingspan specificepithet:virginianus genus:Bubo" ; Times: 1
+	Query: "Calidris canutus rufa 2016" ; Times: 4
+	Query: "Cepphus grylle US" ; Times: 1
+	Query: "vini" ; Times: 1
+	Query: "Polioptila californica californica 2014" ; Times: 4
+	Query: "Spizella atrogularis" ; Times: 1
+	Query: "216907" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1920 NOT Stephens" ; Times: 1
+	Query: "45295" ; Times: 1
+	Query: "campephilus imperialis" ; Times: 1
+	Query: "Crossin AND Coronados NOT DeLong" ; Times: 1
+	Query: "nonnula brunnea" ; Times: 14
+	Query: "himalayan monal" ; Times: 9
+	Query: "216908" ; Times: 1
+	Query: "53626" ; Times: 1
+	Query: "154810" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 2
+	Query: "catalognumber:10920 institutioncode:WFVZ" ; Times: 3
+	Query: "Charadrius melodus 1985" ; Times: 4
+	Query: "55422" ; Times: 1
+	Query: "Charadrius melodus 1983" ; Times: 4
+	Query: "204408" ; Times: 1
+	Query: "Oceanodroma homochroa AND Farallon NOT Burtis NOT Miller NOT Denburgh NOT Stager NOT Ray NOT Carriger NOT Fair NOT Anthony NOT HRT NOT Beeman NOT Taylor NOT Winthars NOT Rowley NOT Gifford NOT Wheeler NOT Painton NOT Mailliard NOT Osgood NOT Craig NOT Emerson NOT Barlow" ; Times: 2
+	Query: "class:aves locality:rusinga" ; Times: 1
+	Query: "216997" ; Times: 1
+	Query: "specificepithet:ardosiaceus genus:Falco" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1913 AND Dickey NOT Stephens" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1913 AND Dickey NOT Rossem NOT Stephens" ; Times: 1
+	Query: "25328" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1902 AND Daggett" ; Times: 1
+	Query: "Falco sparverius AND Santa Barbara Island" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1913 AND Huey" ; Times: 3
+	Query: "Aphelocoma coerulescens 2000" ; Times: 6
+	Query: "Aphelocoma coerulescens 2001" ; Times: 6
+	Query: "Aphelocoma coerulescens 2002" ; Times: 6
+	Query: "Aphelocoma coerulescens 2003" ; Times: 6
+	Query: "Aphelocoma coerulescens 2004" ; Times: 6
+	Query: "Aphelocoma coerulescens 2005" ; Times: 6
+	Query: "Aphelocoma coerulescens 2006" ; Times: 6
+	Query: "Aphelocoma coerulescens 2008" ; Times: 6
+	Query: "Aphelocoma coerulescens 2009" ; Times: 6
+	Query: "86545" ; Times: 1
+	Query: "Accipiter gularis gularis hasmass:1" ; Times: 2
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1913 AND Huey NOT Stephens" ; Times: 9
+	Query: "Coccyzus americanus 1980" ; Times: 4
+	Query: "Coccyzus americanus 1982" ; Times: 4
+	Query: "Eremophila alpestris strigata 2016" ; Times: 4
+	Query: "Eremophila alpestris strigata 2015" ; Times: 4
+	Query: "Coccyzus americanus 1986" ; Times: 4
+	Query: "Coccyzus americanus 1988" ; Times: 4
+	Query: "bombus" ; Times: 1
+	Query: "Oceanodroma homochroa AND Farallon AND Gifford NOT Wheeler NOT Painton NOT Mailliard NOT Osgood NOT Craig NOT Emerson NOT Barlow" ; Times: 1
+	Query: "pigeon guillemot" ; Times: 5
+	Query: "catalognumber:68638" ; Times: 1
+	Query: "18905" ; Times: 5
+	Query: "hoatzin" ; Times: 1
+	Query: "18906" ; Times: 2
+	Query: "genus:cinclus stateprovince:&#34;south dakota&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:cinnamomeus genus:crypturellus family:tinamidae order:tinamiformes class:aves hasmass:1" ; Times: 1
+	Query: "Mycteria americana 1988" ; Times: 4
+	Query: "class:Aves county:&#34;Tulare&#34; stateprovince:&#34;California&#34; year &gt;= 1850 year &lt;= 1960 institutioncode:WFVZ" ; Times: 1
+	Query: "215746" ; Times: 1
+	Query: "specificepithet:celata stateprovince:&#34;washington&#34; month &gt;= 6 month &lt;= 8" ; Times: 2
+	Query: "bushtit eggs" ; Times: 5
+	Query: "Mycteria americana 1981" ; Times: 4
+	Query: "Mycteria americana 1984" ; Times: 4
+	Query: "phasianus" ; Times: 1
+	Query: "Rhinoceros" ; Times: 1
+	Query: "180927" ; Times: 1
+	Query: "106469" ; Times: 1
+	Query: "224850" ; Times: 1
+	Query: "Siebold Dingle" ; Times: 3
+	Query: "specificepithet:dominica class:Aves country:&#34;Colombia&#34;" ; Times: 1
+	Query: "great tit" ; Times: 1
+	Query: "43136" ; Times: 1
+	Query: "selasphorus sasin sedentarius" ; Times: 1
+	Query: "Brachyramphus marmoratus 2014" ; Times: 5
+	Query: "Brachyramphus marmoratus 2015" ; Times: 5
+	Query: "Brachyramphus marmoratus 2016" ; Times: 8
+	Query: "Oceanodroma homochroa AND Farallon AND Mailliard NOT Osgood NOT Craig NOT Emerson NOT Barlow" ; Times: 1
+	Query: "Brachyramphus marmoratus 2010" ; Times: 5
+	Query: "heliangelus mavors" ; Times: 5
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1896" ; Times: 1
+	Query: "Japanese Paradise-flycatcher" ; Times: 5
+	Query: "Coccyzus americanus 2003" ; Times: 4
+	Query: "bushtit eggs washington" ; Times: 1
+	Query: "Brachyramphus marmoratus 1987" ; Times: 5
+	Query: "passenger pigeon" ; Times: 4
+	Query: "heliangelus mavors vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Brachyramphus marmoratus 1989" ; Times: 5
+	Query: "53812" ; Times: 1
+	Query: "pelagodroma marina albiclunis" ; Times: 1
+	Query: "Hydroprogne caspia hasmass:1" ; Times: 1
+	Query: "Rynchops class:aves continent:asia" ; Times: 1
+	Query: "Polioptila californica californica 1997" ; Times: 4
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1913 NOT Huey NOT Stephens" ; Times: 2
+	Query: "Coccyzus americanus 1984" ; Times: 4
+	Query: "McLeod" ; Times: 2
+	Query: "Coccyzus americanus 1987" ; Times: 4
+	Query: "35568" ; Times: 2
+	Query: "Anthus hodgsoni hodgsoni hasmass:1" ; Times: 1
+	Query: "class:aves locality:gogo" ; Times: 1
+	Query: "Oceanodroma homochroa AND Farallon NOT Gifford NOT Barlow NOT Fuchs NOT Gruber NOT Beeman" ; Times: 1
+	Query: "vntype:specimen specificepithet:femoralis genus:FALCO recordedby:armstrong" ; Times: 2
+	Query: "Sternula antillarum browni 2013" ; Times: 3
+	Query: "pycnonotus xanthopygos" ; Times: 1
+	Query: "Psaltriparus los angeles mvz" ; Times: 1
+	Query: "Lepidóptera" ; Times: 1
+	Query: "120123 UWBM" ; Times: 2
+	Query: "morus bassanus" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1925 AND Bancroft" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1913 AND Howell" ; Times: 3
+	Query: "Platycichla leucops" ; Times: 1
+	Query: "edward siebold dingle" ; Times: 1
+	Query: "Oceanodroma homochroa AND Farallon" ; Times: 2
+	Query: "Oceanodroma homochroa AND Farallon AND Beeman" ; Times: 1
+	Query: "Falco sparverius vntype:specimen stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "45051" ; Times: 1
+	Query: "Buteo brachyurus" ; Times: 1
+	Query: "Mycteria americana 2016" ; Times: 4
+	Query: "Mycteria americana 2015" ; Times: 4
+	Query: "japanese paradise-flycatcher" ; Times: 1
+	Query: "Cissopis leveriana hasmass:1" ; Times: 1
+	Query: "53470" ; Times: 1
+	Query: "53471" ; Times: 1
+	Query: "220089" ; Times: 1
+	Query: "Pluvialis squatarola squatarola hasmass:1" ; Times: 1
+	Query: "Buteo platypterus AND Island" ; Times: 1
+	Query: "Charadrius melodus 2016" ; Times: 4
+	Query: "19720" ; Times: 4
+	Query: "Charadrius melodus 2014" ; Times: 4
+	Query: "Notiochelidon cyanoleuca hasmass:1" ; Times: 1
+	Query: "54583" ; Times: 1
+	Query: "54582" ; Times: 1
+	Query: "James Bond Aves" ; Times: 1
+	Query: "Ralph Hoffmann AND ISland" ; Times: 1
+	Query: "specificepithet:americana genus:Grus stateprovince:&#34;Manitoba&#34;" ; Times: 11
+	Query: "115820" ; Times: 1
+	Query: "Ralph Hoffmann" ; Times: 1
+	Query: "genus:Rallus county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "Pandion haliaetus year &gt; 1990" ; Times: 1
+	Query: "10918" ; Times: 2
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1913 AND Dickey NOT Rossem NOT Huey NOT Stephens" ; Times: 1
+	Query: "Hoffmann AND Island" ; Times: 1
+	Query: "Vultur gryphus" ; Times: 2
+	Query: "54056" ; Times: 1
+	Query: "Columba picazuro hasmass:1" ; Times: 1
+	Query: "54721" ; Times: 1
+	Query: "specificepithet:ruber class:aves stateprovince:oregon year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "specificepithet:californianus genus:Gymnogyps hasmass:1" ; Times: 1
+	Query: "indigo x" ; Times: 1
+	Query: "Polioptila californica californica 2013" ; Times: 4
+	Query: "Polioptila californica californica 2011" ; Times: 4
+	Query: "17921" ; Times: 1
+	Query: "Polioptila californica californica 2016" ; Times: 4
+	Query: "Polioptila californica californica 2015" ; Times: 4
+	Query: "Gallinula chloropus chloropus hasmass:1" ; Times: 1
+	Query: "Coccyzus americanus 1978" ; Times: 4
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1919" ; Times: 1
+	Query: "205107" ; Times: 1
+	Query: "67280" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1910" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1913" ; Times: 7
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1912" ; Times: 1
+	Query: "elf" ; Times: 2
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1914" ; Times: 1
+	Query: "Strix occidentalis caurina 1992" ; Times: 3
+	Query: "56080" ; Times: 1
+	Query: "Sitta pusilla vntype:specimen year &gt;= 1990" ; Times: 2
+	Query: "58676" ; Times: 1
+	Query: "johannae" ; Times: 1
+	Query: "Buteo platypterus AND Island AND California" ; Times: 1
+	Query: "21851" ; Times: 1
+	Query: "58673" ; Times: 1
+	Query: "Apus horus vntype:specimen" ; Times: 2
+	Query: "Oceanodroma homochroa AND Farallon AND Wheeler NOT Painton NOT Mailliard NOT Osgood NOT Craig NOT Emerson NOT Barlow" ; Times: 1
+	Query: "109588" ; Times: 1
+	Query: "Pycnonotus xanthopygos" ; Times: 4
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1915" ; Times: 1
+	Query: "Shovel" ; Times: 1
+	Query: "specificepithet:brachyurus genus:Buteo" ; Times: 1
+	Query: "Cossypha heuglini heuglini hasmass:1" ; Times: 1
+	Query: "pileated woodpecker" ; Times: 3
+	Query: "Oceanodroma homochroa AND Farallon AND Anthony NOT HRT NOT Beeman NOT Taylor NOT Winthars NOT Rowley NOT Gifford NOT Wheeler NOT Painton NOT Mailliard NOT Osgood NOT Craig NOT Emerson NOT Barlow" ; Times: 1
+	Query: "little blue heron iowa" ; Times: 1
+	Query: "Oceanodroma homochroa AND Farallon AND Carriger NOT Fair NOT Anthony NOT HRT NOT Beeman NOT Taylor NOT Winthars NOT Rowley NOT Gifford NOT Wheeler NOT Painton NOT Mailliard NOT Osgood NOT Craig NOT Emerson NOT Barlow" ; Times: 1
+	Query: "Heliangelus strophianus" ; Times: 7
+	Query: "Aphelocoma coerulescens 1983" ; Times: 6
+	Query: "203751" ; Times: 1
+	Query: "216983" ; Times: 1
+	Query: "Sternula antillarum browni 1989" ; Times: 3
+	Query: "Sternula antillarum browni 1988" ; Times: 3
+	Query: "Laterallus jamaicensis" ; Times: 2
+	Query: "Charadrius leschenaultii leschenaultii hasmass:1" ; Times: 1
+	Query: "Judson AND Catalina" ; Times: 1
+	Query: "turdoides squamiceps" ; Times: 2
+	Query: "Caloenas nicobarica" ; Times: 1
+	Query: "Turnix sylvatica hasmass:1" ; Times: 1
+	Query: "Setornis criniger" ; Times: 2
+	Query: "Chalcophaps indica indica hasmass:1" ; Times: 1
+	Query: "red fox" ; Times: 1
+	Query: "Strix occidentalis lucida 2015" ; Times: 3
+	Query: "45337" ; Times: 1
+	Query: "Oceanodroma homochroa AND Farallon AND Painton NOT Mailliard NOT Osgood NOT Craig NOT Emerson NOT Barlow" ; Times: 1
+	Query: "Vireo bellii pusillus mappable:1" ; Times: 1
+	Query: "Oceanodroma homochroa AND Farallon AND Beeman NOT Taylor NOT Winthars NOT Rowley NOT Gifford NOT Wheeler NOT Painton NOT Mailliard NOT Osgood NOT Craig NOT Emerson NOT Barlow" ; Times: 1
+	Query: "54548" ; Times: 1
+	Query: "Oceanodroma homochroa AND Farallon AND 1896" ; Times: 2
+	Query: "catalognumber:26572 institutioncode:WFVZ" ; Times: 3
+	Query: "19197" ; Times: 2
+	Query: "cormorant Alaska" ; Times: 3
+	Query: "MZFC 6815" ; Times: 1
+	Query: "Porzana pusilla pusilla hasmass:1" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1925 NOT Bancroft" ; Times: 1
+	Query: "86614" ; Times: 1
+	Query: "Oceanodroma homochroa AND Farallon AND Fuchs NOT Gruber NOT Beeman" ; Times: 1
+	Query: "puffinus auricularis" ; Times: 1
+	Query: "streptoprocne institutioncode:WFVZ" ; Times: 1
+	Query: "207436" ; Times: 1
+	Query: "Nonnula brunnea" ; Times: 10
+	Query: "Arenaria interpres interpres hasmass:1" ; Times: 1
+	Query: "Rallus elegans vntype:specimen country:&#34;Mexico&#34;" ; Times: 1
+	Query: "46986" ; Times: 1
+	Query: "Grizzly Bear 2015" ; Times: 1
+	Query: "66334" ; Times: 1
+	Query: "61552" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Benitos" ; Times: 3
+	Query: "Aphelocoma coerulescens 2013" ; Times: 6
+	Query: "Aphelocoma coerulescens 2012" ; Times: 10
+	Query: "Aphelocoma coerulescens 2011" ; Times: 6
+	Query: "Aphelocoma coerulescens 2010" ; Times: 6
+	Query: "Aphelocoma coerulescens 2016" ; Times: 16
+	Query: "Aphelocoma coerulescens 2015" ; Times: 8
+	Query: "Lerwa lerwa" ; Times: 1
+	Query: "Aphelocoma coerulescens 2018" ; Times: 6
+	Query: "SHARP-TAILED SPARROW" ; Times: 1
+	Query: "Accipiter gularis" ; Times: 1
+	Query: "bushtit egg" ; Times: 4
+	Query: "220725" ; Times: 1
+	Query: "220724" ; Times: 1
+	Query: "indigo bunting x" ; Times: 1
+	Query: "Oceanodroma homochroa AND Farallon NOT Emerson NOT Gifford NOT Barlow NOT Fuchs NOT Gruber NOT Beeman" ; Times: 2
+	Query: "154164" ; Times: 1
+	Query: "urocissa ornata" ; Times: 1
+	Query: "61132" ; Times: 1
+	Query: "Coracias caudata hasmass:1" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1910 AND Osburn" ; Times: 1
+	Query: "Aphelocoma coerulescens 1988" ; Times: 6
+	Query: "Cyanocitta cristata cyanotephra" ; Times: 1
+	Query: "Aphelocoma coerulescens 1980" ; Times: 6
+	Query: "Aphelocoma coerulescens 1982" ; Times: 6
+	Query: "(139478)" ; Times: 1
+	Query: "Piping plover" ; Times: 9
+	Query: "Aphelocoma coerulescens 1985" ; Times: 6
+	Query: "Aphelocoma coerulescens 1986" ; Times: 6
+	Query: "Aphelocoma coerulescens 1987" ; Times: 5
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1914 AND Sechrist" ; Times: 2
+	Query: "indian courser" ; Times: 1
+	Query: "80642" ; Times: 1
+	Query: "spragueii minnesota" ; Times: 2
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1920" ; Times: 7
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1922" ; Times: 5
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1923" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1924" ; Times: 4
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1925" ; Times: 4
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1928" ; Times: 1
+	Query: "catalognumber:208804" ; Times: 1
+	Query: "gubernatrix cristata" ; Times: 1
+	Query: "Oceanodroma homochroa AND Farallon AND Barlow NOT Fuchs NOT Gruber NOT Beeman" ; Times: 2
+	Query: "Oceanodroma homochroa AND Farallon AND Gifford NOT Barlow NOT Fuchs NOT Gruber NOT Beeman" ; Times: 1
+	Query: "Brachyramphus marmoratus 1993" ; Times: 5
+	Query: "Brachyramphus marmoratus 1994" ; Times: 5
+	Query: "Brachyramphus marmoratus 1995" ; Times: 5
+	Query: "Hoffmann AND ISland" ; Times: 1
+	Query: "county:&#34;Ocosingo&#34; stateprovince:&#34;Chiapas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "56937" ; Times: 2
+	Query: "specificepithet:femoralis genus:FALCO recordedby:armstrong" ; Times: 1
+	Query: "specificepithet:ustulatus class:aves stateprovince:oregon year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 3
+	Query: "empidonax traillii iowa" ; Times: 1
+	Query: "97825" ; Times: 1
+	Query: "locality:ramsey stateprovince:&#34;wales&#34;" ; Times: 1
+	Query: "Thamnistes" ; Times: 1
+	Query: "Psaltriparus minimus Washington Pierce County" ; Times: 1
+	Query: "Aquila chrysaetos year &gt; 1990 NOT CLO" ; Times: 1
+	Query: "Horus Swift" ; Times: 2
+	Query: "Passenger pigeon" ; Times: 2
+	Query: "vntype:specimen specificepithet:sparverius genus:falco institutioncode:WFVZ basisofrecord:PreservedSpecimen" ; Times: 4
+	Query: "86613" ; Times: 1
+	Query: "Francolinus nahani" ; Times: 1
+	Query: "86616" ; Times: 1
+	Query: "bushtit" ; Times: 8
+	Query: "vntype:specimen locality:Spitzbergen" ; Times: 2
+	Query: "weight specificepithet:albigularis genus:Laterallus" ; Times: 1
+	Query: "117407" ; Times: 1
+	Query: "Oceanodroma homochroa AND Farallon AND Barlow AND 1892" ; Times: 1
+	Query: "specificepithet:Kirtlandii genus:dendroica country:&#34;United States&#34;" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1913 NOT Stephens" ; Times: 2
+	Query: "locality:delevan" ; Times: 1
+	Query: "genus:Phyllomyias country:&#34;Colombia&#34;" ; Times: 5
+	Query: "Oceanodroma homochroa AND Farallon NOT Painton NOT Mailliard NOT Osgood NOT Craig NOT Emerson NOT Barlow" ; Times: 1
+	Query: "54466" ; Times: 1
+	Query: "54464" ; Times: 1
+	Query: "catalognumber:97652" ; Times: 1
+	Query: "class:aves locality:kendu" ; Times: 5
+	Query: "Falco sparverius AND Guadalupe" ; Times: 1
+	Query: "ara macao" ; Times: 1
+	Query: "Anas platyrhynchos platyrhynchos hasmass:1" ; Times: 1
+	Query: "Aves Jammu WFVZ" ; Times: 1
+	Query: "genus:amandava class:aves year &gt;= 1980" ; Times: 1
+	Query: "Oceanodroma homochroa AND Farallon AND Denburgh NOT Stager NOT Ray NOT Carriger NOT Fair NOT Anthony NOT HRT NOT Beeman NOT Taylor NOT Winthars NOT Rowley NOT Gifford NOT Wheeler NOT Painton NOT Mailliard NOT Osgood NOT Craig NOT Emerson NOT Barlow" ; Times: 1
+	Query: "genus:Sylvia class:Aves country:&#34;Turkey&#34;" ; Times: 1
+	Query: "Oceanodroma homochroa AND Farallon NOT Rowley NOT Gifford NOT Wheeler NOT Painton NOT Mailliard NOT Osgood NOT Craig NOT Emerson NOT Barlow" ; Times: 1
+	Query: "Mycteria americana 2008" ; Times: 4
+	Query: "Mycteria americana 2009" ; Times: 4
+	Query: "Falco peregrinus USNM" ; Times: 1
+	Query: "specificepithet:gilvus genus:vireo stateprovince:&#34;wyoming&#34;" ; Times: 5
+	Query: "Mycteria americana 2002" ; Times: 4
+	Query: "Mycteria americana 2003" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 103 (out of 1367 download events in this period)
+Total number of records downloaded: 62507
+Number of different countries: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 4
+	Country: Australia ; Times: 3
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 11
+	Country: United States ; Times: 55
+	Country: Austria ; Times: 1
+	Country: Netherlands ; Times: 3
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 11
+	Country: South Korea ; Times: 3
+	Country: Argentina ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-19 ; Times: 2
+	Date: 2019-11-18 ; Times: 2
+	Date: 2019-11-15 ; Times: 4
+	Date: 2019-11-14 ; Times: 1
+	Date: 2019-11-16 ; Times: 3
+	Date: 2019-11-11 ; Times: 2
+	Date: 2019-11-10 ; Times: 7
+	Date: 2019-11-12 ; Times: 1
+	Date: 2019-11-08 ; Times: 2
+	Date: 2019-11-09 ; Times: 2
+	Date: 2019-11-29 ; Times: 8
+	Date: 2019-11-20 ; Times: 3
+	Date: 2019-11-21 ; Times: 1
+	Date: 2019-11-22 ; Times: 1
+	Date: 2019-11-25 ; Times: 6
+	Date: 2019-11-26 ; Times: 7
+	Date: 2019-11-27 ; Times: 4
+	Date: 2019-11-06 ; Times: 18
+	Date: 2019-11-07 ; Times: 4
+	Date: 2019-11-04 ; Times: 6
+	Date: 2019-11-05 ; Times: 6
+	Date: 2019-11-02 ; Times: 8
+	Date: 2019-11-03 ; Times: 1
+	Date: 2019-11-01 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Charadriiformes" ; Times: 4
+	Query: "Falco sparverius vntype:specimen stateprovince:&#34;California&#34; county: &#34;San Francisco&#34; OR &#34;San Mateo&#34; OR &#34;Santa Cruz&#34; OR &#34;Santa Clara&#34; OR &#34;Alameda&#34; OR &#34;Contra Costa&#34; OR &#34;Solano&#34; OR &#34;Napa&#34; OR &#34;Sonoma&#34; OR &#34;Marin&#34;" ; Times: 1
+	Query: "order:Anseriformes" ; Times: 2
+	Query: "specificepithet:pusilla genus:Sitta year &gt;= 1980" ; Times: 1
+	Query: "vntype:specimen order:Passeriformes class:Aves stateprovince:&#34;Quebec&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "ummz aves petechia" ; Times: 1
+	Query: "Rynchops albicollis class:aves continent:asia" ; Times: 1
+	Query: "family:emberizidae country:&#34;korea&#34; year &gt;= 1910 basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "genus:certhia stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:alba genus:Tyto (stomach)" ; Times: 1
+	Query: "Aves Gilgit" ; Times: 1
+	Query: "family:Cardinalidae (nest)" ; Times: 1
+	Query: "specificepithet:flammeus genus:Asio hasmass:1 haslength:1" ; Times: 1
+	Query: "whooping crane" ; Times: 1
+	Query: "specificepithet:pilaris genus:Atalotriccus" ; Times: 1
+	Query: "Coeligena iris" ; Times: 1
+	Query: "Melospiza melodia" ; Times: 1
+	Query: "Apus horus vntype:specimen" ; Times: 2
+	Query: "Odonata" ; Times: 1
+	Query: "specificepithet:brachyurus genus:Buteo" ; Times: 1
+	Query: "genus:Rhynochetos" ; Times: 2
+	Query: "gray vireo" ; Times: 1
+	Query: "family:Columbidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Coturnicops noveboracensis" ; Times: 1
+	Query: "specificepithet:phasianellus family:Cuculidae" ; Times: 2
+	Query: "wingspan genus:Aeronautes" ; Times: 1
+	Query: "wingspan specificepithet:virginianus genus:Bubo" ; Times: 1
+	Query: "Polytmus theresiae theresiae" ; Times: 1
+	Query: "(tilapia)" ; Times: 1
+	Query: "vini" ; Times: 1
+	Query: "Falco sparverius vntype:specimen stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "xolmis pyrope" ; Times: 1
+	Query: "Diglossa Carriker" ; Times: 1
+	Query: "specificepithet:falcatus genus:Campylopterus" ; Times: 1
+	Query: "seaside sparrow" ; Times: 1
+	Query: "vntype:specimen genus:Falco preparations:eggs institutioncode:WFVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 1
+	Query: "neophema chrysogaster" ; Times: 1
+	Query: "genus:macrosphenus" ; Times: 1
+	Query: "order:Caprimulgiformes" ; Times: 1
+	Query: "class:Aves country:&#34;India&#34; Tamil" ; Times: 1
+	Query: "Falco sparverius AND Santa Barbara Island" ; Times: 1
+	Query: "order:Columbiformes" ; Times: 2
+	Query: "sandfly" ; Times: 2
+	Query: "scytalopus magellanicus" ; Times: 1
+	Query: "vntype:specimen specificepithet:sparverius genus:Falco preparations:eggs institutioncode:WFVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vermivora chrysoptera vntype:specimen" ; Times: 1
+	Query: "Numida meleagris vntype:specimen order:Galliformes basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:cinnamomeus genus:crypturellus family:tinamidae order:tinamiformes class:aves hasmass:1" ; Times: 3
+	Query: "class:Aves county:&#34;Tulare&#34; stateprovince:&#34;California&#34; year &gt;= 1850 year &lt;= 1960 institutioncode:WFVZ" ; Times: 2
+	Query: "Lerwa lerwa" ; Times: 1
+	Query: "SHARP-TAILED SPARROW" ; Times: 1
+	Query: "savannah sparrow" ; Times: 1
+	Query: "wingspan genus:Camptostoma" ; Times: 1
+	Query: "panterpe insignis" ; Times: 1
+	Query: "flammulated owl" ; Times: 1
+	Query: "Aves Ladakh" ; Times: 1
+	Query: "passenger pigeon" ; Times: 2
+	Query: "specificepithet:thayeri genus:Larus country:&#34;Canada&#34;" ; Times: 1
+	Query: "xenopsaris albinucha" ; Times: 1
+	Query: "oreotrochilus leucopleurus" ; Times: 1
+	Query: "specificepithet:castaneoventris genus:Lampornis sex:male" ; Times: 1
+	Query: "vntype:specimen specificepithet:femoralis genus:FALCO recordedby:armstrong" ; Times: 1
+	Query: "bushtit eggs" ; Times: 1
+	Query: "scytalopus fuscus" ; Times: 1
+	Query: "vntype:specimen locality:Spitzbergen" ; Times: 1
+	Query: "Lepidóptera" ; Times: 1
+	Query: "sephanoides sephaniodes" ; Times: 1
+	Query: "order:Ciconiiformes" ; Times: 1
+	Query: "country:india Phylloscopus magnirostris" ; Times: 2
+	Query: "vntype:specimen specificepithet:gularis genus:accipiter basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vireo vicinior" ; Times: 1
+	Query: "camptostoma obsoletum" ; Times: 1
+	Query: "order:Apodiformes" ; Times: 2
+	Query: "weight specificepithet:albigularis genus:Laterallus" ; Times: 1
+	Query: "India bird class:aves country:&#34;India&#34; preparations:skin institutioncode:WFVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:muscicapa class:aves country:&#34;taiwan&#34; continent:asia recordedby:fennell" ; Times: 1
+	Query: "Falco sparverius vntype:specimen stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "class:Aves county:&#34;Kings&#34; stateprovince:&#34;California&#34; year &gt;= 1850 year &lt;= 1960 institutioncode:WFVZ" ; Times: 1
+	Query: "Heliangelus amethysticollis" ; Times: 1
+	Query: "Aves Jammu WFVZ" ; Times: 1
+	Query: "window class:Aves year &gt;= 1960 year &lt;= 2018" ; Times: 1
+	Query: "class:AVES (KASHMIR) AND (NOT Jammu) AND (NOT Gilgit) AND (NOT Leh) AND (NOT Ladakh) AND (NOT Himachal) AND (NOT Ruphsu) AND (NOT Baltistan) AND (NOT Kargil)" ; Times: 1
+	Query: "swamp sparrow" ; Times: 1
+	Query: "order:Accipitriformes" ; Times: 1
+
+
+End of report.
