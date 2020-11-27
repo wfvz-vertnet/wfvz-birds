@@ -1,0 +1,635 @@
+Report for Institution Code WFVZ, Resource wfvz_birds
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 656
+Number of records retrieved in searches: 7193
+Number of different countries where searches have been originated: 25
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 9
+	Country: Unknown ; Times: 18
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 6
+	Country: Argentina ; Times: 3
+	Country: Australia ; Times: 4
+	Country: China ; Times: 1
+	Country: Denmark ; Times: 15
+	Country: Belgium ; Times: 1
+	Country: Dominican Republic ; Times: 1
+	Country: Netherlands ; Times: 4
+	Country: Gambia ; Times: 1
+	Country: Turkey ; Times: 1
+	Country: United States ; Times: 460
+	Country: French Guiana ; Times: 1
+	Country: Guyana ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: Romania ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 45
+	Country: India ; Times: 4
+	Country: United Kingdom ; Times: 69
+	Country: Malaysia ; Times: 2
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-04 ; Times: 10
+	Date: 2020-02-23 ; Times: 20
+	Date: 2020-02-02 ; Times: 7
+	Date: 2020-02-03 ; Times: 23
+	Date: 2020-02-26 ; Times: 36
+	Date: 2020-02-01 ; Times: 9
+	Date: 2020-02-20 ; Times: 33
+	Date: 2020-02-21 ; Times: 46
+	Date: 2020-02-22 ; Times: 3
+	Date: 2020-02-05 ; Times: 16
+	Date: 2020-02-08 ; Times: 2
+	Date: 2020-02-09 ; Times: 23
+	Date: 2020-02-28 ; Times: 33
+	Date: 2020-02-29 ; Times: 4
+	Date: 2020-02-11 ; Times: 21
+	Date: 2020-02-10 ; Times: 23
+	Date: 2020-02-13 ; Times: 41
+	Date: 2020-02-12 ; Times: 16
+	Date: 2020-02-15 ; Times: 6
+	Date: 2020-02-14 ; Times: 27
+	Date: 2020-02-17 ; Times: 15
+	Date: 2020-02-16 ; Times: 7
+	Date: 2020-02-19 ; Times: 23
+	Date: 2020-02-18 ; Times: 56
+	Date: 2020-02-24 ; Times: 85
+	Date: 2020-02-25 ; Times: 19
+	Date: 2020-02-27 ; Times: 31
+	Date: 2020-02-06 ; Times: 10
+	Date: 2020-02-07 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "spilornis cheela vntype:specimen locality:borneo year &lt;= 2020" ; Times: 1
+	Query: "locality:Jersey country:&#34;UNited KIngdom&#34;" ; Times: 1
+	Query: "locality:st paul reef stateprovince:&#34;alaska&#34; recordedby:hanna" ; Times: 1
+	Query: "87329" ; Times: 1
+	Query: "226046" ; Times: 1
+	Query: "226047" ; Times: 1
+	Query: "accipiter rhodogaster vntype:specimen year &gt;= 1930 year &lt;= 2020" ; Times: 3
+	Query: "oceanites exasperatus" ; Times: 2
+	Query: "Chondrohierax uncinatus" ; Times: 3
+	Query: "buteo brachypterus vntype:specimen year &gt;= 1950 year &lt;= 2020" ; Times: 3
+	Query: "specificepithet:ater genus:Molothrus stateprovince:&#34;California&#34; country:&#34;United States&#34; year &lt;= 1907" ; Times: 1
+	Query: "42447 odontophorus institutioncode:WFVZ" ; Times: 1
+	Query: "diomedea sanfordi" ; Times: 13
+	Query: "specificepithet:hypoleucus family:Alcidae country:&#34;Mexico&#34; (Zapato)" ; Times: 1
+	Query: "WFVZ 35479" ; Times: 1
+	Query: "220092" ; Times: 1
+	Query: "98369" ; Times: 3
+	Query: "98368" ; Times: 1
+	Query: "catalognumber:201533" ; Times: 1
+	Query: "161777" ; Times: 1
+	Query: "54329" ; Times: 2
+	Query: "specificepithet:ater genus:Molothrus stateprovince:&#34;California&#34; year &lt;= 1907" ; Times: 1
+	Query: "eremita" ; Times: 2
+	Query: "catalognumber:25450" ; Times: 1
+	Query: "macheiramphus alcinus vntype:specimen AND (NOT Africa) year &gt;= 1950 year &lt;= 2020" ; Times: 2
+	Query: "catalognumber:211687" ; Times: 1
+	Query: "51609" ; Times: 1
+	Query: "137110" ; Times: 1
+	Query: "formicidae" ; Times: 1
+	Query: "locality:st paul stateprovince:&#34;alaska&#34; recordedby:hanna" ; Times: 1
+	Query: "128589" ; Times: 1
+	Query: "72167" ; Times: 1
+	Query: "72164" ; Times: 2
+	Query: "pitta sordida" ; Times: 1
+	Query: "specificepithet:gilvus genus:vireo class:aves stateprovince:&#34;wyoming&#34; basisofrecord:PreservedSpecimen" ; Times: 8
+	Query: "15-1013-9" ; Times: 2
+	Query: "vntype:specimen (condor) AND (egg) institutioncode:WFVZ" ; Times: 1
+	Query: "alvarez del toro miguel" ; Times: 4
+	Query: "falco sparvarius" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:walker" ; Times: 1
+	Query: "specificepithet:californianus genus:Geococcyx country:&#34;Mexico&#34;" ; Times: 8
+	Query: "51716" ; Times: 1
+	Query: "98211" ; Times: 1
+	Query: "Chamaedorea" ; Times: 1
+	Query: "puffinus assimilis western australia" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer institutioncode:WFVZ" ; Times: 2
+	Query: "witch" ; Times: 2
+	Query: "accipiter rhodogaster vntype:specimen year &gt;= 1940 year &lt;= 2020" ; Times: 2
+	Query: "family:Alcidae locality:Guadalupe country:&#34;Mexico&#34; (hypoleucus) year &gt;= 1930 year &lt;= 1960" ; Times: 1
+	Query: "macheiramphus alcinus vntype:specimen year &gt;= 1910 year &lt;= 2020" ; Times: 1
+	Query: "macheiramphus alcinus vntype:specimen AND (NOT Africa) year &lt;= 2020" ; Times: 1
+	Query: "Oceanodroma leucorhoa socorroensis year &gt;= 1960 year &lt;= 2020" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; (Guadalupe)" ; Times: 1
+	Query: "Aby" ; Times: 1
+	Query: "vntype:specimen class:aves stateprovince:&#34;Oregon&#34; country:&#34;United States&#34; recordedby:sherwood" ; Times: 1
+	Query: "perdix class:aves year &gt;= 1908 year &lt;= 1910" ; Times: 1
+	Query: "188093" ; Times: 1
+	Query: "family:Alcidae locality:Zapato country:&#34;Mexico&#34;" ; Times: 1
+	Query: "vntype:specimen class:aves stateprovince:&#34;oregon&#34; country:&#34;United States&#34; institutioncode:WFVZ" ; Times: 1
+	Query: "adamana aves" ; Times: 1
+	Query: "specificepithet:hypoleucus family:Alcidae locality:Guadalupe country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Tigrisoma mexicanum" ; Times: 1
+	Query: "Casuarius vntype:specimen" ; Times: 1
+	Query: "class:aves catalognumber:755" ; Times: 1
+	Query: "lyme" ; Times: 1
+	Query: "39229" ; Times: 1
+	Query: "4577 dactylortyx institutioncode:WFVZ" ; Times: 1
+	Query: "vntype:specimen class:aves stateprovince:&#34;oregon&#34; country:&#34;United States&#34; recordedby:Alex Walker" ; Times: 2
+	Query: "class:Aves catalognumber:12020" ; Times: 1
+	Query: "racoon" ; Times: 1
+	Query: "casmerodius albus" ; Times: 1
+	Query: "70808" ; Times: 1
+	Query: "arctic tern" ; Times: 1
+	Query: "catalognumber:12020" ; Times: 1
+	Query: "oceanites oceanicus exasperatus" ; Times: 2
+	Query: "bald eagle" ; Times: 1
+	Query: "Calandrella acutirostris" ; Times: 1
+	Query: "fulmarus greenland" ; Times: 2
+	Query: "FMNH caprimulgus" ; Times: 1
+	Query: "buteo bannermani" ; Times: 4
+	Query: "aquila clanga india" ; Times: 1
+	Query: "black-legged kittiwake" ; Times: 3
+	Query: "class:Aves continent:Africa recordedby:Bouet" ; Times: 1
+	Query: "14245" ; Times: 1
+	Query: "neochen" ; Times: 2
+	Query: "bird egg vntype:specimen class:aves stateprovince:&#34;oregon&#34; country:&#34;United States&#34; institutioncode:WFVZ" ; Times: 1
+	Query: "locality:reading" ; Times: 1
+	Query: "Leptasthenura aegithaloides year &gt; 1985 NOT CLO" ; Times: 1
+	Query: "41652" ; Times: 1
+	Query: "country:&#34;Australia&#34; collectioncode:Eggs institutioncode:WFVZ" ; Times: 1
+	Query: "Leptasthenura striata year &gt; 1985 NOT CLO" ; Times: 1
+	Query: "passer domesticus vntype:specimen institutioncode:WFVZ" ; Times: 1
+	Query: "peregrine falcon 1953" ; Times: 1
+	Query: "sylvia curruca india" ; Times: 1
+	Query: "catalognumber:19343" ; Times: 1
+	Query: "sarcoramphus papa" ; Times: 4
+	Query: "campephilus guatemalensis eggs" ; Times: 1
+	Query: "41653" ; Times: 1
+	Query: "great egret" ; Times: 1
+	Query: "207437" ; Times: 1
+	Query: "black rosy-finch" ; Times: 1
+	Query: "89688" ; Times: 1
+	Query: "catalognumber:141793" ; Times: 1
+	Query: "Oceanites gracilis" ; Times: 1
+	Query: "recordedby:&#34;Beck&#34; institutioncode:WFVZ" ; Times: 1
+	Query: "Vireolanius pulchellus vntype:specimen country:&#34;Costa Rica&#34;" ; Times: 3
+	Query: "specificepithet:urophasianus genus:Centrocercus class:Aves stateprovince:&#34;Oregon&#34; year &gt;= 1870 year &lt;= 1880 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:albicaudatus genus:Buteo country:&#34;Mexico&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:domesticus genus:passer year &gt;= 1700 year &lt;= 1900" ; Times: 2
+	Query: "207567" ; Times: 1
+	Query: "2-6775" ; Times: 1
+	Query: "catalognumber:43253" ; Times: 1
+	Query: "36877" ; Times: 1
+	Query: "coracopsis nigra" ; Times: 2
+	Query: "chatham albatross" ; Times: 1
+	Query: "buteo rufofuscus vntype:specimen country:&#34;somalia&#34; year &gt;= 1920 year &lt;= 2020" ; Times: 1
+	Query: "catalognumber:54329" ; Times: 1
+	Query: "pachyptila kerguelen" ; Times: 3
+	Query: "catalognumber:1625" ; Times: 1
+	Query: "17161" ; Times: 1
+	Query: "113004" ; Times: 1
+	Query: "aquila hastata india" ; Times: 1
+	Query: "213330" ; Times: 1
+	Query: "elanus scriptus vntype:specimen year &gt;= 1940 year &lt;= 2020" ; Times: 1
+	Query: "Abbott Kashmir aves" ; Times: 1
+	Query: "Larus delawarensis stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Aratinga guarouba" ; Times: 1
+	Query: "Leptasthenura andicola year &gt; 1985 NOT CLO" ; Times: 1
+	Query: "vntype:specimen class:aves stateprovince:&#34;Oregon&#34; country:&#34;United States&#34; recordedby:alex walker institutioncode:WFVZ" ; Times: 3
+	Query: "110015" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; (Guadalupe) AND (NOT aleuticus)" ; Times: 1
+	Query: "prairie rattlesnake" ; Times: 1
+	Query: "14846" ; Times: 2
+	Query: "spilornis cheela vntype:specimen locality:borneo year &gt;= 1900 year &lt;= 2020" ; Times: 1
+	Query: "217680" ; Times: 1
+	Query: "193888" ; Times: 1
+	Query: "Egretta gularis" ; Times: 1
+	Query: "226052" ; Times: 1
+	Query: "accipiter rhodogaster vntype:specimen year &gt;= 1950 year &lt;= 2020" ; Times: 2
+	Query: "palm warbler" ; Times: 1
+	Query: "UMMZ 99230" ; Times: 2
+	Query: "20991" ; Times: 1
+	Query: "Vireo huttoni riverside" ; Times: 1
+	Query: "UWBM 7239" ; Times: 1
+	Query: "vntype:specimen class:aves stateprovince:&#34;oregon&#34; recordedby:alex. walker year &gt;= 1911 year &lt;= 1913" ; Times: 1
+	Query: "specificepithet:lineatus genus:Buteo country:&#34;Mexico&#34;" ; Times: 1
+	Query: "ampelion rubrocristata" ; Times: 3
+	Query: "Campephilus guatemalensis eggs" ; Times: 2
+	Query: "fulmarus glacialis year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "catalognumber:124091" ; Times: 1
+	Query: "California king snake" ; Times: 1
+	Query: "81138" ; Times: 1
+	Query: "Pelagodroma marina albiclunis" ; Times: 1
+	Query: "214833" ; Times: 1
+	Query: "Oceanodroma leucorhoa guadalupe year &gt;= 1965 year &lt;= 2020" ; Times: 1
+	Query: "vntype:specimen genus:Tyrannus class:aves stateprovince:&#34;oregon&#34; catalognumber:49551 institutioncode:WFVZ" ; Times: 1
+	Query: "Conirostrum cinereum year &gt; 1985 NOT CLO" ; Times: 1
+	Query: "Conirostrum sitticolor year &gt; 1985 NOT CLO" ; Times: 1
+	Query: "specificepithet:urophasianus genus:Centrocercus class:Aves stateprovince:&#34;Oregon&#34; year &gt;= 1950 year &lt;= 1959 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "dendroica kirtlandii february" ; Times: 1
+	Query: "Amazilia viridifrons" ; Times: 2
+	Query: "class:aves recordedby:sandman" ; Times: 2
+	Query: "family:Alcidae locality:Guadalupe country:&#34;Mexico&#34; (hypoleucus) year &gt;= 2000 year &lt;= 2019" ; Times: 1
+	Query: "172160" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Morel" ; Times: 1
+	Query: "16240" ; Times: 1
+	Query: "160145" ; Times: 1
+	Query: "coeligena iris" ; Times: 1
+	Query: "atlantic puffin" ; Times: 5
+	Query: "catalognumber:43732" ; Times: 1
+	Query: "ampelion rubrocristata year &gt; 1985" ; Times: 1
+	Query: "UWBM 50292" ; Times: 1
+	Query: "Passenger Pigeon" ; Times: 2
+	Query: "vntype:specimen (Vulture) institutioncode:WFVZ" ; Times: 2
+	Query: "puffinus assimilis kermadec" ; Times: 1
+	Query: "27725" ; Times: 1
+	Query: "circaetus gallicus vntype:specimen continent:africa year &lt;= 2020" ; Times: 1
+	Query: "162188" ; Times: 1
+	Query: "Buteo buteo vntype:specimen country:&#34;South Africa&#34; year &gt;= 1950 year &lt;= 2020" ; Times: 1
+	Query: "19138 cyrtonyx institutioncode:WFVZ" ; Times: 1
+	Query: "Apteryx mantelli" ; Times: 1
+	Query: "Serinus canaria canaria" ; Times: 1
+	Query: "catalognumber:832" ; Times: 1
+	Query: "pelecanoides urinatrix pacific" ; Times: 1
+	Query: "Elegant Quail" ; Times: 1
+	Query: "170267" ; Times: 1
+	Query: "mount diablo state park" ; Times: 1
+	Query: "eastern phoebe" ; Times: 1
+	Query: "50292 class:aves" ; Times: 1
+	Query: "catalognumber:17595" ; Times: 1
+	Query: "221428" ; Times: 1
+	Query: "UMMZ 1013" ; Times: 2
+	Query: "puffinus assimilis kermadecensis" ; Times: 1
+	Query: "Pernis celebensis vntype:specimen year &gt;= 1950 year &lt;= 2020" ; Times: 4
+	Query: "specificepithet:hypoleucus family:Alcidae country:&#34;Mexico&#34; (Negro)" ; Times: 1
+	Query: "aviceda leuphotes vntype:specimen year &gt;= 1930 year &lt;= 2020" ; Times: 1
+	Query: "albiclunis" ; Times: 1
+	Query: "210712" ; Times: 1
+	Query: "macheiramphus alcinus vntype:specimen year &gt;= 1950 year &lt;= 2020" ; Times: 2
+	Query: "institutioncode:WFVZ" ; Times: 1
+	Query: "procellaria parkinsoni" ; Times: 1
+	Query: "4576 dendrortyx institutioncode:WFVZ" ; Times: 1
+	Query: "recordedby:&#34;W. Day&#34;" ; Times: 1
+	Query: "catalognumber:52400" ; Times: 1
+	Query: "vntype:specimen genus:Tyrannus class:aves stateprovince:&#34;oregon&#34; institutioncode:WFVZ" ; Times: 3
+	Query: "specificepithet:hypogrammicum" ; Times: 1
+	Query: "Pelagodroma marina kermadec" ; Times: 1
+	Query: "vntype:specimen class:Aves recordedby:Brown year &gt;= 2004 year &lt;= 2020" ; Times: 1
+	Query: "Mushroom" ; Times: 1
+	Query: "181285" ; Times: 1
+	Query: "Cinclodes excelsior year &gt; 1985 NOT CLO" ; Times: 1
+	Query: "class:aves locality:kolyma recordedby:buturlin" ; Times: 1
+	Query: "anas discors" ; Times: 1
+	Query: "genus:Molothrus stateprovince:&#34;California&#34; year &lt;= 1910" ; Times: 1
+	Query: "specificepithet:gilvus genus:vireo stateprovince:&#34;wyoming&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:urophasianus genus:Centrocercus class:Aves stateprovince:&#34;Oregon&#34; year &gt;= 1920 year &lt;= 1930 basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:hypoleucus family:Alcidae country:&#34;Mexico&#34; (melpomene)" ; Times: 1
+	Query: "egg falco peregrinus" ; Times: 1
+	Query: "specificepithet:stolidus genus:anous country:&#34;philippines&#34;" ; Times: 1
+	Query: "Oreomanes fraseri year &gt; 1985 NOT CLO" ; Times: 1
+	Query: "specificepithet:urophasianus genus:Centrocercus class:Aves stateprovince:&#34;Oregon&#34; year &gt;= 1940 year &lt;= 1949 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "11796" ; Times: 1
+	Query: "181212" ; Times: 1
+	Query: "specificepithet:delawarensis genus:Larus county:&#34;Klamath&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "king eider" ; Times: 1
+	Query: "hylophilus pallidipectus" ; Times: 4
+	Query: "fulmarus bear" ; Times: 1
+	Query: "Falco deiroleucus" ; Times: 1
+	Query: "class:aves catalognumber:52400" ; Times: 3
+	Query: "39343" ; Times: 1
+	Query: "FMNH archilochus colubris" ; Times: 1
+	Query: "36879" ; Times: 2
+	Query: "megapodius freycinet freycinet" ; Times: 1
+	Query: "151306" ; Times: 1
+	Query: "Apapane" ; Times: 1
+	Query: "vntype:specimen class:aves stateprovince:&#34;Oregon&#34; country:&#34;United States&#34; recordedby:William E. Sherwood" ; Times: 2
+	Query: "buteo plagiatus year &gt;= 1950 year &lt;= 2020" ; Times: 1
+	Query: "puffinus phoenix" ; Times: 2
+	Query: "pelagodroma marina kermadec" ; Times: 2
+	Query: "onychorhynchus mexicanus" ; Times: 2
+	Query: "catalognumber:43246" ; Times: 1
+	Query: "Buteo albicaudatus" ; Times: 1
+	Query: "darcus peregrine falcon" ; Times: 1
+	Query: "Philortyx fasciatus" ; Times: 8
+	Query: "specificepithet:sasin genus:selasphorus county:&#34;San Luis Obispo&#34;" ; Times: 1
+	Query: "(window building strike)" ; Times: 1
+	Query: "124774" ; Times: 1
+	Query: "82104" ; Times: 2
+	Query: "class:aves catalognumber:156995" ; Times: 2
+	Query: "Dryocopus lineatus eggs" ; Times: 1
+	Query: "209785" ; Times: 1
+	Query: "128087" ; Times: 1
+	Query: "26637" ; Times: 1
+	Query: "16994 institutioncode:WFVZ" ; Times: 1
+	Query: "118964" ; Times: 1
+	Query: "class:Aves county:&#34;westmoreland&#34; stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "family:Alcidae locality:Guadalupe country:&#34;Mexico&#34; (Brachyramphus)" ; Times: 1
+	Query: "Attila spadiceus" ; Times: 1
+	Query: "snow owl" ; Times: 2
+	Query: "phoeniconaias minor" ; Times: 1
+	Query: "vntype:specimen specificepithet:fulva genus:petrochelidon" ; Times: 1
+	Query: "caprimulgus nigrescens eggs" ; Times: 1
+	Query: "himalayan monal" ; Times: 1
+	Query: "accipiter rhodogaster vntype:specimen year &lt;= 2020" ; Times: 1
+	Query: "184640" ; Times: 1
+	Query: "191582" ; Times: 1
+	Query: "33720 Aves" ; Times: 1
+	Query: "24101" ; Times: 1
+	Query: "168030" ; Times: 1
+	Query: "190692" ; Times: 1
+	Query: "bird egg vntype:specimen class:aves stateprovince:&#34;oregon&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "crecca minnesota" ; Times: 2
+	Query: "176095" ; Times: 1
+	Query: "family:Alcidae locality:Guadalupe country:&#34;Mexico&#34; (hypoleucus) year &gt;= 1850 year &lt;= 1950" ; Times: 1
+	Query: "Anairetes parulus year &gt; 1985" ; Times: 1
+	Query: "oceanites gracilis year &gt;= 1970 year &lt;= 2020" ; Times: 1
+	Query: "184512" ; Times: 1
+	Query: "Riparia riparia indica" ; Times: 1
+	Query: "vntype:specimen specificepithet:nigricans genus:Cercomacra" ; Times: 2
+	Query: "vntype:specimen class:aves stateprovince:&#34;Oregon&#34; country:&#34;United States&#34; recordedby:(William E. Sherwood) (W. E. Sherwood)" ; Times: 1
+	Query: "fulmarus glacialis svalbard" ; Times: 1
+	Query: "specificepithet:amazona genus:Chloroceryle country:&#34;Mexico&#34;" ; Times: 1
+	Query: "catalognumber:43064" ; Times: 1
+	Query: "class:aves recordedby:ritson basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:narcissina genus:Ficedula" ; Times: 2
+	Query: "pigeon guillemot" ; Times: 2
+	Query: "fulmarus glacialis bear" ; Times: 1
+	Query: "buteo archeri vntype:specimen (somaliland) year &gt;= 1920 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:melanospila genus:ptilinopus country:&#34;philippines&#34;" ; Times: 1
+	Query: "megapodius freycinet" ; Times: 12
+	Query: "specificepithet:aenea genus:Chloroceryle country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Amazilia cyanura" ; Times: 4
+	Query: "ARCHILOCHUS ALEXANDRI year &gt;= 1908 year &lt;= 1908" ; Times: 1
+	Query: "juliae" ; Times: 1
+	Query: "pachyptila turtur" ; Times: 1
+	Query: "154450" ; Times: 1
+	Query: "lizards" ; Times: 1
+	Query: "spectacled eider" ; Times: 2
+	Query: "phoenicopterus ruber" ; Times: 7
+	Query: "catalognumber:147193" ; Times: 1
+	Query: "Callipepla douglasii" ; Times: 3
+	Query: "family:Alcidae locality:Guadalupe country:&#34;Mexico&#34; (hypoleucus)" ; Times: 1
+	Query: "accipiter novaehollandiae year &gt;= 1950 year &lt;= 2020" ; Times: 1
+	Query: "vntype:specimen class:aves stateprovince:&#34;oregon&#34; country:&#34;United States&#34; recordedby:Alex Walker institutioncode:WFVZ" ; Times: 2
+	Query: "Vultures" ; Times: 1
+	Query: "204122" ; Times: 1
+	Query: "waved albatross" ; Times: 2
+	Query: "91643" ; Times: 1
+	Query: "darcus 1953" ; Times: 1
+	Query: "vntype:specimen class:aves stateprovince:&#34;oregon&#34; recordedby:alex walker year &gt;= 1911 year &lt;= 1913" ; Times: 2
+	Query: "fulmarus glacialis russia" ; Times: 1
+	Query: "207191" ; Times: 1
+	Query: "puffinus pacificus kermadec" ; Times: 1
+	Query: "fulmarus bear island" ; Times: 1
+	Query: "189994" ; Times: 1
+	Query: "22004 institutioncode:WFVZ" ; Times: 2
+	Query: "Falco sparvarius" ; Times: 1
+	Query: "vntype:specimen class:aves county:&#34;clackamas&#34; stateprovince:&#34;oregon&#34; country:&#34;United States&#34; recordedby:alex walker" ; Times: 1
+	Query: "catalognumber:60985" ; Times: 1
+	Query: "21000 institutioncode:WFVZ" ; Times: 1
+	Query: "genus:Brachyramphus family:Alcidae locality:Guadalupe country:&#34;Mexico&#34;" ; Times: 1
+	Query: "aviceda leuphotes vntype:specimen year &gt;= 1950 year &lt;= 2020" ; Times: 1
+	Query: "vntype:specimen class:aves country:&#34;United States&#34; recordedby:Alex Walker year &gt;= 1890 year &lt;= 1912" ; Times: 3
+	Query: "vntype:specimen class:aves country:&#34;United States&#34; recordedby:Alex Walker year &gt;= 1890 year &lt;= 1911" ; Times: 2
+	Query: "Larus delawarensis county:&#34;Klamath&#34; stateprovince:&#34;Oregon&#34;" ; Times: 2
+	Query: "25928" ; Times: 1
+	Query: "prairie chicken" ; Times: 3
+	Query: "225994" ; Times: 2
+	Query: "specificepithet:albonotatus genus:Buteo country:&#34;Mexico&#34;" ; Times: 3
+	Query: "168967" ; Times: 1
+	Query: "ninox scutulata" ; Times: 1
+	Query: "dendroica kirtlandii vntype:specimen" ; Times: 3
+	Query: "Ploceus hypoxanthus" ; Times: 1
+	Query: "vntype:specimen class:aves stateprovince:&#34;oregon&#34; recordedby:A. Walker" ; Times: 3
+	Query: "vntype:specimen specificepithet:pileatus genus:Coryphospingus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen (Vulture) AND (egg) institutioncode:WFVZ" ; Times: 1
+	Query: "specificepithet:montezumae genus:Cyrtonyx stateprovince:&#34;texas&#34; year &gt;= 1849 year &lt;= 1953" ; Times: 1
+	Query: "catalognumber:60986" ; Times: 1
+	Query: "Eurypyga helias" ; Times: 2
+	Query: "8855 colinus institutioncode:WFVZ" ; Times: 1
+	Query: "Ploceus manyar" ; Times: 1
+	Query: "Oceanodroma leucorhoa guadalupe year &gt;= 1960 year &lt;= 2020" ; Times: 1
+	Query: "Oceanodroma tethys" ; Times: 2
+	Query: "Foulehaio Samoa" ; Times: 1
+	Query: "specificepithet:Ciconia ciconia country:&#34;Romania&#34;" ; Times: 1
+	Query: "circaetus gallicus vntype:specimen continent:africa year &gt;= 1950 year &lt;= 2020" ; Times: 2
+	Query: "specificepithet:hypoleucus family:Alcidae country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Calliope Hummingbird" ; Times: 2
+	Query: "Cotinga amabilis" ; Times: 2
+	Query: "vntype:specimen class:aves stateprovince:&#34;oregon&#34; recordedby:Alex Walker" ; Times: 3
+	Query: "14267" ; Times: 1
+	Query: "puffinus bailloni" ; Times: 1
+	Query: "Sphenoeacus afer" ; Times: 2
+	Query: "elf" ; Times: 1
+	Query: "psittirostra" ; Times: 1
+	Query: "Pipilo erythrophthalmus magnirostris" ; Times: 1
+	Query: "specificepithet:delawarensis genus:Larus county:&#34;Klamath&#34; stateprovince:&#34;Oregon&#34; month &gt;= 4 month &lt;= 6" ; Times: 1
+	Query: "87330" ; Times: 1
+	Query: "specificepithet:stellatus genus:margarornis" ; Times: 4
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Oregon&#34; country:&#34;United States&#34; recordedby:Alex Walker (eggs) institutioncode:WFVZ" ; Times: 1
+	Query: "Pelagodroma marina new zealand" ; Times: 1
+	Query: "peregrine falcon 1940" ; Times: 1
+	Query: "34885" ; Times: 1
+	Query: "accipiter madagascariensis vntype:specimen year &gt;= 1950 year &lt;= 2020" ; Times: 1
+	Query: "class:aves locality:sycamore canyon" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:alex walker year &gt;= 1911 year &lt;= 1913" ; Times: 1
+	Query: "Pteruthius flaviscapis" ; Times: 2
+	Query: "specificepithet:delawarensis genus:Larus stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "pterodroma galapagos" ; Times: 1
+	Query: "144987" ; Times: 1
+	Query: "snowy owl" ; Times: 1
+	Query: "macheiramphus alcinus vntype:specimen year &lt;= 2020" ; Times: 2
+	Query: "FMNH gallinula chloropus" ; Times: 1
+	Query: "Phoenicurus hodgsoni" ; Times: 1
+	Query: "specificepithet:yncas genus:Cyanocorax" ; Times: 4
+	Query: "specificepithet:cyanopectus genus:ceyx country:&#34;philippines&#34;" ; Times: 1
+	Query: "mummy" ; Times: 2
+	Query: "7776 colinus institutioncode:WFVZ" ; Times: 1
+	Query: "184986" ; Times: 1
+	Query: "buteo archeri vntype:specimen (somalia) year &lt;= 2020" ; Times: 1
+	Query: "80282" ; Times: 1
+	Query: "UMMZ 175100" ; Times: 1
+	Query: "puffinus reunion" ; Times: 1
+	Query: "Prothonotary Warbler" ; Times: 3
+	Query: "family:Alcidae country:&#34;Mexico&#34; catalognumber:119 (Guadalupe) AND (NOT aleuticus NOT monocerata) institutioncode:WFVZ" ; Times: 1
+	Query: "nesillas typica" ; Times: 6
+	Query: "Mountain diablo California" ; Times: 1
+	Query: "184265" ; Times: 1
+	Query: "buteo archeri vntype:specimen (somaliland) year &lt;= 2020" ; Times: 1
+	Query: "buteo brachypterus vntype:specimen year &gt;= 1920 year &lt;= 2020" ; Times: 1
+	Query: "Anairetes parulus year &gt; 1985 NOT CLO" ; Times: 1
+	Query: "105222" ; Times: 1
+	Query: "monachus" ; Times: 1
+	Query: "85104" ; Times: 1
+	Query: "long-tailed duck" ; Times: 2
+	Query: "Ortygospiza atricollis" ; Times: 3
+	Query: "Abeillia abeillei" ; Times: 5
+	Query: "41501" ; Times: 2
+	Query: "145084" ; Times: 1
+	Query: "oceanodroma los coronados year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "puffinus assimilis new zealand" ; Times: 1
+	Query: "elanus scriptus vntype:specimen year &gt;= 1950 year &lt;= 2020" ; Times: 2
+	Query: "vntype:specimen specificepithet:cucullatus genus:Coryphospingus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer year &gt;= 1700 year &lt;= 1899 institutioncode:WFVZ" ; Times: 2
+	Query: "53075 dendrortyx institutioncode:WFVZ" ; Times: 1
+	Query: "genus:odontophorus institutioncode:WFVZ" ; Times: 3
+	Query: "genus:Alcippe country:&#34;Malaysia&#34;" ; Times: 2
+	Query: "Formicidae" ; Times: 1
+	Query: "FMNH cathartes aura" ; Times: 1
+	Query: "vntype:specimen genus:Promerops" ; Times: 1
+	Query: "Polioptila nelsoni vntype:specimen country:&#34;Mexico&#34;" ; Times: 3
+	Query: "FMNH podilymbus podiceps" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer year &gt;= 1900 year &lt;= 1950 institutioncode:WFVZ" ; Times: 1
+	Query: "Ceiba" ; Times: 2
+	Query: "Amazilia yucatanensis" ; Times: 2
+	Query: "labrador duck" ; Times: 2
+	Query: "red wing blackbird" ; Times: 1
+	Query: "fulmarus svalbard" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer year &gt;= 1951 year &lt;= 2020 institutioncode:WFVZ" ; Times: 1
+	Query: "8855 institutioncode:WFVZ" ; Times: 1
+	Query: "ramphocinclus" ; Times: 1
+	Query: "Parnell" ; Times: 2
+	Query: "221957" ; Times: 1
+	Query: "passenger pigeon" ; Times: 5
+	Query: "genus:otus stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "Cinclodes fuscus year &gt; 1985 NOT CLO" ; Times: 1
+	Query: "family:Alcidae locality:Guadalupe country:&#34;Mexico&#34; (murrelet)" ; Times: 1
+	Query: "locality:point lobos" ; Times: 1
+	Query: "126112" ; Times: 1
+	Query: "family:Alcidae locality:Guadalupe country:&#34;Mexico&#34; (hypoleucus) year &gt;= 1960 year &lt;= 2000" ; Times: 1
+	Query: "catalognumber:60987" ; Times: 1
+	Query: "rusty blackbird" ; Times: 1
+	Query: "buteo bannermani vntype:specimen year &gt;= 1900 year &lt;= 2020" ; Times: 1
+	Query: "catalognumber:4916" ; Times: 1
+	Query: "carolina parakeet" ; Times: 1
+	Query: "FMNH strix" ; Times: 1
+	Query: "specificepithet:ater genus:Molothrus county:&#34;Riverside&#34;" ; Times: 1
+	Query: "Copsychus saularis" ; Times: 2
+	Query: "Washington Pierce County junco" ; Times: 1
+	Query: "eastern screech owl stateprovince:&#34;tennessee&#34;" ; Times: 1
+	Query: "Buteo buteo vntype:specimen country:&#34;South Africa&#34; year &lt;= 2020" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; (Guadalupe) AND (NOT aleuticus NOT monocerata)" ; Times: 2
+	Query: "specificepithet:chalcopterus genus:rhinoptilus country:&#34;kenya&#34;" ; Times: 1
+	Query: "specificepithet:urophasianus genus:Centrocercus class:Aves stateprovince:&#34;Oregon&#34; basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "17179" ; Times: 1
+	Query: "specificepithet:megala genus:gallinago country:&#34;philippines&#34;" ; Times: 1
+	Query: "vntype:specimen class:aves stateprovince:&#34;Oregon&#34; country:&#34;United States&#34; recordedby:Sherwood" ; Times: 2
+	Query: "family:Alcidae country:&#34;Mexico&#34; (Brachyramphus)" ; Times: 1
+	Query: "genus:vireo gilvus class:aves stateprovince:&#34;wyoming&#34;" ; Times: 1
+	Query: "bushtit" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 71 (out of 1023 download events in this period)
+Total number of records downloaded: 29548
+Number of different countries: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 41
+	Country: Romania ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: El Salvador ; Times: 1
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: Netherlands ; Times: 4
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Guyana ; Times: 1
+	Country: Iraq ; Times: 1
+	Country: Norway ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-04 ; Times: 2
+	Date: 2020-02-24 ; Times: 5
+	Date: 2020-02-03 ; Times: 1
+	Date: 2020-02-26 ; Times: 4
+	Date: 2020-02-27 ; Times: 2
+	Date: 2020-02-20 ; Times: 3
+	Date: 2020-02-21 ; Times: 4
+	Date: 2020-02-22 ; Times: 4
+	Date: 2020-02-05 ; Times: 3
+	Date: 2020-02-08 ; Times: 3
+	Date: 2020-02-09 ; Times: 2
+	Date: 2020-02-28 ; Times: 5
+	Date: 2020-02-11 ; Times: 1
+	Date: 2020-02-10 ; Times: 2
+	Date: 2020-02-13 ; Times: 4
+	Date: 2020-02-12 ; Times: 3
+	Date: 2020-02-14 ; Times: 3
+	Date: 2020-02-16 ; Times: 2
+	Date: 2020-02-19 ; Times: 5
+	Date: 2020-02-18 ; Times: 3
+	Date: 2020-02-02 ; Times: 1
+	Date: 2020-02-25 ; Times: 4
+	Date: 2020-02-06 ; Times: 4
+	Date: 2020-02-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Passenger Pigeon" ; Times: 2
+	Query: "anthus lutescens" ; Times: 1
+	Query: "Cotinga amabilis" ; Times: 3
+	Query: "vntype:specimen specificepithet:fulva genus:petrochelidon" ; Times: 1
+	Query: "momotus mexicanus" ; Times: 1
+	Query: "mammal hasmass:1" ; Times: 1
+	Query: "Philortyx fasciatus" ; Times: 2
+	Query: "Casuarius vntype:specimen" ; Times: 1
+	Query: "pitta sordida" ; Times: 1
+	Query: "county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "class:aves stateprovince:&#34;minas gerais&#34;" ; Times: 1
+	Query: "Podiceps cristatus" ; Times: 1
+	Query: "country:&#34;Australia&#34; collectioncode:Eggs institutioncode:WFVZ" ; Times: 1
+	Query: "family:Alcidae locality:Guadalupe country:&#34;Mexico&#34; (hypoleucus) year &gt;= 1960 year &lt;= 2000" ; Times: 1
+	Query: "anthus correndera" ; Times: 1
+	Query: "recordedby:&#34;Beck&#34; institutioncode:WFVZ" ; Times: 1
+	Query: "specificepithet:urophasianus genus:Centrocercus class:Aves basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:varia genus:strix" ; Times: 1
+	Query: "class:Aves country:&#34;Colombia&#34; recordedby:Carriker" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "genus:Geococcyx country:&#34;Mexico&#34;" ; Times: 2
+	Query: "prinia gracilis" ; Times: 1
+	Query: "bushtit" ; Times: 1
+	Query: "vntype:specimen genus:Promerops" ; Times: 1
+	Query: "country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "wing order:Strigiformes class:Aves hasmass:1" ; Times: 2
+	Query: "vntype:specimen class:aves stateprovince:&#34;oregon&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Gallus varius" ; Times: 1
+	Query: "Iraq" ; Times: 1
+	Query: "louisiana" ; Times: 1
+	Query: "anthus bogotensis" ; Times: 1
+	Query: "specificepithet:californianus genus:Geococcyx country:&#34;Mexico&#34;" ; Times: 1
+	Query: "order:passeriformes hasmass:1" ; Times: 1
+	Query: "country:&#34;Romania&#34;" ; Times: 1
+	Query: "class:Aves (Aves AND Brasil OR Brazil)" ; Times: 1
+	Query: "Grus canadensis" ; Times: 1
+	Query: "Tyto alba" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Serle" ; Times: 1
+	Query: "prinia inornata" ; Times: 1
+	Query: "family:Alcidae locality:Guadalupe country:&#34;Mexico&#34; (hypoleucus) year &gt;= 2000 year &lt;= 2019" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; catalognumber:119 (Guadalupe) AND (NOT aleuticus NOT monocerata) institutioncode:WFVZ" ; Times: 1
+	Query: "genus:odontophorus institutioncode:WFVZ" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Morel" ; Times: 1
+	Query: "class:Aves county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Monachus" ; Times: 1
+	Query: "specificepithet:montezumae genus:Cyrtonyx stateprovince:&#34;texas&#34; year &gt;= 1849 year &lt;= 1953" ; Times: 1
+	Query: "genus:lagopus stateprovince:&#34;British columbia&#34;" ; Times: 1
+	Query: "family:Alcidae locality:Guadalupe country:&#34;Mexico&#34; (hypoleucus) year &gt;= 1930 year &lt;= 1960" ; Times: 1
+	Query: "riparia paludicola" ; Times: 1
+	Query: "fulmarus glacialis year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "el salvador" ; Times: 1
+	Query: "family:apodidae (fluid OR wet OR whole)" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Prigogine" ; Times: 1
+	Query: "west java" ; Times: 1
+	Query: "Arequipa" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer year &gt;= 1700 year &lt;= 1900" ; Times: 1
+	Query: "distance(location,geopoint(33.00721728873146,-116.82047633587615))&lt;47696" ; Times: 1
+	Query: "anthus hellmayri" ; Times: 1
+	Query: "guyana" ; Times: 1
+	Query: "county:&#34;San Diego&#34; year &gt;= 1996 year &lt;= 1999" ; Times: 1
+	Query: "megapodius freycinet" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer" ; Times: 1
+
+
+End of report.
